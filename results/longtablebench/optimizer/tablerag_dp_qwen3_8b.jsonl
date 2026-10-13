@@ -1,0 +1,545 @@
+{"question_id": "32k:multi:Multi-10:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-10:markdown:r2", "answer": "TR494"}
+{"question_id": "32k:multi:Multi-11:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-11:markdown:r2", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-15:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-15:markdown:r2", "answer": "TR192"}
+{"question_id": "32k:multi:Multi-17:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-17:markdown:r2", "answer": "TR494"}
+{"question_id": "32k:multi:Multi-18:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-18:markdown:r2", "answer": "TR494"}
+{"question_id": "32k:multi:Multi-20:markdown:r1", "answer": ["TR483", "TR153", "TR363", "TR361", "TR466"]}
+{"question_id": "32k:multi:Multi-20:markdown:r2", "answer": ["TR483", "TR153", "TR363", "TR361", "TR466"]}
+{"question_id": "32k:multi:Multi-20:markdown:r3", "answer": ["TR222"]}
+{"question_id": "32k:multi:Multi-23:markdown:r1", "answer": ["Circuit Mont-Tremblant", "Yas Marina Circuit", "Phoenix street circuit"]}
+{"question_id": "32k:multi:Multi-23:markdown:r2", "answer": ["Yas Marina Circuit", "Phoenix street circuit"]}
+{"question_id": "32k:multi:Multi-23:markdown:r3", "answer": ["Scuderia Ferrari", "Red Bull Racing", "McLaren"]}
+{"question_id": "32k:multi:Multi-23:markdown:r4", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-27:markdown:r1", "answer": ["Phoenix street circuit", "Circuit Mont-Tremblant", "Yas Marina Circuit", "Charade Circuit"]}
+{"question_id": "32k:multi:Multi-27:markdown:r2", "answer": ["Charade Circuit"]}
+{"question_id": "32k:multi:Multi-27:markdown:r3", "answer": []}
+{"question_id": "32k:multi:Multi-27:markdown:r4", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-28:markdown:r1", "answer": ["Yas Marina Circuit", "Circuit Mont-Tremblant", "Phoenix street circuit", "Circuit de Monaco", "Charade Circuit"]}
+{"question_id": "32k:multi:Multi-28:markdown:r2", "answer": ["Yas Marina Circuit", "Phoenix street circuit", "Circuit de Monaco", "Charade Circuit"]}
+{"question_id": "32k:multi:Multi-28:markdown:r3", "answer": "Ferrari"}
+{"question_id": "32k:multi:Multi-29:markdown:r1", "answer": ["Yas Marina Circuit", "Circuit Mont-Tremblant", "Phoenix street circuit", "Circuit de Monaco", "Charade Circuit"]}
+{"question_id": "32k:multi:Multi-29:markdown:r2", "answer": ["Yas Marina Circuit", "Phoenix street circuit", "Circuit de Monaco", "Charade Circuit"]}
+{"question_id": "32k:multi:Multi-29:markdown:r3", "answer": ["McLaren", "Ferrari", "Red Bull Racing"]}
+{"question_id": "32k:multi:Multi-2:markdown:r1", "answer": ["h", "h", "h", "h", "h"]}
+{"question_id": "32k:multi:Multi-2:markdown:r2", "answer": ["h", "h", "h", "h", "h"]}
+{"question_id": "32k:multi:Multi-2:markdown:r3", "answer": ["h", "h", "h", "h", "h"]}
+{"question_id": "32k:multi:Multi-33:markdown:r1", "answer": [{"potential": "81", "jumping": "74", "stamina": "77", "strength": "91", "gk_diving": "6"}, {"potential": "81", "jumping": "74", "stamina": "73", "strength": "72", "gk_diving": "11"}, {"potential": "83", "jumping": "76", "stamina": "71", "strength": "77", "gk_diving": "9"}]}
+{"question_id": "32k:multi:Multi-33:markdown:r2", "answer": [{"preferred_foot": "right", "attacking_work_rate": "medium"}, {"preferred_foot": "right", "attacking_work_rate": "medium"}, {"preferred_foot": "right", "attacking_work_rate": "medium"}]}
+{"question_id": "32k:multi:Multi-33:markdown:r3", "answer": [{"attacking_work_rate": "high"}]}
+{"question_id": "32k:multi:Multi-34:markdown:r1", "answer": ["Évian Thonon Gaillard FC", "Le Mans FC", "FC Ingolstadt 04", "Go Ahead Eagles", "En Avant de Guingamp"]}
+{"question_id": "32k:multi:Multi-34:markdown:r2", "answer": [108893, 8654, 6433, 8682, 4087]}
+{"question_id": "32k:multi:Multi-34:markdown:r3", "answer": [111271, 1739, 45, 110374, 19]}
+{"question_id": "32k:multi:Multi-35_INI:markdown:r1", "answer": ["Fresno", "Sacramento", "San Jose", "Ventura", "Torrance"]}
+{"question_id": "32k:multi:Multi-35_INI:markdown:r2", "answer": ["Ventura"]}
+{"question_id": "32k:multi:Multi-35_INI:markdown:r3", "answer": "CA"}
+{"question_id": "32k:multi:Multi-38:markdown:r1", "answer": ["TR345_4_5", "TR335_1_2", "TR343_5_6", "TR353_5_6"]}
+{"question_id": "32k:multi:Multi-38:markdown:r2", "answer": ["TR067_5_6"]}
+{"question_id": "32k:multi:Multi-38:markdown:r3", "answer": ["TR067_26_27", "TR067_32_33", "TR067_34_47"]}
+{"question_id": "32k:multi:Multi-38_INI:markdown:r1", "answer": ["TR345_4_5", "TR335_1_2", "TR343_5_6", "TR353_5_6"]}
+{"question_id": "32k:multi:Multi-38_INI:markdown:r2", "answer": ["TR067_5_6"]}
+{"question_id": "32k:multi:Multi-38_INI:markdown:r3", "answer": ["TR067_26_27", "TR067_32_33", "TR067_34_47"]}
+{"question_id": "32k:multi:Multi-3:markdown:r1", "answer": ["+"]}
+{"question_id": "32k:multi:Multi-3:markdown:r2", "answer": ["+"]}
+{"question_id": "32k:multi:Multi-3:markdown:r3", "answer": ["TR496_7_56"]}
+{"question_id": "32k:multi:Multi-40:markdown:r1", "answer": "commander"}
+{"question_id": "32k:multi:Multi-40:markdown:r2", "answer": "2021-07-01"}
+{"question_id": "32k:multi:Multi-40:markdown:r3", "answer": "RAV"}
+{"question_id": "32k:multi:Multi-40:markdown:r4", "answer": "no"}
+{"question_id": "32k:multi:Multi-43:markdown:r1", "answer": ["TR345_4_5"]}
+{"question_id": "32k:multi:Multi-43:markdown:r2", "answer": ["TR067_5_6", "TR067_26_27"]}
+{"question_id": "32k:multi:Multi-43:markdown:r3", "answer": "TR067_32_33"}
+{"question_id": "32k:multi:Multi-43_INI:markdown:r1", "answer": ["TR345_4_5"]}
+{"question_id": "32k:multi:Multi-43_INI:markdown:r2", "answer": ["TR067_5_6", "TR067_26_27"]}
+{"question_id": "32k:multi:Multi-43_INI:markdown:r3", "answer": "TR067_32_33"}
+{"question_id": "32k:multi:Multi-44:markdown:r1", "answer": ["TR345_3", "TR354_7", "TR484_8", "TR461_4", "TR340_5"]}
+{"question_id": "32k:multi:Multi-44:markdown:r2", "answer": ["TR193_37", "TR193_32"]}
+{"question_id": "32k:multi:Multi-44:markdown:r3", "answer": "o"}
+{"question_id": "32k:multi:Multi-44_INI:markdown:r1", "answer": ["TR345_3", "TR354_7", "TR484_8", "TR461_4", "TR340_5"]}
+{"question_id": "32k:multi:Multi-44_INI:markdown:r2", "answer": ["TR193_37", "TR193_32"]}
+{"question_id": "32k:multi:Multi-44_INI:markdown:r3", "answer": "o"}
+{"question_id": "32k:multi:Multi-45_INI:markdown:r1", "answer": {"bond_id": "TR345_4_5", "molecule_id": "TR345", "bond_type": "="}}
+{"question_id": "32k:multi:Multi-45_INI:markdown:r2", "answer": "TR473"}
+{"question_id": "32k:multi:Multi-45_INI:markdown:r3", "answer": 1}
+{"question_id": "32k:multi:Multi-47:markdown:r1", "answer": ["TR345_4_5", "TR353_5_6"]}
+{"question_id": "32k:multi:Multi-47:markdown:r2", "answer": ["TR345_4_5"]}
+{"question_id": "32k:multi:Multi-47:markdown:r3", "answer": ["TR354"]}
+{"question_id": "32k:multi:Multi-48:markdown:r1", "answer": [74, 75, 78, 75, 72]}
+{"question_id": "32k:multi:Multi-48:markdown:r2", "answer": [81, 78, 83, 82]}
+{"question_id": "32k:multi:Multi-48:markdown:r3", "answer": [75, 75, 74]}
+{"question_id": "32k:multi:Multi-48:markdown:r4", "answer": [77]}
+{"question_id": "32k:multi:Multi-49:markdown:r1", "answer": ["Atlanta", "Louisville", "Cairo"]}
+{"question_id": "32k:multi:Multi-49:markdown:r2", "answer": ["Louisville"]}
+{"question_id": "32k:multi:Multi-49:markdown:r3", "answer": ["Louisville"]}
+{"question_id": "32k:multi:Multi-4:markdown:r1", "answer": ["TR483_10", "TR099_28", "TR060_44", "TR275_3", "TR391_12"]}
+{"question_id": "32k:multi:Multi-4:markdown:r2", "answer": ["TR483_10", "TR099_28", "TR060_44", "TR275_3", "TR391_12"]}
+{"question_id": "32k:multi:Multi-4:markdown:r3", "answer": "TR483_10"}
+{"question_id": "32k:multi:Multi-50:markdown:r1", "answer": ["TEACH Tech Charter High", "Alfred B. Nobel Charter Middle"]}
+{"question_id": "32k:multi:Multi-50:markdown:r2", "answer": ["TEACH Tech Charter High", "Alfred B. Nobel Charter Middle"]}
+{"question_id": "32k:multi:Multi-50:markdown:r3", "answer": ["TEACH Tech Charter High", "Alfred B. Nobel Charter Middle"]}
+{"question_id": "32k:multi:Multi-7:markdown:r1", "answer": ["TR494_17", "TR185_14", "TR021_46", "TR496_108"]}
+{"question_id": "32k:multi:Multi-7:markdown:r2", "answer": ["TR361"]}
+{"question_id": "32k:multi:Multi-7:markdown:r3", "answer": ["TR185"]}
+{"question_id": "32k:multi:Multi-8:markdown:r1", "answer": ["molecule1", "molecule2", "molecule3"]}
+{"question_id": "32k:multi:Multi-8:markdown:r2", "answer": ["molecule1", "molecule2", "molecule3"]}
+{"question_id": "32k:multi:Multi-8:markdown:r3", "answer": ["TR483"]}
+{"question_id": "32k:multi:Multi-9:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-9:markdown:r2", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-9:markdown:r3", "answer": "TR496"}
+{"question_id": "32k:single:Single-0:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-100:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-100_INI:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-105:markdown:r1", "answer": [1194270, 1609520, 1584500]}
+{"question_id": "32k:single:Single-10:markdown:r1", "answer": [56266, 57124, 49466]}
+{"question_id": "32k:single:Single-110:markdown:r1", "answer": 2756}
+{"question_id": "32k:single:Single-112:markdown:r1", "answer": "DLC"}
+{"question_id": "32k:single:Single-121:markdown:r1", "answer": 22757}
+{"question_id": "32k:single:Single-126:markdown:r1", "answer": "Supported"}
+{"question_id": "32k:single:Single-12:markdown:r1", "answer": "AVESHAM DEVELOPMENT, LLC"}
+{"question_id": "32k:single:Single-131:markdown:r1", "answer": [9216, 910]}
+{"question_id": "32k:single:Single-132:markdown:r1", "answer": [2, 3, 5]}
+{"question_id": "32k:single:Single-134:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-138:markdown:r1", "answer": []}
+{"question_id": "32k:single:Single-139:markdown:r1", "answer": "Supported"}
+{"question_id": "32k:single:Single-140:markdown:r1", "answer": "LOVER TRUMAN"}
+{"question_id": "32k:single:Single-141:markdown:r1", "answer": [212621]}
+{"question_id": "32k:single:Single-144:markdown:r1", "answer": ["rcs", "dina mk", "Digital Gal", "tim_yates", "Egon Willighagen"]}
+{"question_id": "32k:single:Single-145:markdown:r1", "answer": []}
+{"question_id": "32k:single:Single-146:markdown:r1", "answer": ["TR484", "TR493", "TR134", "TR343", "TR435"]}
+{"question_id": "32k:single:Single-14:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-150:markdown:r1", "answer": [144, 128]}
+{"question_id": "32k:single:Single-151:markdown:r1", "answer": []}
+{"question_id": "32k:single:Single-153:markdown:r1", "answer": ["Power Girl"]}
+{"question_id": "32k:single:Single-155:markdown:r1", "answer": ["ford", "chevrolet", "toyota"]}
+{"question_id": "32k:single:Single-156:markdown:r1", "answer": ["peugeaut", "chrysler"]}
+{"question_id": "32k:single:Single-157:markdown:r1", "answer": ["ford", "chevrolet", "toyota"]}
+{"question_id": "32k:single:Single-15:markdown:r1", "answer": {"App": "Union League", "Category": "FAMILY", "Size": "38MB", "Type": "Free", "Genres": "Role-Playing"}}
+{"question_id": "32k:single:Single-17:markdown:r1", "answer": [1107, 229, 247, 227, 239]}
+{"question_id": "32k:single:Single-18:markdown:r1", "answer": [9619, 148]}
+{"question_id": "32k:single:Single-19:markdown:r1", "answer": [151, 1539, 3264, 3599, 766]}
+{"question_id": "32k:single:Single-19_INI:markdown:r1", "answer": ["seven hundred and sixty-six", "three thousand, eight hundred", "seven hundred and sixty-five"]}
+{"question_id": "32k:single:Single-1:markdown:r1", "answer": "Casa Grande High"}
+{"question_id": "32k:single:Single-20:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-27:markdown:r1", "answer": [23, 2, 20, 8]}
+{"question_id": "32k:single:Single-2:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-32:markdown:r1", "answer": [5424, 5353]}
+{"question_id": "32k:single:Single-33:markdown:r1", "answer": [204, 1727958, 1930705, 174, 215]}
+{"question_id": "32k:single:Single-34:markdown:r1", "answer": ["F", "R16", "F", "R16"]}
+{"question_id": "32k:single:Single-35:markdown:r1", "answer": "1"}
+{"question_id": "32k:single:Single-37:markdown:r1", "answer": 35873}
+{"question_id": "32k:single:Single-3:markdown:r1", "answer": 2006}
+{"question_id": "32k:single:Single-40:markdown:r1", "answer": {"carbo": "17.06", "cholestrl": "0", "vitamin_c": "204.48", "fiber": "2.56", "pcnt_cal_prot": "22.17"}}
+{"question_id": "32k:single:Single-41:markdown:r1", "answer": 2269}
+{"question_id": "32k:single:Single-42:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-44:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-49:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-4:markdown:r1", "answer": []}
+{"question_id": "32k:single:Single-50:markdown:r1", "answer": {"book_id": "8797", "title": "The Return of the Dancing Master", "isbn13": "9781400076956", "publisher_id": "2121", "index": "nan"}}
+{"question_id": "32k:single:Single-51:markdown:r1", "answer": 24671}
+{"question_id": "32k:single:Single-54:markdown:r1", "answer": 31493}
+{"question_id": "32k:single:Single-55:markdown:r1", "answer": 24671}
+{"question_id": "32k:single:Single-56:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-57:markdown:r1", "answer": [1095208, 3168211, 2197093]}
+{"question_id": "32k:single:Single-58:markdown:r1", "answer": "dc82ee998151e05c5e87d48dcfb41ade"}
+{"question_id": "32k:single:Single-59:markdown:r1", "answer": [7340, 48, 69296, 51388]}
+{"question_id": "32k:single:Single-5:markdown:r1", "answer": 5314}
+{"question_id": "32k:single:Single-63:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-65:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-6:markdown:r1", "answer": [174116, 174116, 174116, 174116, 174116]}
+{"question_id": "32k:single:Single-72:markdown:r1", "answer": {"id": "17934", "date": "2004-10-04", "text": "Can target a card with no color words on it.", "uuid": "85feac1f-31e0-5d87-a3ad-6ffaddcb8e5f", "index": "nan"}}
+{"question_id": "32k:single:Single-74:markdown:r1", "answer": {"business_id": "36589", "date": "2014-03-06", "violation_type_id": "103138", "risk_category": "Low Risk", "description": "Improper storage use or identification of toxic substances"}}
+{"question_id": "32k:single:Single-76:markdown:r1", "answer": []}
+{"question_id": "32k:single:Single-78:markdown:r1", "answer": [1373, 2, 1904, 2]}
+{"question_id": "32k:single:Single-79:markdown:r1", "answer": "nan"}
+{"question_id": "32k:single:Single-7:markdown:r1", "answer": 3017}
+{"question_id": "32k:single:Single-89:markdown:r1", "answer": 3}
+{"question_id": "32k:single:Single-90:markdown:r1", "answer": [1492980, 4980060]}
+{"question_id": "32k:single:Single-91:markdown:r1", "answer": {"Airline": "6", "FlightNo": "479", "SourceAirport": "AEL", "DestAirport": "APG", "index": "nan"}}
+{"question_id": "8k:multi:Multi-0:markdown:r1", "answer": ["TR060_2", "TR060_3", "TR060_30", "TR060_13", "TR060_67"]}
+{"question_id": "8k:multi:Multi-0:markdown:r2", "answer": ["TR267_3_4"]}
+{"question_id": "8k:multi:Multi-0:markdown:r3", "answer": "TR060"}
+{"question_id": "8k:multi:Multi-101:markdown:r1", "answer": ["Kern", "Kern", "Kern"]}
+{"question_id": "8k:multi:Multi-101:markdown:r2", "answer": ["Kern", "Kern"]}
+{"question_id": "8k:multi:Multi-101:markdown:r3", "answer": ["Kern"]}
+{"question_id": "8k:multi:Multi-107_INI:markdown:r1", "answer": ["1001", "1002", "1003", "1004", "1005"]}
+{"question_id": "8k:multi:Multi-107_INI:markdown:r2", "answer": ["1001", "1002", "1003", "1004", "1005"]}
+{"question_id": "8k:multi:Multi-107_INI:markdown:r3", "answer": ["1001", "1002", "1003", "1004", "1005"]}
+{"question_id": "8k:multi:Multi-109:markdown:r1", "answer": [31188500]}
+{"question_id": "8k:multi:Multi-109:markdown:r2", "answer": [31188500, 95301500]}
+{"question_id": "8k:multi:Multi-109:markdown:r3", "answer": [31188500, 95301500]}
+{"question_id": "8k:multi:Multi-115:markdown:r1", "answer": ["TR267", "TR136", "TR363", "TR103"]}
+{"question_id": "8k:multi:Multi-115:markdown:r2", "answer": ["TR363"]}
+{"question_id": "8k:multi:Multi-115:markdown:r3", "answer": ["TR439_17", "TR439_3", "TR021_2"]}
+{"question_id": "8k:multi:Multi-115_INI:markdown:r1", "answer": ["TR267", "TR136", "TR363", "TR103"]}
+{"question_id": "8k:multi:Multi-115_INI:markdown:r2", "answer": ["TR363"]}
+{"question_id": "8k:multi:Multi-115_INI:markdown:r3", "answer": ["TR439_17", "TR439_3", "TR021_2"]}
+{"question_id": "8k:multi:Multi-116:markdown:r1", "answer": ["TR153_3", "TR089_1", "TR032_8"]}
+{"question_id": "8k:multi:Multi-116:markdown:r2", "answer": ["TR153_3", "TR032_8"]}
+{"question_id": "8k:multi:Multi-116:markdown:r3", "answer": ["TR153_3"]}
+{"question_id": "8k:multi:Multi-11:markdown:r1", "answer": [31188500]}
+{"question_id": "8k:multi:Multi-11:markdown:r2", "answer": [31188500]}
+{"question_id": "8k:multi:Multi-11:markdown:r3", "answer": ["Prague 10"]}
+{"question_id": "8k:multi:Multi-11:markdown:r4", "answer": 123456}
+{"question_id": "8k:multi:Multi-120:markdown:r1", "answer": ["TR153_3"]}
+{"question_id": "8k:multi:Multi-120:markdown:r2", "answer": ["TR153_3"]}
+{"question_id": "8k:multi:Multi-120:markdown:r3", "answer": ["TR439_17", "TR439_3"]}
+{"question_id": "8k:multi:Multi-125:markdown:r1", "answer": ["Los Angeles"]}
+{"question_id": "8k:multi:Multi-125:markdown:r2", "answer": ["Los Angeles"]}
+{"question_id": "8k:multi:Multi-125:markdown:r3", "answer": "igonzalez@ceres.k12.ca.us"}
+{"question_id": "8k:multi:Multi-127:markdown:r1", "answer": {"UserId": "52874", "Id": "88574"}}
+{"question_id": "8k:multi:Multi-127:markdown:r2", "answer": {"UserId": "52874", "Id": "88574"}}
+{"question_id": "8k:multi:Multi-127:markdown:r3", "answer": "2014-04-15 14:30:00"}
+{"question_id": "8k:multi:Multi-142:markdown:r1", "answer": ["Football game", "Football game", "Women's Soccer"]}
+{"question_id": "8k:multi:Multi-142:markdown:r2", "answer": ["Football game", "Women's Soccer"]}
+{"question_id": "8k:multi:Multi-142:markdown:r3", "answer": ["Campus Football stadium", "Campus Soccer/Lacrosse stadium"]}
+{"question_id": "8k:multi:Multi-148:markdown:r1", "answer": ["card name"]}
+{"question_id": "8k:multi:Multi-148:markdown:r2", "answer": "card name"}
+{"question_id": "8k:multi:Multi-149:markdown:r1", "answer": [{"borderColor": "black", "colors": "nan"}, {"borderColor": "black", "colors": "R"}, {"borderColor": "black", "colors": "R"}]}
+{"question_id": "8k:multi:Multi-149:markdown:r2", "answer": ["arena,mtgo,paper", "paper"]}
+{"question_id": "8k:multi:Multi-149:markdown:r3", "answer": ["arena,mtgo,paper", "paper"]}
+{"question_id": "8k:multi:Multi-153:markdown:r1", "answer": ["dina mk", "user53774", "user49661", "Shinken", "bosforBlues"]}
+{"question_id": "8k:multi:Multi-153:markdown:r2", "answer": []}
+{"question_id": "8k:multi:Multi-153:markdown:r3", "answer": "MaxW"}
+{"question_id": "8k:multi:Multi-159:markdown:r1", "answer": [74, 79, 79]}
+{"question_id": "8k:multi:Multi-159:markdown:r2", "answer": [74, 79, 79]}
+{"question_id": "8k:multi:Multi-159:markdown:r3", "answer": 7}
+{"question_id": "8k:multi:Multi-160_INI:markdown:r1", "answer": [73, 73]}
+{"question_id": "8k:multi:Multi-160_INI:markdown:r2", "answer": [73]}
+{"question_id": "8k:multi:Multi-160_INI:markdown:r3", "answer": [73]}
+{"question_id": "8k:multi:Multi-168:markdown:r1", "answer": ["TR340_5", "TR431_3", "TR449_10", "TR455_17", "TR296_14"]}
+{"question_id": "8k:multi:Multi-168:markdown:r2", "answer": ["TR429_42", "TR429_11"]}
+{"question_id": "8k:multi:Multi-172:markdown:r1", "answer": ["Magisches Fernrohr", "진화하는 야생지"]}
+{"question_id": "8k:multi:Multi-172:markdown:r2", "answer": ["Boggart exiliado"]}
+{"question_id": "8k:multi:Multi-175:markdown:r1", "answer": {"Id": "119", "TagName": "kernel", "Count": "219", "ExcerptPostId": "65955", "WikiPostId": "65954"}}
+{"question_id": "8k:multi:Multi-175:markdown:r2", "answer": {"Count": "219"}}
+{"question_id": "8k:multi:Multi-175:markdown:r3", "answer": {"ExcerptPostId": "65955", "WikiPostId": "65954"}}
+{"question_id": "8k:multi:Multi-191:markdown:r1", "answer": {"expense_id": "rec017x6R3hQqkLAo", "expense_description": "Post Cards, Posters", "approved": "1", "link_to_member": "rec4BLdZHS2Blfp4v", "link_to_budget": "recvKTAWAFKkVNnXQ"}}
+{"question_id": "8k:multi:Multi-191:markdown:r2", "answer": "Unsupported"}
+{"question_id": "8k:multi:Multi-191:markdown:r3", "answer": {"approved": "1"}}
+{"question_id": "8k:multi:Multi-191:markdown:r4", "answer": {"expense_date": "2019-08-20"}}
+{"question_id": "8k:multi:Multi-19:markdown:r1", "answer": ["POPLATEK MESICNE", "POPLATEK MESICNE"]}
+{"question_id": "8k:multi:Multi-19:markdown:r2", "answer": ["POPLATEK MESICNE"]}
+{"question_id": "8k:multi:Multi-19:markdown:r3", "answer": ["POPLATEK MESICNE"]}
+{"question_id": "8k:multi:Multi-210:markdown:r1", "answer": ["TR340_5", "TR431_3", "TR449_10", "TR296_14", "TR059_3"]}
+{"question_id": "8k:multi:Multi-210:markdown:r2", "answer": ["TR431_3", "TR449_10"]}
+{"question_id": "8k:multi:Multi-210:markdown:r3", "answer": ["TR429_42"]}
+{"question_id": "8k:multi:Multi-211:markdown:r1", "answer": ["TR076", "TR210"]}
+{"question_id": "8k:multi:Multi-211:markdown:r2", "answer": ["TR076"]}
+{"question_id": "8k:multi:Multi-211:markdown:r3", "answer": ["TR076_18"]}
+{"question_id": "8k:multi:Multi-214:markdown:r1", "answer": ["card1", "card2"]}
+{"question_id": "8k:multi:Multi-214:markdown:r2", "answer": ["card2"]}
+{"question_id": "8k:multi:Multi-214:markdown:r3", "answer": ["card2"]}
+{"question_id": "8k:multi:Multi-215:markdown:r1", "answer": ["card1", "card2", "card3"]}
+{"question_id": "8k:multi:Multi-215:markdown:r2", "answer": ["card1", "card2", "card3"]}
+{"question_id": "8k:multi:Multi-215:markdown:r3", "answer": ["card1", "card2", "card3"]}
+{"question_id": "8k:multi:Multi-227_INI:markdown:r1", "answer": ["Luisa", "Adela"]}
+{"question_id": "8k:multi:Multi-227_INI:markdown:r2", "answer": ["Luisa", "Madelyn", "Adela"]}
+{"question_id": "8k:multi:Multi-227_INI:markdown:r3", "answer": ["Luisa", "Madelyn", "Adela"]}
+{"question_id": "8k:multi:Multi-227_INI:markdown:r4", "answer": ["Trent", "Madelyn", "Sherri", "Luisa", "Tyler"]}
+{"question_id": "8k:multi:Multi-229:markdown:r1", "answer": ["TR359_4_6", "TR064_8_15", "TR464_3_4", "TR304_2_5", "TR433_25_44"]}
+{"question_id": "8k:multi:Multi-229:markdown:r2", "answer": ["TR464_3_4", "TR435_18_43"]}
+{"question_id": "8k:multi:Multi-229:markdown:r3", "answer": ["TR444_12_13"]}
+{"question_id": "8k:multi:Multi-233:markdown:r1", "answer": ["Planeswalker"]}
+{"question_id": "8k:multi:Multi-233:markdown:r2", "answer": ["Planeswalker"]}
+{"question_id": "8k:multi:Multi-233:markdown:r3", "answer": ["mythic"]}
+{"question_id": "8k:multi:Multi-233_INI:markdown:r1", "answer": ["Planeswalker", "Sorcery", "Creature"]}
+{"question_id": "8k:multi:Multi-233_INI:markdown:r2", "answer": ["Planeswalker", "Sorcery", "Creature"]}
+{"question_id": "8k:multi:Multi-233_INI:markdown:r3", "answer": ["mythic"]}
+{"question_id": "8k:multi:Multi-235:markdown:r1", "answer": ["Ben English"]}
+{"question_id": "8k:multi:Multi-235:markdown:r2", "answer": ["Ben English"]}
+{"question_id": "8k:multi:Multi-235:markdown:r3", "answer": ["Gregory Crosswhite"]}
+{"question_id": "8k:multi:Multi-242:markdown:r1", "answer": ["Silverstone Circuit", "Circuit of the Americas", "Las Vegas Street Circuit"]}
+{"question_id": "8k:multi:Multi-242:markdown:r2", "answer": ["Circuit of the Americas", "Las Vegas Street Circuit"]}
+{"question_id": "8k:multi:Multi-242:markdown:r3", "answer": []}
+{"question_id": "8k:multi:Multi-30:markdown:r1", "answer": ["ensign", "brm-ford", "cooper-ats"]}
+{"question_id": "8k:multi:Multi-30:markdown:r2", "answer": ["brabham-climax"]}
+{"question_id": "8k:multi:Multi-30:markdown:r3", "answer": "British"}
+{"question_id": "8k:multi:Multi-32:markdown:r1", "answer": {"district_id": "34", "client_id": "3028"}}
+{"question_id": "8k:multi:Multi-32:markdown:r2", "answer": ["3028"]}
+{"question_id": "8k:multi:Multi-32:markdown:r3", "answer": "Unsupported"}
+{"question_id": "8k:multi:Multi-33_INI:markdown:r1", "answer": ["ensign", "brm-ford", "cooper-ats"]}
+{"question_id": "8k:multi:Multi-33_INI:markdown:r2", "answer": "no"}
+{"question_id": "8k:multi:Multi-35:markdown:r1", "answer": [31188500, 95301500]}
+{"question_id": "8k:multi:Multi-35:markdown:r2", "answer": []}
+{"question_id": "8k:multi:Multi-35:markdown:r3", "answer": []}
+{"question_id": "8k:multi:Multi-47_INI:markdown:r1", "answer": ["10001", "10002", "10003"]}
+{"question_id": "8k:multi:Multi-47_INI:markdown:r2", "answer": ["10001", "10002", "10003"]}
+{"question_id": "8k:multi:Multi-48:markdown:r1", "answer": ["TR222"]}
+{"question_id": "8k:multi:Multi-48:markdown:r2", "answer": ["n"]}
+{"question_id": "8k:multi:Multi-48_INI:markdown:r1", "answer": ["TR222"]}
+{"question_id": "8k:multi:Multi-48_INI:markdown:r2", "answer": ["n"]}
+{"question_id": "8k:multi:Multi-52:markdown:r1", "answer": "Supported"}
+{"question_id": "8k:multi:Multi-52:markdown:r2", "answer": {"nationality": "Canadian", "constructorRef": "stebro", "name": "Stebro"}}
+{"question_id": "8k:multi:Multi-54:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:multi:Multi-54:markdown:r2", "answer": "http://en.wikipedia.org/wiki/Force_India"}
+{"question_id": "8k:multi:Multi-56:markdown:r1", "answer": {"constructorRef": "brabham-climax", "name": "Brabham-Climax", "nationality": "British", "url": "http://en.wikipedia.org/wiki/Brabham"}}
+{"question_id": "8k:multi:Multi-56:markdown:r2", "answer": ["Murray", "Morgan"]}
+{"question_id": "8k:multi:Multi-60:markdown:r1", "answer": {"client_id": "3028", "district_id": "34"}}
+{"question_id": "8k:multi:Multi-60:markdown:r2", "answer": {"client_id": "3028"}}
+{"question_id": "8k:multi:Multi-60:markdown:r3", "answer": "Unsupported"}
+{"question_id": "8k:multi:Multi-69:markdown:r1", "answer": {"atom_id": "TR155_10", "molecule_id": "TR155", "element": "cl"}}
+{"question_id": "8k:multi:Multi-69:markdown:r2", "answer": "TR155"}
+{"question_id": "8k:multi:Multi-72:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:multi:Multi-72:markdown:r2", "answer": ["TR222_2", "TR222_9", "TR222_8"]}
+{"question_id": "8k:multi:Multi-72:markdown:r3", "answer": ["TR222_2_22", "TR222_4_5"]}
+{"question_id": "8k:multi:Multi-7:markdown:r1", "answer": ["Traditional", "Traditional"]}
+{"question_id": "8k:multi:Multi-7:markdown:r2", "answer": ["Traditional", "Traditional"]}
+{"question_id": "8k:multi:Multi-7:markdown:r3", "answer": "nan"}
+{"question_id": "8k:multi:Multi-85:markdown:r1", "answer": ["District A", "District B", "District C"]}
+{"question_id": "8k:multi:Multi-85:markdown:r2", "answer": ["District A", "District B", "District C"]}
+{"question_id": "8k:multi:Multi-85:markdown:r3", "answer": ["District A", "District B", "District C"]}
+{"question_id": "8k:multi:Multi-88:markdown:r1", "answer": ["district1", "district2"]}
+{"question_id": "8k:multi:Multi-88:markdown:r2", "answer": "district1"}
+{"question_id": "8k:multi:Multi-88:markdown:r3", "answer": [95301500]}
+{"question_id": "8k:multi:Multi-91_INI:markdown:r1", "answer": []}
+{"question_id": "8k:multi:Multi-91_INI:markdown:r2", "answer": []}
+{"question_id": "8k:multi:Multi-91_INI:markdown:r3", "answer": []}
+{"question_id": "8k:multi:Multi-96:markdown:r1", "answer": ["district1", "district2"]}
+{"question_id": "8k:multi:Multi-96:markdown:r2", "answer": ["Chomutov"]}
+{"question_id": "8k:multi:Multi-96:markdown:r3", "answer": ["account1", "account2"]}
+{"question_id": "8k:multi:Multi-98:markdown:r1", "answer": ["district1", "district2"]}
+{"question_id": "8k:multi:Multi-98:markdown:r2", "answer": []}
+{"question_id": "8k:multi:Multi-98:markdown:r3", "answer": []}
+{"question_id": "8k:multi:Multi-99:markdown:r1", "answer": ["District A", "District B"]}
+{"question_id": "8k:multi:Multi-99:markdown:r2", "answer": ["District A", "District B"]}
+{"question_id": "8k:multi:Multi-99:markdown:r3", "answer": ["District A", "District B"]}
+{"question_id": "8k:multi:Multi-9:markdown:r1", "answer": ["ensign"]}
+{"question_id": "8k:multi:Multi-9:markdown:r2", "answer": ["ensign"]}
+{"question_id": "8k:multi:Multi-9:markdown:r3", "answer": ["ensign"]}
+{"question_id": "8k:single:Single-103:markdown:r1", "answer": 1169}
+{"question_id": "8k:single:Single-104:markdown:r1", "answer": "Supported"}
+{"question_id": "8k:single:Single-106:markdown:r1", "answer": "Supported"}
+{"question_id": "8k:single:Single-107:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-108:markdown:r1", "answer": "Scottsdale"}
+{"question_id": "8k:single:Single-110:markdown:r1", "answer": 2756}
+{"question_id": "8k:single:Single-111:markdown:r1", "answer": {"raceId": "912", "driverId": "817", "position": "11", "time": "1:29.587", "milliseconds": "89587"}}
+{"question_id": "8k:single:Single-119:markdown:r1", "answer": "1740489b5d226878cea1ae9227810080"}
+{"question_id": "8k:single:Single-11:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-121:markdown:r1", "answer": 22757}
+{"question_id": "8k:single:Single-133:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-139:markdown:r1", "answer": "Supported"}
+{"question_id": "8k:single:Single-145:markdown:r1", "answer": ["arena,mtgo,paper"]}
+{"question_id": "8k:single:Single-149:markdown:r1", "answer": ["TR076", "TR210"]}
+{"question_id": "8k:single:Single-157:markdown:r1", "answer": ["mtgo,paper"]}
+{"question_id": "8k:single:Single-161:markdown:r1", "answer": [{"language": "Chinese Simplified", "translation": "Izzet vs. Golgari"}, {"language": "Korean", "translation": "Divine vs. Demonic"}, {"language": "Chinese Simplified", "translation": "Knights vs. Dragons"}, {"language": "Chinese Simplified", "translation": "Elspeth vs. Tezzeret"}, {"language": "Chinese Simplified", "translation": "nan"}]}
+{"question_id": "8k:single:Single-171:markdown:r1", "answer": []}
+{"question_id": "8k:single:Single-172:markdown:r1", "answer": ["card1", "card2"]}
+{"question_id": "8k:single:Single-175:markdown:r1", "answer": 654962}
+{"question_id": "8k:single:Single-177:markdown:r1", "answer": {"id": "3286", "game_id": "1591", "publisher_id": "464"}}
+{"question_id": "8k:single:Single-17_INI:markdown:r1", "answer": ["six hundred and forty-five", "four thousand, eight hundred and seventy", "three thousand, nine hundred and one", "four thousand, seven hundred and twenty-six", "two thousand, six hundred and thirty-five"]}
+{"question_id": "8k:single:Single-181:markdown:r1", "answer": [649522, 658819, 657810]}
+{"question_id": "8k:single:Single-196:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-19_INI:markdown:r1", "answer": [765, 3264, 1648, 3599, 766]}
+{"question_id": "8k:single:Single-200:markdown:r1", "answer": [1, 2, 3, 4, 5]}
+{"question_id": "8k:single:Single-211_INI:markdown:r1", "answer": ["Sky Radio"]}
+{"question_id": "8k:single:Single-216:markdown:r1", "answer": "Sky Radio"}
+{"question_id": "8k:single:Single-219_INI:markdown:r1", "answer": ["Rachelle"]}
+{"question_id": "8k:single:Single-21:markdown:r1", "answer": [57, 59, 73, 68]}
+{"question_id": "8k:single:Single-223:markdown:r1", "answer": ["BK"]}
+{"question_id": "8k:single:Single-226:markdown:r1", "answer": []}
+{"question_id": "8k:single:Single-33:markdown:r1", "answer": []}
+{"question_id": "8k:single:Single-36:markdown:r1", "answer": 9017}
+{"question_id": "8k:single:Single-42_INI:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-43:markdown:r1", "answer": [899, 777]}
+{"question_id": "8k:single:Single-4:markdown:r1", "answer": ["Casemiro", "Sebastien Haller", "Daniel Kabir Mustafa", "Zakaria Labyad", "Bolatti"]}
+{"question_id": "8k:single:Single-4_INI:markdown:r1", "answer": []}
+{"question_id": "8k:single:Single-60:markdown:r1", "answer": ["The Lord of the Rings: The Fellowship of the Ring", "The Dark Knight", "Spider-Man: Into the Spider-Verse"]}
+{"question_id": "8k:single:Single-68:markdown:r1", "answer": "ROU"}
+{"question_id": "8k:single:Single-75:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-77:markdown:r1", "answer": {"flavorText": "色１色を選ぶ。ターン終了時まで、それはプロテクション（その選んだ色）を得る。（それは選ばれた色のものによっては、ブロックされず、対象にならず、ダメージを受けず、エンチャントされず、装備されない。）", "name": "抵抗の妙技", "text": "あなたがコントロールしているクリーチャー１体を対象とし、それの上に＋１/＋１カウンターを１個置く。", "type": "インスタント", "uuid": "56a98be7-1df5-5b21-8c00-996fbabd40b7"}}
+{"question_id": "8k:single:Single-83:markdown:r1", "answer": [9059, 1546, 10880, 6869, 9645]}
+{"question_id": "8k:single:Single-84:markdown:r1", "answer": "Central Africa"}
+{"question_id": "8k:single:Single-88:markdown:r1", "answer": {"Airline": "6", "FlightNo": "479", "SourceAirport": "AEL", "DestAirport": "APG"}}
+{"question_id": "8k:single:Single-91:markdown:r1", "answer": {"Airline": "3", "FlightNo": "100", "SourceAirport": "AXN", "DestAirport": "APG"}}
+{"question_id": "8k:single:Single-95:markdown:r1", "answer": []}
+{"question_id": "8k:single:Single-96_INI:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:multi:Multi-0:markdown:r1", "answer": ["Los Angeles", "Los Angeles", "Los Angeles"]}
+{"question_id": "inf:multi:Multi-0:markdown:r2", "answer": ["Liberty Primary", "Lake Mathews Elementary", "Lafayette Elementary", "McKinley Elementary"]}
+{"question_id": "inf:multi:Multi-0:markdown:r3", "answer": ["Liberty Primary", "Lake Mathews Elementary", "Lafayette Elementary", "McKinley Elementary"]}
+{"question_id": "inf:multi:Multi-0:markdown:r4", "answer": ["Lake Mathews Elementary", "Liberty Primary"]}
+{"question_id": "inf:multi:Multi-11:markdown:r1", "answer": ["villeneuve", "tremblant", "nurburgring", "yas_marina", "phoenix"]}
+{"question_id": "inf:multi:Multi-11:markdown:r2", "answer": ["nurburgring", "villeneuve", "yas_marina"]}
+{"question_id": "inf:multi:Multi-11:markdown:r3", "answer": []}
+{"question_id": "inf:multi:Multi-12:markdown:r1", "answer": ["nurburgring", "yas_marina", "phoenix", "villeneuve", "monaco"]}
+{"question_id": "inf:multi:Multi-12:markdown:r2", "answer": ["yas_marina", "nurburgring", "phoenix", "villeneuve", "monaco"]}
+{"question_id": "inf:multi:Multi-12:markdown:r3", "answer": ["nurburgring", "villeneuve", "monaco"]}
+{"question_id": "inf:multi:Multi-15:markdown:r1", "answer": "no"}
+{"question_id": "inf:multi:Multi-15:markdown:r2", "answer": "no"}
+{"question_id": "inf:multi:Multi-15:markdown:r3", "answer": "2"}
+{"question_id": "inf:multi:Multi-15:markdown:r4", "answer": "2"}
+{"question_id": "inf:multi:Multi-15:markdown:r5", "answer": "no"}
+{"question_id": "inf:multi:Multi-15_INI:markdown:r1", "answer": "no"}
+{"question_id": "inf:multi:Multi-15_INI:markdown:r2", "answer": 2.03}
+{"question_id": "inf:multi:Multi-15_INI:markdown:r3", "answer": "two point zero"}
+{"question_id": "inf:multi:Multi-15_INI:markdown:r4", "answer": "one point zero"}
+{"question_id": "inf:multi:Multi-15_INI:markdown:r5", "answer": "Emil Blonsky is taller than Charles Chandler by 2.03 cm"}
+{"question_id": "inf:multi:Multi-16:markdown:r1", "answer": {"forename": "Bob", "driverRef": "drake"}}
+{"question_id": "inf:multi:Multi-16:markdown:r2", "answer": {"nationality": "American"}}
+{"question_id": "inf:multi:Multi-16:markdown:r3", "answer": "drake"}
+{"question_id": "inf:multi:Multi-16:markdown:r4", "answer": {"birthdate": "1989-04-23"}}
+{"question_id": "inf:multi:Multi-16:markdown:r5", "answer": "http://en.wikipedia.org/wiki/Bob_Drake_(Formula_One)"}
+{"question_id": "inf:multi:Multi-16_INI:markdown:r1", "answer": {"forename": "Justin", "driverRef": "wilson"}}
+{"question_id": "inf:multi:Multi-16_INI:markdown:r2", "answer": "Dutch"}
+{"question_id": "inf:multi:Multi-16_INI:markdown:r3", "answer": "zero"}
+{"question_id": "inf:multi:Multi-16_INI:markdown:r4", "answer": {"birthdate": "1989-04-14"}}
+{"question_id": "inf:multi:Multi-16_INI:markdown:r5", "answer": "http://en.wikipedia.org/wiki/Justin_Wilson_(racing_driver)"}
+{"question_id": "inf:multi:Multi-17:markdown:r1", "answer": ["San Marino Grand Prix", "Malaysian Grand Prix", "Japanese Grand Prix", "European Grand Prix", "British Grand Prix"]}
+{"question_id": "inf:multi:Multi-17:markdown:r2", "answer": ["San Marino Grand Prix", "Malaysian Grand Prix", "Japanese Grand Prix", "European Grand Prix", "British Grand Prix"]}
+{"question_id": "inf:multi:Multi-17:markdown:r3", "answer": ["Bahrain Grand Prix", "Malaysian Grand Prix", "Chinese Grand Prix"]}
+{"question_id": "inf:multi:Multi-17:markdown:r4", "answer": ["http://en.wikipedia.org/wiki/2009_Bahrain_Grand_Prix", "http://en.wikipedia.org/wiki/2009_Malaysian_Grand_Prix"]}
+{"question_id": "inf:multi:Multi-19:markdown:r1", "answer": ["borderless"]}
+{"question_id": "inf:multi:Multi-19:markdown:r2", "answer": ["borderless"]}
+{"question_id": "inf:multi:Multi-19:markdown:r3", "answer": "rare"}
+{"question_id": "inf:multi:Multi-21:markdown:r1", "answer": ["jnh"]}
+{"question_id": "inf:multi:Multi-21:markdown:r2", "answer": ["molecule"]}
+{"question_id": "inf:multi:Multi-21:markdown:r3", "answer": "101"}
+{"question_id": "inf:multi:Multi-24:markdown:r1", "answer": "Bruce Wayne"}
+{"question_id": "inf:multi:Multi-24:markdown:r2", "answer": "1"}
+{"question_id": "inf:multi:Multi-24:markdown:r3", "answer": 4}
+{"question_id": "inf:multi:Multi-24_INI:markdown:r1", "answer": "Batman"}
+{"question_id": "inf:multi:Multi-24_INI:markdown:r2", "answer": "one point zero"}
+{"question_id": "inf:multi:Multi-24_INI:markdown:r3", "answer": 4}
+{"question_id": "inf:multi:Multi-25:markdown:r1", "answer": [{"year": "2009", "round": "14", "name": "Singapore Grand Prix", "date": "2009-09-27", "url": "http://en.wikipedia.org/wiki/2009_Singapore_Grand_Prix"}]}
+{"question_id": "inf:multi:Multi-25:markdown:r2", "answer": [{"name": "Australian Grand Prix", "date": "2009-03-29"}]}
+{"question_id": "inf:multi:Multi-25:markdown:r3", "answer": "http://en.wikipedia.org/wiki/2009_Australian_Grand_Prix"}
+{"question_id": "inf:multi:Multi-26:markdown:r1", "answer": ["Monaco Grand Prix", "Bahrain Grand Prix", "British Grand Prix", "European Grand Prix", "German Grand Prix"]}
+{"question_id": "inf:multi:Multi-26:markdown:r2", "answer": ["Bahrain Grand Prix", "Malaysian Grand Prix", "Chinese Grand Prix"]}
+{"question_id": "inf:multi:Multi-26:markdown:r3", "answer": "Bahrain Grand Prix"}
+{"question_id": "inf:multi:Multi-27:markdown:r1", "answer": "United States Grand Prix West"}
+{"question_id": "inf:multi:Multi-27:markdown:r2", "answer": "2004-03-07"}
+{"question_id": "inf:multi:Multi-27:markdown:r3", "answer": "http://en.wikipedia.org/wiki/2009_Australian_Grand_Prix"}
+{"question_id": "inf:multi:Multi-28:markdown:r1", "answer": [{"SOCType": "K-12 Schools (Public)", "EdOpsName": "Traditional", "EILCode": "ELEMHIGH", "EILName": "Elementary-High Combination"}, {"SOCType": "Intermediate/Middle Schools (Public)", "EdOpsName": "Traditional", "EILCode": "INTMIDJR", "EILName": "Intermediate/Middle/Junior High"}, {"SOCType": "Intermediate/Middle Schools (Public)", "EdOpsName": "Traditional", "EILCode": "INTMIDJR", "EILName": "Intermediate/Middle/Junior High"}, {"SOCType": "High Schools (Public)", "EdOpsName": "Traditional", "EILCode": "HS", "EILName": "High School"}, {"SOCType": "Intermediate/Middle Schools (Public)", "EdOpsName": "Traditional", "EILCode": "INTMIDJR", "EILName": "Intermediate/Middle/Junior High"}]}
+{"question_id": "inf:multi:Multi-28:markdown:r2", "answer": [{"FundingType": "Directly funded", "County": "Los Angeles"}, {"FundingType": "Directly funded", "County": "Los Angeles"}]}
+{"question_id": "inf:multi:Multi-28:markdown:r3", "answer": [{"FundingType": "Directly funded", "County": "Los Angeles", "Grades": "6-8"}]}
+{"question_id": "inf:multi:Multi-30_INI:markdown:r1", "answer": ["Pro Tour Collector Set"]}
+{"question_id": "inf:multi:Multi-30_INI:markdown:r2", "answer": "GNT"}
+{"question_id": "inf:multi:Multi-30_INI:markdown:r3", "answer": "150"}
+{"question_id": "inf:multi:Multi-31:markdown:r1", "answer": {"superhero_name": "Hulk", "full_name": "Robert Bruce Banner", "race_id": "28", "publisher_id": "13", "height_cm": "244"}}
+{"question_id": "inf:multi:Multi-31:markdown:r2", "answer": {"weight_kg": "630"}}
+{"question_id": "inf:multi:Multi-31:markdown:r3", "answer": {"race_id": "28"}}
+{"question_id": "inf:multi:Multi-33:markdown:r1", "answer": {"year": "2009", "round": "1", "name": "Australian Grand Prix", "date": "2009-03-29", "url": "http://en.wikipedia.org/wiki/2009_Australian_Grand_Prix"}}
+{"question_id": "inf:multi:Multi-33:markdown:r2", "answer": "2009-03-29"}
+{"question_id": "inf:multi:Multi-33:markdown:r3", "answer": "06:00:00"}
+{"question_id": "inf:multi:Multi-33:markdown:r4", "answer": "http://en.wikipedia.org/wiki/2009_Australian_Grand_Prix"}
+{"question_id": "inf:multi:Multi-34:markdown:r1", "answer": {"atom_id": "TR096_20", "atom_id2": "TR096_32", "bond_id": "TR096_20_32"}}
+{"question_id": "inf:multi:Multi-34:markdown:r2", "answer": "TR096_20_32"}
+{"question_id": "inf:multi:Multi-34:markdown:r3", "answer": {"atom_id": "TR096_20", "atom_id2": "TR096_30", "bond_id": "TR096_20_30"}}
+{"question_id": "inf:multi:Multi-34:markdown:r4", "answer": ["TR096_30"]}
+{"question_id": "inf:multi:Multi-35:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:multi:Multi-35:markdown:r2", "answer": {"DisplayName": "Amanda", "WebsiteUrl": "nan", "Location": "Israel", "AboutMe": "nan", "ProfileImageUrl": "https://www.gravatar.com/avatar/?s=128&d=identicon&r=PG&f=1"}}
+{"question_id": "inf:multi:Multi-35:markdown:r3", "answer": "Unsupported"}
+{"question_id": "inf:multi:Multi-35:markdown:r4", "answer": {"AccountId": "nan"}}
+{"question_id": "inf:multi:Multi-36:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:multi:Multi-36:markdown:r2", "answer": "Unsupported"}
+{"question_id": "inf:multi:Multi-36:markdown:r3", "answer": "yes"}
+{"question_id": "inf:multi:Multi-38:markdown:r1", "answer": ["card1", "card2"]}
+{"question_id": "inf:multi:Multi-38:markdown:r2", "answer": ["card1", "card2"]}
+{"question_id": "inf:multi:Multi-38:markdown:r3", "answer": ["card1"]}
+{"question_id": "inf:multi:Multi-39:markdown:r1", "answer": ["driver", "ryan", "drake"]}
+{"question_id": "inf:multi:Multi-39:markdown:r2", "answer": ["driver", "ryan", "drake"]}
+{"question_id": "inf:multi:Multi-39:markdown:r3", "answer": "Peter Ryan"}
+{"question_id": "inf:multi:Multi-3:markdown:r1", "answer": ["Alexander Hamilton Senior High", "PUC Early College Academy for Leaders and Scholars (ECALS)"]}
+{"question_id": "inf:multi:Multi-3:markdown:r2", "answer": 2}
+{"question_id": "inf:multi:Multi-3:markdown:r3", "answer": "Charter"}
+{"question_id": "inf:multi:Multi-40:markdown:r1", "answer": ["Watson", "Wilson", "Taylor", "Driver", "Love"]}
+{"question_id": "inf:multi:Multi-40:markdown:r2", "answer": ["Watson", "Wilson", "Driver", "Taylor"]}
+{"question_id": "inf:multi:Multi-40:markdown:r3", "answer": ["British", "British", "British", "South African"]}
+{"question_id": "inf:multi:Multi-41:markdown:r1", "answer": ["watson", "mike_taylor", "wilson", "anderson"]}
+{"question_id": "inf:multi:Multi-41:markdown:r2", "answer": ["watson", "williams", "davis", "rhodes", "coulthard"]}
+{"question_id": "inf:multi:Multi-41:markdown:r3", "answer": ["williams"]}
+{"question_id": "inf:multi:Multi-41_INI:markdown:r1", "answer": ["watson", "button", "wilson"]}
+{"question_id": "inf:multi:Multi-41_INI:markdown:r2", "answer": ["watson", "button"]}
+{"question_id": "inf:multi:Multi-41_INI:markdown:r3", "answer": ["watson"]}
+{"question_id": "inf:multi:Multi-42_INI:markdown:r1", "answer": ["TR043_1_2", "TR043_13_14", "TR043_34_71", "TR043_20_22"]}
+{"question_id": "inf:multi:Multi-42_INI:markdown:r2", "answer": ["TR043_13_14"]}
+{"question_id": "inf:multi:Multi-42_INI:markdown:r3", "answer": ["TR043_13_14"]}
+{"question_id": "inf:multi:Multi-43:markdown:r1", "answer": ["mythic"]}
+{"question_id": "inf:multi:Multi-43:markdown:r2", "answer": ["Legendary Creature — Eldrazi"]}
+{"question_id": "inf:multi:Multi-43:markdown:r3", "answer": ["Legendary Creature — Eldrazi"]}
+{"question_id": "inf:multi:Multi-44:markdown:r1", "answer": ["ARTLAB at Sonia Sotomayor Learning Academics", "Alliance College-Ready Middle Academy 12"]}
+{"question_id": "inf:multi:Multi-44:markdown:r2", "answer": ["Topanga Elementary Charter", "Mark Keppel", "Sherman Oaks Elementary Charter"]}
+{"question_id": "inf:multi:Multi-44:markdown:r3", "answer": ["Topanga Elementary Charter", "Sherman Oaks Elementary Charter"]}
+{"question_id": "inf:multi:Multi-4:markdown:r1", "answer": ["Open Charter Magnet", "Lincoln (Abraham) School (Oh,A", "PUC Early College Academy for Leaders and Scholars (ECALS)", "Van Nuys H.S. Math Magnet", "Vista del Mar School (PAU)"]}
+{"question_id": "inf:multi:Multi-4:markdown:r2", "answer": ["Open Charter Magnet", "Cohasset Street Elementary"]}
+{"question_id": "inf:multi:Multi-4:markdown:r3", "answer": ["Open Charter Magnet"]}
+{"question_id": "inf:multi:Multi-4:markdown:r4", "answer": ["Open Charter Magnet"]}
+{"question_id": "inf:multi:Multi-5:markdown:r1", "answer": ["PUC Early College Academy for Leaders and Scholars (ECALS)"]}
+{"question_id": "inf:multi:Multi-5:markdown:r2", "answer": ["Open Charter Magnet", "PUC Early College Academy for Leaders and Scholars (ECALS)"]}
+{"question_id": "inf:multi:Multi-5:markdown:r3", "answer": [2013, 2012, 2011, 2010, 2009]}
+{"question_id": "inf:multi:Multi-7:markdown:r1", "answer": ["yas_marina", "nurburgring", "villeneuve", "hungaroring"]}
+{"question_id": "inf:multi:Multi-7:markdown:r2", "answer": ["yas_marina", "nurburgring", "villeneuve", "hungaroring"]}
+{"question_id": "inf:multi:Multi-7:markdown:r3", "answer": ["red_bull", "ferrari", "mclaren", "mercedes"]}
+{"question_id": "inf:multi:Multi-8:markdown:r1", "answer": ["nurburgring", "yas_marina", "phoenix", "villeneuve", "monaco"]}
+{"question_id": "inf:multi:Multi-8:markdown:r2", "answer": ["yas_marina", "nurburgring", "phoenix", "villeneuve"]}
+{"question_id": "inf:multi:Multi-8:markdown:r3", "answer": ["nurburgring", "yas_marina", "phoenix", "villeneuve"]}
+{"question_id": "inf:multi:Multi-9:markdown:r1", "answer": ["nurburgring", "yas_marina", "phoenix", "villeneuve", "monaco"]}
+{"question_id": "inf:multi:Multi-9:markdown:r2", "answer": ["yas_marina", "nurburgring", "phoenix", "villeneuve", "monaco"]}
+{"question_id": "inf:multi:Multi-9:markdown:r3", "answer": ["villeneuve", "monaco"]}
+{"question_id": "inf:single:Single-0:markdown:r1", "answer": "Supported"}
+{"question_id": "inf:single:Single-100:markdown:r1", "answer": [28, 17, 1, 1, 34]}
+{"question_id": "inf:single:Single-101:markdown:r1", "answer": "nan"}
+{"question_id": "inf:single:Single-102:markdown:r1", "answer": "NED"}
+{"question_id": "inf:single:Single-10:markdown:r1", "answer": [3194, 235, 3260, 5176, 255]}
+{"question_id": "inf:single:Single-11:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-13:markdown:r1", "answer": [74634, 107045, 78765, 153740]}
+{"question_id": "inf:single:Single-15:markdown:r1", "answer": {"App": "Union League", "Category": "FAMILY", "Type": "Free", "Content Rating": "Everyone"}}
+{"question_id": "inf:single:Single-17:markdown:r1", "answer": [1440, 1350, 2019, 2978, 660]}
+{"question_id": "inf:single:Single-18:markdown:r1", "answer": [550]}
+{"question_id": "inf:single:Single-19:markdown:r1", "answer": [1532, 1024, 653]}
+{"question_id": "inf:single:Single-1:markdown:r1", "answer": "Casa Grande High"}
+{"question_id": "inf:single:Single-21:markdown:r1", "answer": [265, 589, 229]}
+{"question_id": "inf:single:Single-23:markdown:r1", "answer": {"Diagnosis": "SLE", "KCT": "+", "RVVT": "+", "LAC": "+", "Thrombosis": "3"}}
+{"question_id": "inf:single:Single-24:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-26:markdown:r1", "answer": "Supported"}
+{"question_id": "inf:single:Single-29:markdown:r1", "answer": ["USA", "USA", "RUS", "USA", "DEN"]}
+{"question_id": "inf:single:Single-2:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-32:markdown:r1", "answer": 4485}
+{"question_id": "inf:single:Single-33:markdown:r1", "answer": [661, 1727958]}
+{"question_id": "inf:single:Single-36:markdown:r1", "answer": 1234}
+{"question_id": "inf:single:Single-36_INI:markdown:r1", "answer": 403}
+{"question_id": "inf:single:Single-37:markdown:r1", "answer": 35873}
+{"question_id": "inf:single:Single-3:markdown:r1", "answer": 2006}
+{"question_id": "inf:single:Single-40:markdown:r1", "answer": {"recipe_id": "735", "alcohol": "0", "sat_fat": "0.16", "cholestrl": "0", "pcnt_cal_carb": "67.25"}}
+{"question_id": "inf:single:Single-44:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-45:markdown:r1", "answer": "Supported"}
+{"question_id": "inf:single:Single-47:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-48:markdown:r1", "answer": "Supported"}
+{"question_id": "inf:single:Single-4:markdown:r1", "answer": ["Casemiro", "Sebastien Haller", "Daniel Kabir Mustafa", "Zakaria Labyad"]}
+{"question_id": "inf:single:Single-50:markdown:r1", "answer": {"book_id": "8797", "title": "The Return of the Dancing Master", "isbn13": "9781400076956", "publication_date": "2005-02-08", "publisher_id": "2121"}}
+{"question_id": "inf:single:Single-52:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-53:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-54:markdown:r1", "answer": 31493}
+{"question_id": "inf:single:Single-55:markdown:r1", "answer": [24671, 190]}
+{"question_id": "inf:single:Single-56:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-58:markdown:r1", "answer": "dc82ee998151e05c5e87d48dcfb41ade"}
+{"question_id": "inf:single:Single-58_INI:markdown:r1", "answer": "dc82ee998151e05c5e87d48dcfb41ade"}
+{"question_id": "inf:single:Single-59:markdown:r1", "answer": [48, 83, 127]}
+{"question_id": "inf:single:Single-5:markdown:r1", "answer": 56312}
+{"question_id": "inf:single:Single-60:markdown:r1", "answer": [251, 251, 14, 213, 100]}
+{"question_id": "inf:single:Single-61:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-64:markdown:r1", "answer": [2140, 2457, 2087, 2151]}
+{"question_id": "inf:single:Single-69:markdown:r1", "answer": 518}
+{"question_id": "inf:single:Single-6:markdown:r1", "answer": [4702590.0, 5497140.0, 5329900.0, 174116, 174116]}
+{"question_id": "inf:single:Single-71:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-72:markdown:r1", "answer": {"id": "17934", "date": "2004-10-04", "text": "Can target a card with no color words on it.", "uuid": "85feac1f-31e0-5d87-a3ad-6ffaddcb8e5f"}}
+{"question_id": "inf:single:Single-73:markdown:r1", "answer": "p_mfgr"}
+{"question_id": "inf:single:Single-75:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-79:markdown:r1", "answer": "nan"}
+{"question_id": "inf:single:Single-7:markdown:r1", "answer": 917}
+{"question_id": "inf:single:Single-80:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-81:markdown:r1", "answer": ["TR008"]}
+{"question_id": "inf:single:Single-82:markdown:r1", "answer": ["TR464_3_4"]}
+{"question_id": "inf:single:Single-86:markdown:r1", "answer": [{"type": "commander", "block": "Commander"}, {"type": "commander", "block": "Commander"}]}
+{"question_id": "inf:single:Single-88:markdown:r1", "answer": [{"attacking_work_rate": "high", "defensive_work_rate": "medium", "potential": 84}]}
+{"question_id": "inf:single:Single-89:markdown:r1", "answer": []}
+{"question_id": "inf:single:Single-8:markdown:r1", "answer": {"id": "1096", "abv": "nan", "ibu": "nan", "name": "Tampa Pale Ale", "style": "American Pale Ale (APA)"}}
+{"question_id": "inf:single:Single-90:markdown:r1", "answer": [2, 3, 5, 6, 10]}
+{"question_id": "inf:single:Single-92:markdown:r1", "answer": []}
+{"question_id": "inf:single:Single-94:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-96_INI:markdown:r1", "answer": ["h", "h", "h"]}
+{"question_id": "inf:single:Single-97:markdown:r1", "answer": ["NED", "USA", "USA", "USA", "AUS"]}
+{"question_id": "inf:single:Single-98:markdown:r1", "answer": 185}

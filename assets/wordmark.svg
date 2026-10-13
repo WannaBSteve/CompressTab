@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="244" viewBox="0 0 1120 244" role="img" aria-labelledby="title desc">
+  <title id="title">CompressTab</title>
+  <desc id="desc">A question-aware table compression engine. Preserve what the answer needs.</desc>
+  <style>
+    .name { fill: #194B3D; }
+    .tagline { fill: #537767; }
+    .rule { stroke: #D5E7DB; }
+    @media (prefers-color-scheme: dark) {
+      .name { fill: #BDE7CD; }
+      .tagline { fill: #98BDAA; }
+      .rule { stroke: #355849; }
+    }
+  </style>
+  <rect x="36" y="34" width="174" height="174" rx="36" fill="#194B3D"/>
+  <g stroke="#9BCEAF" stroke-width="2" fill="none" opacity="0.62">
+    <rect x="62" y="71" width="74" height="99" rx="7"/>
+    <path d="M62 96H136M62 121H136M62 146H136M87 71V170M112 71V170"/>
+  </g>
+  <g fill="#CEEED6">
+    <rect x="67" y="76" width="15" height="15" rx="3"/>
+    <rect x="92" y="101" width="15" height="15" rx="3"/>
+    <rect x="117" y="151" width="14" height="14" rx="3"/>
+  </g>
+  <path d="M137 115H160L151 107M160 115L151 123" stroke="#EEF7DE" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="164" y="94" width="23" height="68" rx="6" fill="#BDE4B5"/>
+  <path d="M169 113H182M169 128H182M169 143H178" stroke="#28654E" stroke-width="3" stroke-linecap="round"/>
+  <text x="247" y="122" class="name" fill="#194B3D" font-family="Trebuchet MS, DejaVu Sans, sans-serif" font-size="84" font-weight="700" letter-spacing="-4">CompressTab</text>
+  <text x="254" y="159" class="tagline" fill="#537767" font-family="Trebuchet MS, DejaVu Sans, sans-serif" font-size="22" letter-spacing="0.5">A question-aware table compression engine</text>
+  <path d="M254 180H1007" class="rule" stroke="#D5E7DB"/>
+  <text x="255" y="204" class="tagline" fill="#537767" font-family="DejaVu Sans Mono, monospace" font-size="13" letter-spacing="2.1">PRESERVE WHAT THE ANSWER NEEDS.</text>
+</svg>

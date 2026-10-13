@@ -1,0 +1,545 @@
+{"question_id": "32k:multi:Multi-10:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-10:markdown:r2", "answer": {"molecule_id": "TR494", "label": "+"}}
+{"question_id": "32k:multi:Multi-11:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-11:markdown:r2", "answer": {"molecule_id": "TR494", "label": "+"}}
+{"question_id": "32k:multi:Multi-15:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-15:markdown:r2", "answer": {"molecule_id": "TR192", "label": "+"}}
+{"question_id": "32k:multi:Multi-17:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-17:markdown:r2", "answer": {"molecule_id": "TR494", "label": "+"}}
+{"question_id": "32k:multi:Multi-18:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-18:markdown:r2", "answer": {"molecule_id": "TR494", "label": "+"}}
+{"question_id": "32k:multi:Multi-20:markdown:r1", "answer": ["TR494", "TR466", "TR216"]}
+{"question_id": "32k:multi:Multi-20:markdown:r2", "answer": ["TR494", "TR466"]}
+{"question_id": "32k:multi:Multi-20:markdown:r3", "answer": ["TR494", "TR466"]}
+{"question_id": "32k:multi:Multi-23:markdown:r1", "answer": [{"circuitId": 6, "circuitRef": "monaco", "name": "Circuit de Monaco", "location": "Monte-Carlo", "country": "Monaco", "lat": 43.7347, "lng": 7.42056, "url": "http://en.wikipedia.org/wiki/Circuit_de_Monaco"}, {"circuitId": 47, "circuitRef": "anderstorp", "name": "Scandinavian Raceway", "location": "Anderstorp", "country": "Sweden", "lat": 57.2653, "lng": 13.6042, "url": "http://en.wikipedia.org/wiki/Scandinavian_Racew..."}, {"circuitId": 14, "circuitRef": "monza", "name": "Autodromo Nazionale di Monza", "location": "Monza", "country": "Italy", "lat": 45.6156, "lng": 9.28111, "url": "http://en.wikipedia.org/wiki/Autodromo_Nazional..."}]}
+{"question_id": "32k:multi:Multi-23:markdown:r2", "answer": [{"circuitId": 6, "circuitRef": "monaco", "name": "Circuit de Monaco", "location": "Monte-Carlo", "country": "Monaco", "lat": 43.7347, "lng": 7.42056, "url": "http://en.wikipedia.org/wiki/Circuit_de_Monaco"}, {"circuitId": 14, "circuitRef": "monza", "name": "Autodromo Nazionale di Monza", "location": "Monza", "country": "Italy", "lat": 45.6156, "lng": 9.28111, "url": "http://en.wikipedia.org/wiki/Autodromo_Nazional..."}]}
+{"question_id": "32k:multi:Multi-23:markdown:r3", "answer": [{"constructorId": 6, "points": 8}]}
+{"question_id": "32k:multi:Multi-23:markdown:r4", "answer": "Mexican"}
+{"question_id": "32k:multi:Multi-27:markdown:r1", "answer": ["Circuit de Monaco", "Scandinavian Raceway"]}
+{"question_id": "32k:multi:Multi-27:markdown:r2", "answer": ["Autodromo Nazionale di Monza"]}
+{"question_id": "32k:multi:Multi-27:markdown:r3", "answer": ["Italian Grand Prix"]}
+{"question_id": "32k:multi:Multi-27:markdown:r4", "answer": "Rebaque"}
+{"question_id": "32k:multi:Multi-28:markdown:r1", "answer": ["Circuit de Monaco", "Autodromo Nazionale di Monza"]}
+{"question_id": "32k:multi:Multi-28:markdown:r2", "answer": ["Circuit de Monaco", "Autodromo Nazionale di Monza"]}
+{"question_id": "32k:multi:Multi-28:markdown:r3", "answer": "Rebaque"}
+{"question_id": "32k:multi:Multi-29:markdown:r1", "answer": ["Circuit de Monaco", "Autodromo Nazionale di Monza"]}
+{"question_id": "32k:multi:Multi-29:markdown:r2", "answer": ["Circuit de Monaco", "Autodromo Nazionale di Monza"]}
+{"question_id": "32k:multi:Multi-29:markdown:r3", "answer": "Rebaque"}
+{"question_id": "32k:multi:Multi-2:markdown:r1", "answer": ["TR494", "TR466", "TR216"]}
+{"question_id": "32k:multi:Multi-2:markdown:r2", "answer": ["TR494", "TR466"]}
+{"question_id": "32k:multi:Multi-2:markdown:r3", "answer": ["TR494"]}
+{"question_id": "32k:multi:Multi-33:markdown:r1", "answer": [{"player_api_id": "302012", "overall_rating": "72"}, {"player_api_id": "39323", "overall_rating": "83"}, {"player_api_id": "300978", "overall_rating": "66"}]}
+{"question_id": "32k:multi:Multi-33:markdown:r2", "answer": [{"player_api_id": "39323", "preferred_foot": "right"}, {"player_api_id": "302012", "preferred_foot": "left"}]}
+{"question_id": "32k:multi:Multi-33:markdown:r3", "answer": [{"player_api_id": "39323", "sprint_speed": "35"}]}
+{"question_id": "32k:multi:Multi-34:markdown:r1", "answer": ["KRC Genk", "Beerschot AC", "SV Zulte-Waregem"]}
+{"question_id": "32k:multi:Multi-34:markdown:r2", "answer": [9987, 9993, 10000]}
+{"question_id": "32k:multi:Multi-34:markdown:r3", "answer": [673, 675, 15005]}
+{"question_id": "32k:multi:Multi-35_INI:markdown:r1", "answer": ["Long Beach"]}
+{"question_id": "32k:multi:Multi-35_INI:markdown:r2", "answer": ["Long Beach"]}
+{"question_id": "32k:multi:Multi-35_INI:markdown:r3", "answer": "CA"}
+{"question_id": "32k:multi:Multi-38:markdown:r1", "answer": ["TR473_3_5", "TR242_10_23", "TR096_14_17"]}
+{"question_id": "32k:multi:Multi-38:markdown:r2", "answer": []}
+{"question_id": "32k:multi:Multi-38:markdown:r3", "answer": ["TR473_3_5", "TR242_10_23", "TR096_14_17"]}
+{"question_id": "32k:multi:Multi-38_INI:markdown:r1", "answer": ["TR473_3_5", "TR242_10_23", "TR096_14_17"]}
+{"question_id": "32k:multi:Multi-38_INI:markdown:r2", "answer": []}
+{"question_id": "32k:multi:Multi-38_INI:markdown:r3", "answer": ["TR473_3_5", "TR242_10_23", "TR096_14_17"]}
+{"question_id": "32k:multi:Multi-3:markdown:r1", "answer": [{"molecule_id": "TR494", "element": "h"}, {"molecule_id": "TR216", "element": "h"}]}
+{"question_id": "32k:multi:Multi-3:markdown:r2", "answer": [{"molecule_id": "TR494"}, {"molecule_id": "TR216"}]}
+{"question_id": "32k:multi:Multi-3:markdown:r3", "answer": [{"molecule_id": "TR494"}, {"molecule_id": "TR216"}]}
+{"question_id": "32k:multi:Multi-40:markdown:r1", "answer": "premium_deck"}
+{"question_id": "32k:multi:Multi-40:markdown:r2", "answer": "2003-01-01"}
+{"question_id": "32k:multi:Multi-40:markdown:r3", "answer": "PD3"}
+{"question_id": "32k:multi:Multi-40:markdown:r4", "answer": "yes"}
+{"question_id": "32k:multi:Multi-43:markdown:r1", "answer": ["TR473_3_5", "TR242_10_23", "TR096_14_17"]}
+{"question_id": "32k:multi:Multi-43:markdown:r2", "answer": []}
+{"question_id": "32k:multi:Multi-43:markdown:r3", "answer": []}
+{"question_id": "32k:multi:Multi-43_INI:markdown:r1", "answer": ["TR473_3_5", "TR242_10_23", "TR096_14_17"]}
+{"question_id": "32k:multi:Multi-43_INI:markdown:r2", "answer": []}
+{"question_id": "32k:multi:Multi-43_INI:markdown:r3", "answer": []}
+{"question_id": "32k:multi:Multi-44:markdown:r1", "answer": ["TR213_4", "TR347_2", "TR493_1"]}
+{"question_id": "32k:multi:Multi-44:markdown:r2", "answer": ["TR213_4"]}
+{"question_id": "32k:multi:Multi-44:markdown:r3", "answer": "o"}
+{"question_id": "32k:multi:Multi-44_INI:markdown:r1", "answer": ["TR213_4", "TR347_2", "TR493_1"]}
+{"question_id": "32k:multi:Multi-44_INI:markdown:r2", "answer": ["TR213_4"]}
+{"question_id": "32k:multi:Multi-44_INI:markdown:r3", "answer": "o"}
+{"question_id": "32k:multi:Multi-45_INI:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-45_INI:markdown:r2", "answer": {"c0": "TR473_3_5", "c1": "TR473", "c2": "="}}
+{"question_id": "32k:multi:Multi-45_INI:markdown:r3", "answer": 2}
+{"question_id": "32k:multi:Multi-47:markdown:r1", "answer": ["TR473_3_5", "TR242_10_23", "TR096_14_17"]}
+{"question_id": "32k:multi:Multi-47:markdown:r2", "answer": ["TR473_3_5"]}
+{"question_id": "32k:multi:Multi-47:markdown:r3", "answer": ["TR473_3_5"]}
+{"question_id": "32k:multi:Multi-48:markdown:r1", "answer": [{"player_fifa_api_id": 211457, "overall_rating": 72}, {"player_fifa_api_id": 50579, "overall_rating": 83}, {"player_fifa_api_id": 207651, "overall_rating": 66}]}
+{"question_id": "32k:multi:Multi-48:markdown:r2", "answer": [{"player_fifa_api_id": 50579, "overall_rating": 83, "potential": 85}]}
+{"question_id": "32k:multi:Multi-48:markdown:r3", "answer": [{"player_fifa_api_id": 50579, "overall_rating": 83, "potential": 85, "preferred_foot": "right"}]}
+{"question_id": "32k:multi:Multi-48:markdown:r4", "answer": [{"player_fifa_api_id": 50579, "overall_rating": 83, "potential": 85, "preferred_foot": "right", "sprint_speed": 35}]}
+{"question_id": "32k:multi:Multi-49:markdown:r1", "answer": ["Long Beach", "Hubbard Lake", "Union Center"]}
+{"question_id": "32k:multi:Multi-49:markdown:r2", "answer": ["Hubbard Lake"]}
+{"question_id": "32k:multi:Multi-49:markdown:r3", "answer": ["Hubbard Lake"]}
+{"question_id": "32k:multi:Multi-4:markdown:r1", "answer": ["TR494", "TR466", "TR216"]}
+{"question_id": "32k:multi:Multi-4:markdown:r2", "answer": ["TR466"]}
+{"question_id": "32k:multi:Multi-4:markdown:r3", "answer": "TR466"}
+{"question_id": "32k:multi:Multi-50:markdown:r1", "answer": ["Rhythms of the Village Charter High"]}
+{"question_id": "32k:multi:Multi-50:markdown:r2", "answer": ["Rhythms of the Village Charter High"]}
+{"question_id": "32k:multi:Multi-50:markdown:r3", "answer": ["Canyon Hills Junior High"]}
+{"question_id": "32k:multi:Multi-7:markdown:r1", "answer": ["TR494", "TR466", "TR216"]}
+{"question_id": "32k:multi:Multi-7:markdown:r2", "answer": ["TR494", "TR466"]}
+{"question_id": "32k:multi:Multi-7:markdown:r3", "answer": ["TR494"]}
+{"question_id": "32k:multi:Multi-8:markdown:r1", "answer": ["TR494", "TR466", "TR216"]}
+{"question_id": "32k:multi:Multi-8:markdown:r2", "answer": ["TR494", "TR466"]}
+{"question_id": "32k:multi:Multi-8:markdown:r3", "answer": ["TR494"]}
+{"question_id": "32k:multi:Multi-9:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-9:markdown:r2", "answer": "Unsupported"}
+{"question_id": "32k:multi:Multi-9:markdown:r3", "answer": {"molecule_id": "TR496", "label": "+"}}
+{"question_id": "32k:single:Single-0:markdown:r1", "answer": "Supported"}
+{"question_id": "32k:single:Single-100:markdown:r1", "answer": "Supported"}
+{"question_id": "32k:single:Single-100_INI:markdown:r1", "answer": {"c0": "3566", "c1": "2", "c2": "zero", "c3": "10.13.2010", "c4": "1.70×10^+01", "c5": "nan", "c6": "<p>Both indices are measures of strength of ass...", "c7": "9.30×10^+02", "c8": "MMX-X-XIV", "c9": "nan", "c10": "nan", "c11": "zero", "c12": "III", "c13": "nan", "c14": "nine hundred and thirty point zero", "c15": "2010-10-14 18:14:21.0", "c16": "zero", "c17": "3.56×10^+03", "c18": "nan", "c19": "nan", "c20": "zero", "c21": "zero"}}
+{"question_id": "32k:single:Single-105:markdown:r1", "answer": [347258, 357211]}
+{"question_id": "32k:single:Single-10:markdown:r1", "answer": [43735, 56395, 263]}
+{"question_id": "32k:single:Single-110:markdown:r1", "answer": 11065}
+{"question_id": "32k:single:Single-112:markdown:r1", "answer": 84}
+{"question_id": "32k:single:Single-121:markdown:r1", "answer": 737}
+{"question_id": "32k:single:Single-126:markdown:r1", "answer": {"c0": "5", "c1": "1", "c2": "commander", "c3": "Legal", "c4": "5f8287b1-5bb6-5f4c-ad17-316a40d5bb0c"}}
+{"question_id": "32k:single:Single-12:markdown:r1", "answer": "2423832"}
+{"question_id": "32k:single:Single-131:markdown:r1", "answer": [61, 910, 7457]}
+{"question_id": "32k:single:Single-132:markdown:r1", "answer": [206197, 671]}
+{"question_id": "32k:single:Single-134:markdown:r1", "answer": {"c0": "2231", "c1": "Richard Thomas", "c2": "nan", "c3": "paper", "c4": "white", "c5": "nan", "c6": "10255", "c7": "nan", "c8": "nan", "c9": "nan", "c10": "1", "c11": "nan", "c12": "8108", "c13": "nan", "c14": "nan", "c15": "nan", "c16": "Invented in Mishra's earlier days, the Rack was...", "c17": "nan", "c18": "1993", "c19": "nan", "c20": "0", "c21": "0", "c22": "0", "c23": "1", "c24": "0", "c25": "0", "c26": "0", "c27": "0", "c28": "0", "c29": "1", "c30": "0", "c31": "0", "c32": "0", "c33": "0", "c34": "0", "c35": "nan", "c36": "normal", "c37": "nan", "c38": "nan", "c39": "nan", "c40": "{1}", "c41": "6196", "c42": "5923", "c43": "nan", "c44": "c08f2ec4-e597-5a15-9cf0-365b8cd010c7", "c45": "nan", "c46": "nan", "c47": "2075", "c48": "The Rack", "c49": "352", "c50": "nan", "c51": "At the end of target opponent's upkeep, The Rac...", "c52": "Artifact", "c53": "nan", "c54": "nan", "c55": "3ED,4BB,4ED,ATQ,DPA,FBB,PRM,PS11,PTC,SUM,TSB", "c56": "nan", "c57": "nan", "c58": "uncommon", "c59": "1e19104f-55d5-40e5-a61d-ddba2cf5a527", "c60": "93a80fbf-4614-4569-b4c3-345b06df3f28", "c61": "3d873e1d-4fac-42c4-bb31-77e76099e1ef", "c62": "4ED", "c63": "nan", "c64": "nan", "c65": "nan", "c66": "1953", "c67": "As The Rack enters the battlefield, choose an o...", "c68": "nan", "c69": "Artifact", "c70": "Artifact", "c71": "d080d796-76af-5bbe-b0f7-bf471c2103d3", "c72": "nan", "c73": "nan"}}
+{"question_id": "32k:single:Single-138:markdown:r1", "answer": ["greenbeansugar", "Suresh Venkatasubramanian", "drxzcl"]}
+{"question_id": "32k:single:Single-139:markdown:r1", "answer": "Supported"}
+{"question_id": "32k:single:Single-140:markdown:r1", "answer": [49, 94, 100]}
+{"question_id": "32k:single:Single-141:markdown:r1", "answer": [100067, 100074]}
+{"question_id": "32k:single:Single-144:markdown:r1", "answer": ["David Smith", "ekollar"]}
+{"question_id": "32k:single:Single-145:markdown:r1", "answer": ["TR213_4", "TR347_2"]}
+{"question_id": "32k:single:Single-146:markdown:r1", "answer": ["TR213", "TR347", "TR493"]}
+{"question_id": "32k:single:Single-14:markdown:r1", "answer": {"c0": "27654", "c1": "1991-12-25", "c2": "nan", "c3": "nan", "c4": "nan", "c5": "nan", "c6": "nan", "c7": "nan", "c8": "nan", "c9": "nan", "c10": "nan", "c11": "nan", "c12": "nan", "c13": "nan", "c14": "nan", "c15": "nan", "c16": "nan", "c17": "nan", "c18": "nan", "c19": "nan", "c20": "nan", "c21": "nan", "c22": "nan", "c23": "nan", "c24": "nan", "c25": "nan", "c26": "nan", "c27": "- | nan | 0", "c28": "971 | nan | 2149", "c29": "186 | nan | 242", "c30": "107 | nan | 134", "c31": "nan | - | 1.5", "c32": "nan | - | +-", "c33": "nan | <40 | <22.0", "c34": "82 | nan | 63", "c35": "26 | nan | 20", "c36": "nan", "c37": "nan", "c38": "nan", "c39": "nan", "c40": "nan", "c41": "nan", "c42": "nan | 28.4", "c43": "nan", "c44": "27 | nan | 42"}}
+{"question_id": "32k:single:Single-150:markdown:r1", "answer": [463, 282, 660]}
+{"question_id": "32k:single:Single-151:markdown:r1", "answer": []}
+{"question_id": "32k:single:Single-153:markdown:r1", "answer": ["James Bond"]}
+{"question_id": "32k:single:Single-155:markdown:r1", "answer": ["toyota", "peugeaut", "opel"]}
+{"question_id": "32k:single:Single-156:markdown:r1", "answer": ["Hyundai", "Chrysler", "Ford"]}
+{"question_id": "32k:single:Single-157:markdown:r1", "answer": ["hyundai", "saab", "honda"]}
+{"question_id": "32k:single:Single-15:markdown:r1", "answer": {"c0": "Union League", "c1": "FAMILY", "c2": "4.0", "c3": "10,000+", "c4": "38MB", "c5": "Free"}}
+{"question_id": "32k:single:Single-17:markdown:r1", "answer": [144, 215, 168]}
+{"question_id": "32k:single:Single-18:markdown:r1", "answer": [181, 173, 3789]}
+{"question_id": "32k:single:Single-19:markdown:r1", "answer": [316, 261, 1579]}
+{"question_id": "32k:single:Single-19_INI:markdown:r1", "answer": ["three hundred and sixteen", "two hundred and sixty-one", "one thousand, five hundred and seventy-nine"]}
+{"question_id": "32k:single:Single-1:markdown:r1", "answer": 1750930132704}
+{"question_id": "32k:single:Single-20:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-27:markdown:r1", "answer": [89, 137, 121747]}
+{"question_id": "32k:single:Single-2:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-32:markdown:r1", "answer": 235}
+{"question_id": "32k:single:Single-33:markdown:r1", "answer": [137, 115, 206]}
+{"question_id": "32k:single:Single-34:markdown:r1", "answer": "best_of"}
+{"question_id": "32k:single:Single-35:markdown:r1", "answer": 112}
+{"question_id": "32k:single:Single-37:markdown:r1", "answer": "02aa05a4-ff94-5bda-8ad7-24f00bd19ec4"}
+{"question_id": "32k:single:Single-3:markdown:r1", "answer": 1822}
+{"question_id": "32k:single:Single-40:markdown:r1", "answer": {"c0": "294", "c1": "5.06", "c2": "32.56", "c3": "0", "c4": "1.2", "c5": "0.67", "c6": "3.46", "c7": "43.41", "c8": "0.32", "c9": "4.13", "c10": "129.49", "c11": "0.7", "c12": "80.74", "c13": "6.72", "c14": "12.55", "c15": "161.32", "c16": "80"}}
+{"question_id": "32k:single:Single-41:markdown:r1", "answer": 124}
+{"question_id": "32k:single:Single-42:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-44:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-49:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-4:markdown:r1", "answer": [40, 5754, 3407]}
+{"question_id": "32k:single:Single-50:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-51:markdown:r1", "answer": [138, 148, 16]}
+{"question_id": "32k:single:Single-54:markdown:r1", "answer": 29618}
+{"question_id": "32k:single:Single-55:markdown:r1", "answer": [128, 159, 24197]}
+{"question_id": "32k:single:Single-56:markdown:r1", "answer": "Supported"}
+{"question_id": "32k:single:Single-57:markdown:r1", "answer": [2473585, 3241983]}
+{"question_id": "32k:single:Single-58:markdown:r1", "answer": "f4cd2d8000030131c72eadd6a388215a"}
+{"question_id": "32k:single:Single-59:markdown:r1", "answer": [48, 56]}
+{"question_id": "32k:single:Single-5:markdown:r1", "answer": 46145}
+{"question_id": "32k:single:Single-63:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-65:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-6:markdown:r1", "answer": [2863400.0, 3390870.0]}
+{"question_id": "32k:single:Single-72:markdown:r1", "answer": {"c0 id": "17934", "c1 date": "2004-10-04", "c2 text": "The ability can only be activated while this ca...", "c3 uuid": "85feac1f-31e0-5d87-a3ad-6ffaddcb8e5f", "c4 index": "100"}}
+{"question_id": "32k:single:Single-74:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-76:markdown:r1", "answer": ["23871", "23856"]}
+{"question_id": "32k:single:Single-78:markdown:r1", "answer": [327, 363, 306]}
+{"question_id": "32k:single:Single-79:markdown:r1", "answer": "nan"}
+{"question_id": "32k:single:Single-7:markdown:r1", "answer": 275}
+{"question_id": "32k:single:Single-89:markdown:r1", "answer": 2}
+{"question_id": "32k:single:Single-90:markdown:r1", "answer": [362, 122466, 352]}
+{"question_id": "32k:single:Single-91:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:multi:Multi-0:markdown:r1", "answer": [{"atom_id": "TR466_5", "molecule_id": "TR466", "element": "c"}, {"atom_id": "TR051_40", "molecule_id": "TR051", "element": "c"}, {"atom_id": "TR089_1", "molecule_id": "TR089", "element": "c"}]}
+{"question_id": "8k:multi:Multi-0:markdown:r2", "answer": []}
+{"question_id": "8k:multi:Multi-0:markdown:r3", "answer": "TR060"}
+{"question_id": "8k:multi:Multi-101:markdown:r1", "answer": ["Juniper Elementary", "Mead Elementary"]}
+{"question_id": "8k:multi:Multi-101:markdown:r2", "answer": ["Juniper Elementary", "Mead Elementary"]}
+{"question_id": "8k:multi:Multi-101:markdown:r3", "answer": ["Mead Elementary"]}
+{"question_id": "8k:multi:Multi-107_INI:markdown:r1", "answer": [632.4200000000001, 10842.000000000002]}
+{"question_id": "8k:multi:Multi-107_INI:markdown:r2", "answer": [632.4200000000001, 10842.000000000002]}
+{"question_id": "8k:multi:Multi-107_INI:markdown:r3", "answer": [632.4200000000001, 10842.000000000002]}
+{"question_id": "8k:multi:Multi-109:markdown:r1", "answer": [632, 10807]}
+{"question_id": "8k:multi:Multi-109:markdown:r2", "answer": [632, 10807]}
+{"question_id": "8k:multi:Multi-109:markdown:r3", "answer": [3028]}
+{"question_id": "8k:multi:Multi-115:markdown:r1", "answer": ["TR466_5", "TR051_40", "TR089_1"]}
+{"question_id": "8k:multi:Multi-115:markdown:r2", "answer": ["TR466_5"]}
+{"question_id": "8k:multi:Multi-115:markdown:r3", "answer": ["TR051_40"]}
+{"question_id": "8k:multi:Multi-115_INI:markdown:r1", "answer": ["TR466_5", "TR051_40", "TR089_1"]}
+{"question_id": "8k:multi:Multi-115_INI:markdown:r2", "answer": ["TR466_5"]}
+{"question_id": "8k:multi:Multi-115_INI:markdown:r3", "answer": ["TR051_40"]}
+{"question_id": "8k:multi:Multi-116:markdown:r1", "answer": ["TR466_5", "TR051_40", "TR089_1"]}
+{"question_id": "8k:multi:Multi-116:markdown:r2", "answer": ["TR466_5"]}
+{"question_id": "8k:multi:Multi-116:markdown:r3", "answer": ["TR466_5"]}
+{"question_id": "8k:multi:Multi-11:markdown:r1", "answer": [632, 10807]}
+{"question_id": "8k:multi:Multi-11:markdown:r2", "answer": [632]}
+{"question_id": "8k:multi:Multi-11:markdown:r3", "answer": ["Rokycany", "Chomutov"]}
+{"question_id": "8k:multi:Multi-11:markdown:r4", "answer": 9675}
+{"question_id": "8k:multi:Multi-120:markdown:r1", "answer": ["TR466_5", "TR051_40", "TR089_1"]}
+{"question_id": "8k:multi:Multi-120:markdown:r2", "answer": ["TR466_5"]}
+{"question_id": "8k:multi:Multi-120:markdown:r3", "answer": ["TR051_40"]}
+{"question_id": "8k:multi:Multi-125:markdown:r1", "answer": [{"c0": "36679426037394", "c1": "nan", "c2": "7877", "c3": "Merged", "c4": "San Bernardino", "c5": "Wrightwood Joint Elementary", "c6": "Wrightwood Elementary", "c7": "1175 State Highway 2", "c8": "1175 State Hwy. 2", "c9": "Wrightwood", "c10": "92397", "c11": "CA", "c12": "1175 State Highway 2", "c13": "1175 State Hwy. 2", "c14": "Wrightwood", "c15": "92397", "c16": "CA", "c17": "nan", "c18": "nan", "c19": "nan", "c20": "1980-07-01", "c21": "1989-06-30", "c22": "0", "c23": "nan", "c24": "nan", "c25": "52", "c26": "Elementary School District", "c27": "61", "c28": "Elemen Schools In 1 School Dist. (Public)", "c29": "nan", "c30": "nan", "c31": "UG", "c32": "Ungraded", "c33": "nan", "c34": "nan", "c35": "nan", "c36": "0", "c37": "34.362", "c38": "-117.636", "c39": "nan", "c40": "nan", "c41": "nan", "c42": "nan", "c43": "nan", "c44": "nan", "c45": "nan", "c46": "nan", "c47": "nan", "c48": "2015-06-18"}, {"c0": "31669513130028", "c1": "642140", "c2": "13320", "c3": "Active", "c4": "Placer", "c5": "Western Placer Unified", "c6": "Lincoln Adult", "c7": "870 J Street", "c8": "870 J St.", "c9": "Lincoln", "c10": "95648-1757", "c11": "nan", "c12": "870 J Street", "c13": "870 J St.", "c14": "Lincoln", "c15": "95648-1757", "c16": "nan", "c17": "(916) 645-6395", "c18": "1003", "c19": "www.ktjusd.k12.ca.us", "c20": "nan", "c21": "nan", "c22": "nan", "c23": "613", "c24": "Directly funded", "c25": "54", "c26": "Unified School District", "c27": "70", "c28": "Adult Education Centers", "c29": "TRAD", "c30": "Traditional", "c31": "A", "c32": "Adult", "c33": "Adult", "c34": "K-3", "c35": "N", "c36": "nan", "c37": "38.8969", "c38": "-121.298", "c39": "Chuck", "c40": "Whitecotton", "c41": "cwhitecotton@wpusd.k12.ca.us", "c42": "nan", "c43": "nan", "c44": "nan", "c45": "nan", "c46": "nan", "c47": "nan", "c48": "2016-01-29"}, {"c0": "1100170136853", "c1": "691051", "c2": "nan", "c3": "Closed", "c4": "Alameda", "c5": "Alameda County Office of Education", "c6": "Roosevelt High (Defunct)", "c7": "nan", "c8": "nan", "c9": "nan", "c10": "nan", "c11": "nan", "c12": "nan", "c13": "nan", "c14": "nan", "c15": "nan", "c16": "nan", "c17": "(530) 625-5600", "c18": "1340", "c19": "www.ceres.k12.ca.us", "c20": "2013-08-14", "c21": "2000-06-30", "c22": "1", "c23": "nan", "c24": "nan", "c25": "0", "c26": "County Office of Education (COE)", "c27": "66", "c28": "High Schools (Public)", "c29": "nan", "c30": "nan", "c31": "nan", "c32": "nan", "c33": "K-6", "c34": "K-6", "c35": "P", "c36": "0", "c37": "nan", "c38": "nan", "c39": "Jon", "c40": "Ray", "c41": "jray@ktjusd.k12.ca.us", "c42": "nan", "c43": "nan", "c44": "nan", "c45": "nan", "c46": "nan", "c47": "nan", "c48": "1999-06-24"}]}
+{"question_id": "8k:multi:Multi-125:markdown:r2", "answer": [{"c5": "Western Placer Unified", "c6": "Lincoln Adult", "c33": "Adult", "c34": "K-3"}, {"c5": "Alameda County Office of Education", "c6": "Roosevelt High (Defunct)", "c33": "K-6", "c34": "K-6"}]}
+{"question_id": "8k:multi:Multi-125:markdown:r3", "answer": "jray@ktjusd.k12.ca.us"}
+{"question_id": "8k:multi:Multi-127:markdown:r1", "answer": [13367, 52874, 44495]}
+{"question_id": "8k:multi:Multi-127:markdown:r2", "answer": [52874, 44495]}
+{"question_id": "8k:multi:Multi-127:markdown:r3", "answer": ["2014-08-05 17:29:39.0", "2014-05-02 23:18:44.0"]}
+{"question_id": "8k:multi:Multi-142:markdown:r1", "answer": ["March Meeting", "Officers meeting - January", "Spring Elections"]}
+{"question_id": "8k:multi:Multi-142:markdown:r2", "answer": ["March Meeting", "Spring Elections"]}
+{"question_id": "8k:multi:Multi-142:markdown:r3", "answer": ["MU 215", "Campus Soccer/Lacrosse stadium"]}
+{"question_id": "8k:multi:Multi-148:markdown:r1", "answer": ["Kuro's Taken"]}
+{"question_id": "8k:multi:Multi-148:markdown:r2", "answer": "Kuro's Taken"}
+{"question_id": "8k:multi:Multi-149:markdown:r1", "answer": [{"c0": "5414", "c7": "R", "c8": "nan", "c9": "nan", "c40": "{3}{U}{R}", "c49": "316", "c58": "common", "c69": "1", "c68": "1", "c70": "Land", "c71": "deea2bfe-f61c-5476-bfb1-d53cf216ce6c", "c72": "815edca0-ad06-5a63-9ab2-513b52d36745,94c1a386-7..."}, {"c0": "48868", "c7": "B", "c8": "nan", "c9": "B", "c40": "{1}{B}", "c49": "79", "c58": "mythic", "c69": "1", "c68": "4", "c70": "Creature", "c71": "ec2515eb-d62b-574b-8882-aea47553ad1f", "c72": "nan"}, {"c0": "21616", "c7": "R,U", "c8": "nan", "c9": "R,U", "c40": "{3}{U}{R}", "c49": "2", "c58": "uncommon", "c69": "4", "c68": "4", "c70": "Sorcery", "c71": "214d34be-3570-5cab-839a-3af7eb53353a", "c72": "nan"}]}
+{"question_id": "8k:multi:Multi-149:markdown:r2", "answer": [{"c0": "5414", "c3": "paper"}, {"c0": "21616", "c3": "paper"}]}
+{"question_id": "8k:multi:Multi-149:markdown:r3", "answer": [{"c0": "5414", "c10": "0"}, {"c0": "21616", "c10": "5"}]}
+{"question_id": "8k:multi:Multi-153:markdown:r1", "answer": ["dina mk"]}
+{"question_id": "8k:multi:Multi-153:markdown:r2", "answer": ["dina mk"]}
+{"question_id": "8k:multi:Multi-153:markdown:r3", "answer": "dina mk"}
+{"question_id": "8k:multi:Multi-159:markdown:r1", "answer": [30987]}
+{"question_id": "8k:multi:Multi-159:markdown:r2", "answer": [30987]}
+{"question_id": "8k:multi:Multi-159:markdown:r3", "answer": "2013-05-03 00:00:00"}
+{"question_id": "8k:multi:Multi-160_INI:markdown:r1", "answer": [30987, 144989, 41769]}
+{"question_id": "8k:multi:Multi-160_INI:markdown:r2", "answer": [30987]}
+{"question_id": "8k:multi:Multi-160_INI:markdown:r3", "answer": [30987]}
+{"question_id": "8k:multi:Multi-168:markdown:r1", "answer": ["TR430_25", "TR120_14", "TR072_27"]}
+{"question_id": "8k:multi:Multi-168:markdown:r2", "answer": ["TR430_25"]}
+{"question_id": "8k:multi:Multi-172:markdown:r1", "answer": ["Salteadores Golgari", "무시무시한 각성"]}
+{"question_id": "8k:multi:Multi-172:markdown:r2", "answer": ["Salteadores Golgari"]}
+{"question_id": "8k:multi:Multi-175:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:multi:Multi-175:markdown:r2", "answer": 154}
+{"question_id": "8k:multi:Multi-175:markdown:r3", "answer": "yes"}
+{"question_id": "8k:multi:Multi-191:markdown:r1", "answer": "Supported"}
+{"question_id": "8k:multi:Multi-191:markdown:r2", "answer": {"c0": "rec017x6R3hQqkLAo", "c1": "Post Cards, Posters", "c2": "2019-08-20", "c3": "122.06", "c4": "1", "c5": "rec4BLdZHS2Blfp4v", "c6": "recvKTAWAFKkVNnXQ"}}
+{"question_id": "8k:multi:Multi-191:markdown:r3", "answer": "yes"}
+{"question_id": "8k:multi:Multi-191:markdown:r4", "answer": "2019-08-20"}
+{"question_id": "8k:multi:Multi-19:markdown:r1", "answer": [167, 632]}
+{"question_id": "8k:multi:Multi-19:markdown:r2", "answer": [632]}
+{"question_id": "8k:multi:Multi-19:markdown:r3", "answer": ["POPLATEK MESICNE"]}
+{"question_id": "8k:multi:Multi-210:markdown:r1", "answer": ["TR430_25", "TR120_14", "TR072_27"]}
+{"question_id": "8k:multi:Multi-210:markdown:r2", "answer": ["TR430_25"]}
+{"question_id": "8k:multi:Multi-210:markdown:r3", "answer": ["TR430_25"]}
+{"question_id": "8k:multi:Multi-211:markdown:r1", "answer": ["TR430_25", "TR120_14", "TR072_27"]}
+{"question_id": "8k:multi:Multi-211:markdown:r2", "answer": ["TR430_25", "TR120_14", "TR072_27"]}
+{"question_id": "8k:multi:Multi-211:markdown:r3", "answer": ["TR430_25", "TR120_14", "TR072_27"]}
+{"question_id": "8k:multi:Multi-214:markdown:r1", "answer": ["Kuro's Taken", "Nerf War"]}
+{"question_id": "8k:multi:Multi-214:markdown:r2", "answer": ["Kuro's Taken", "Nerf War"]}
+{"question_id": "8k:multi:Multi-214:markdown:r3", "answer": "Nerf War"}
+{"question_id": "8k:multi:Multi-215:markdown:r1", "answer": ["Kuro's Taken", "Nerf War"]}
+{"question_id": "8k:multi:Multi-215:markdown:r2", "answer": ["Kuro's Taken", "Nerf War"]}
+{"question_id": "8k:multi:Multi-215:markdown:r3", "answer": ["Kuro's Taken", "Nerf War"]}
+{"question_id": "8k:multi:Multi-227_INI:markdown:r1", "answer": ["Angela", "Grant"]}
+{"question_id": "8k:multi:Multi-227_INI:markdown:r2", "answer": ["Angela", "Grant"]}
+{"question_id": "8k:multi:Multi-227_INI:markdown:r3", "answer": ["Grant", "Luisa"]}
+{"question_id": "8k:multi:Multi-227_INI:markdown:r4", "answer": ["Angela", "Grant"]}
+{"question_id": "8k:multi:Multi-229:markdown:r1", "answer": ["TR371_1_6", "TR209_2_10", "TR307_12_27"]}
+{"question_id": "8k:multi:Multi-229:markdown:r2", "answer": ["TR371_1_6", "TR209_2_10", "TR307_12_27"]}
+{"question_id": "8k:multi:Multi-229:markdown:r3", "answer": ["TR307_12_27"]}
+{"question_id": "8k:multi:Multi-233:markdown:r1", "answer": ["Nerf War", "Kuro's Taken"]}
+{"question_id": "8k:multi:Multi-233:markdown:r2", "answer": ["Kuro's Taken", "Nerf War"]}
+{"question_id": "8k:multi:Multi-233:markdown:r3", "answer": ["Kuro's Taken", "Nerf War"]}
+{"question_id": "8k:multi:Multi-233_INI:markdown:r1", "answer": ["Kuro's Taken", "Nerf War"]}
+{"question_id": "8k:multi:Multi-233_INI:markdown:r2", "answer": ["Nerf War"]}
+{"question_id": "8k:multi:Multi-233_INI:markdown:r3", "answer": ["Nerf War"]}
+{"question_id": "8k:multi:Multi-235:markdown:r1", "answer": ["mkbubba", "dina mk"]}
+{"question_id": "8k:multi:Multi-235:markdown:r2", "answer": ["mkbubba", "dina mk"]}
+{"question_id": "8k:multi:Multi-235:markdown:r3", "answer": ["mkbubba", "dina mk"]}
+{"question_id": "8k:multi:Multi-242:markdown:r1", "answer": ["Circuit de Barcelona-Catalunya"]}
+{"question_id": "8k:multi:Multi-242:markdown:r2", "answer": ["Circuit de Barcelona-Catalunya"]}
+{"question_id": "8k:multi:Multi-242:markdown:r3", "answer": []}
+{"question_id": "8k:multi:Multi-30:markdown:r1", "answer": [{"constructorId": "183", "constructorRef": "brabham-climax", "name": "Brabham-Climax", "nationality": "British", "url": "http://en.wikipedia.org/wiki/Brabham"}, {"constructorId": "98", "constructorRef": "stebro", "name": "Stebro", "nationality": "Canadian", "url": "http://en.wikipedia.org/wiki/Stebro"}, {"constructorId": "26", "constructorRef": "lola", "name": "Lola", "nationality": "South African", "url": "http://en.wikipedia.org/wiki/MasterCard_Lola"}]}
+{"question_id": "8k:multi:Multi-30:markdown:r2", "answer": [{"constructorId": "183", "constructorRef": "brabham-climax", "name": "Brabham-Climax", "nationality": "British", "url": "http://en.wikipedia.org/wiki/Brabham"}]}
+{"question_id": "8k:multi:Multi-30:markdown:r3", "answer": "British"}
+{"question_id": "8k:multi:Multi-32:markdown:r1", "answer": [{"account_id": "167", "district_id": "29", "frequency": "POPLATEK TYDNE", "date": "1996-02-26"}, {"account_id": "632", "district_id": "34", "frequency": "POPLATEK MESICNE", "date": "1996-05-14"}, {"account_id": "10807", "district_id": "34", "frequency": "POPLATEK MESICNE", "date": "1996-03-13"}]}
+{"question_id": "8k:multi:Multi-32:markdown:r2", "answer": [{"client_id": "3028", "gender": "F", "birth_date": "1932-04-23", "district_id": "34"}]}
+{"question_id": "8k:multi:Multi-32:markdown:r3", "answer": "F"}
+{"question_id": "8k:multi:Multi-33_INI:markdown:r1", "answer": [{"name": "Brabham-Climax", "nationality": "British"}, {"name": "Stebro", "nationality": "Canadian"}, {"name": "Lola", "nationality": "South African"}]}
+{"question_id": "8k:multi:Multi-33_INI:markdown:r2", "answer": {"name": "Brabham-Climax", "nationality": "British", "constructorRef": "brabham-climax"}}
+{"question_id": "8k:multi:Multi-35:markdown:r1", "answer": [632, 10807]}
+{"question_id": "8k:multi:Multi-35:markdown:r2", "answer": [3551380, 3253539]}
+{"question_id": "8k:multi:Multi-35:markdown:r3", "answer": [3551380]}
+{"question_id": "8k:multi:Multi-47_INI:markdown:r1", "answer": [632.4200000000001, 10804.2, 167.02]}
+{"question_id": "8k:multi:Multi-47_INI:markdown:r2", "answer": [186621, 3253000, 551000]}
+{"question_id": "8k:multi:Multi-48:markdown:r1", "answer": ["TR466"]}
+{"question_id": "8k:multi:Multi-48:markdown:r2", "answer": ["-"]}
+{"question_id": "8k:multi:Multi-48_INI:markdown:r1", "answer": ["TR466"]}
+{"question_id": "8k:multi:Multi-48_INI:markdown:r2", "answer": ["-"]}
+{"question_id": "8k:multi:Multi-52:markdown:r1", "answer": {"c1": "stebro", "c2": "Stebro", "c3": "Canadian", "c4": "http://en.wikipedia.org/wiki/Stebro"}}
+{"question_id": "8k:multi:Multi-52:markdown:r2", "answer": {"c3": "Canadian"}}
+{"question_id": "8k:multi:Multi-54:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:multi:Multi-54:markdown:r2", "answer": "http://en.wikipedia.org/wiki/Scandinavian_Racew..."}
+{"question_id": "8k:multi:Multi-56:markdown:r1", "answer": {"constructorId": "26", "constructorRef": "brabham-climax", "name": "Brabham-Climax", "nationality": "British", "url": "http://en.wikipedia.org/wiki/Brabham"}}
+{"question_id": "8k:multi:Multi-56:markdown:r2", "answer": {"driverId": "301", "driverRef": "morgan", "number": "nan", "code": "nan", "forename": "Dave", "surname": "Morgan", "dob": "1944-08-07", "nationality": "British", "url": "http://en.wikipedia.org/wiki/Dave_Morgan_(racin..."}}
+{"question_id": "8k:multi:Multi-60:markdown:r1", "answer": {"c0": "client_id", "c1": "gender", "c2": "birth_date", "c3": "district_id"}}
+{"question_id": "8k:multi:Multi-60:markdown:r2", "answer": {"c0": "client_id", "c1": "gender", "c2": "birth_date", "c3": "district_id"}}
+{"question_id": "8k:multi:Multi-60:markdown:r3", "answer": {"c0": "district_id", "c1": "A2", "c2": "A3", "c3": "A4", "c4": "A5", "c5": "A6", "c6": "A7", "c7": "A8", "c8": "A9", "c9": "A10", "c10": "A11", "c11": "A12", "c12": "A13", "c13": "A14", "c14": "A15", "c15": "A16"}}
+{"question_id": "8k:multi:Multi-69:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:multi:Multi-69:markdown:r2", "answer": {"molecule_id": "TR466", "label": "+"}}
+{"question_id": "8k:multi:Multi-72:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:multi:Multi-72:markdown:r2", "answer": ["c", "h", "cl"]}
+{"question_id": "8k:multi:Multi-72:markdown:r3", "answer": ["-"]}
+{"question_id": "8k:multi:Multi-7:markdown:r1", "answer": [{"School": "Juniper Elementary", "StatusType": "Active", "EdOpsName": "Traditional"}, {"School": "Mead Elementary", "StatusType": "Active", "EdOpsName": "Traditional"}]}
+{"question_id": "8k:multi:Multi-7:markdown:r2", "answer": [{"School": "Juniper Elementary", "County": "San Bernardino"}, {"School": "Mead Elementary", "County": "San Bernardino"}]}
+{"question_id": "8k:multi:Multi-7:markdown:r3", "answer": "t.barker@westside.k12.ca.us"}
+{"question_id": "8k:multi:Multi-85:markdown:r1", "answer": ["Rokycany", "Chomutov"]}
+{"question_id": "8k:multi:Multi-85:markdown:r2", "answer": ["Chomutov"]}
+{"question_id": "8k:multi:Multi-85:markdown:r3", "answer": ["Chomutov"]}
+{"question_id": "8k:multi:Multi-88:markdown:r1", "answer": ["Rokycany", "Chomutov"]}
+{"question_id": "8k:multi:Multi-88:markdown:r2", "answer": ["Chomutov"]}
+{"question_id": "8k:multi:Multi-88:markdown:r3", "answer": [10807]}
+{"question_id": "8k:multi:Multi-91_INI:markdown:r1", "answer": [632.4200000000001, 10842.000000000002]}
+{"question_id": "8k:multi:Multi-91_INI:markdown:r2", "answer": [632.4200000000001, 10842.000000000002]}
+{"question_id": "8k:multi:Multi-91_INI:markdown:r3", "answer": [1, 2, 3]}
+{"question_id": "8k:multi:Multi-96:markdown:r1", "answer": ["Rokycany", "Chomutov"]}
+{"question_id": "8k:multi:Multi-96:markdown:r2", "answer": ["Chomutov"]}
+{"question_id": "8k:multi:Multi-96:markdown:r3", "answer": [10807]}
+{"question_id": "8k:multi:Multi-98:markdown:r1", "answer": ["Rokycany", "Chomutov"]}
+{"question_id": "8k:multi:Multi-98:markdown:r2", "answer": ["Rokycany"]}
+{"question_id": "8k:multi:Multi-98:markdown:r3", "answer": ["Rokycany"]}
+{"question_id": "8k:multi:Multi-99:markdown:r1", "answer": ["Rokycany"]}
+{"question_id": "8k:multi:Multi-99:markdown:r2", "answer": ["Rokycany"]}
+{"question_id": "8k:multi:Multi-99:markdown:r3", "answer": ["Rokycany"]}
+{"question_id": "8k:multi:Multi-9:markdown:r1", "answer": [{"constructorRef": "brabham-climax", "nationality": "British"}, {"constructorRef": "stebro", "nationality": "Canadian"}, {"constructorRef": "lola", "nationality": "South African"}]}
+{"question_id": "8k:multi:Multi-9:markdown:r2", "answer": [{"constructorRef": "brabham-climax", "nationality": "British"}, {"constructorRef": "stebro", "nationality": "Canadian"}, {"constructorRef": "lola", "nationality": "South African"}]}
+{"question_id": "8k:multi:Multi-9:markdown:r3", "answer": []}
+{"question_id": "8k:single:Single-103:markdown:r1", "answer": 628}
+{"question_id": "8k:single:Single-104:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-106:markdown:r1", "answer": {"c62": "SOK", "c63": "nan", "c64": "nan", "c65": "nan", "c66": "nan", "c67": "Bushido 1 (Whenever this creature blocks or bec...", "c68": "1", "c69": "Creature — Rat Samurai", "c70": "Creature", "c71": "ec2515eb-d62b-574b-8882-aea47553ad1f", "c72": "nan", "c73": "nan", "c5": "white", "c3": "mtgo,paper", "c1": "Puddnhead", "c2": "nan", "c4": "white", "c15": "nan", "c16": "nan", "c17": "nan", "c18": "nan", "c19": "nan", "c20": "0", "c21": "0", "c22": "0", "c23": "1", "c24": "0", "c25": "0", "c26": "0", "c27": "0", "c28": "0", "c29": "0", "c30": "0", "c31": "0", "c32": "0", "c33": "0", "c34": "0", "c35": "Bushido", "c36": "normal", "c37": "nan", "c38": "nan", "c39": "nan", "c40": "{1}{B}", "c41": "12707", "c42": "7298", "c43": "nan", "c44": "1b2dbbd4-64e7-5e0e-ac4e-1978dcb3d16c", "c45": "21981", "c46": "21980", "c47": "74065", "c48": "Kuro's Taken", "c49": "79", "c50": "nan", "c51": "Bushido 1 (When this blocks or becomes blocked,...", "c52": "Creature - Rat Samurai", "c53": "nan", "c54": "1", "c55": "SOK", "c56": "nan", "c57": "{'cardKingdom': 'https://mtgjson.com/links/8bae...}", "c58": "common", "c59": "1e301a46-f321-4fa6-a8c4-08dd4079a458", "c60": "81165387-7d4b-4390-9e2b-8df941f13713", "c61": "8b787ba5-0b87-449f-98cd-9454445e2f48"}}
+{"question_id": "8k:single:Single-107:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-108:markdown:r1", "answer": 13537}
+{"question_id": "8k:single:Single-110:markdown:r1", "answer": 1090}
+{"question_id": "8k:single:Single-111:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-119:markdown:r1", "answer": "e34abfc20e833e7759e3d7ed40c04ecc"}
+{"question_id": "8k:single:Single-11:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-121:markdown:r1", "answer": 6319}
+{"question_id": "8k:single:Single-133:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-139:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-145:markdown:r1", "answer": [{"name": "Nerf War", "convertedManaCost": "5", "availability": "paper"}, {"name": "Kuro's Taken", "convertedManaCost": "2", "availability": "paper"}]}
+{"question_id": "8k:single:Single-149:markdown:r1", "answer": ["TR430_25", "TR120_14", "TR072_27"]}
+{"question_id": "8k:single:Single-157:markdown:r1", "answer": [{"name": "Kuro's Taken", "availability": "paper", "convertedManaCost": "2", "keywords": "Defender"}, {"name": "Nerf War", "availability": "paper", "convertedManaCost": "2", "keywords": "Defender"}]}
+{"question_id": "8k:single:Single-161:markdown:r1", "answer": [{"language": "Chinese Simplified", "setCode": "DDG", "translation": "Knights vs. Dragons"}, {"language": "Italian", "setCode": "ODY", "translation": "Odissea"}, {"language": "Russian", "setCode": "V10", "translation": "From The Vault: Relics"}]}
+{"question_id": "8k:single:Single-171:markdown:r1", "answer": [{"name": "Kuro's Taken", "setCode": "SOK", "convertedManaCost": "2"}, {"name": "Nerf War", "setCode": "SOK", "convertedManaCost": "2"}]}
+{"question_id": "8k:single:Single-172:markdown:r1", "answer": ["Kuro's Taken", "Nerf War"]}
+{"question_id": "8k:single:Single-175:markdown:r1", "answer": 659667}
+{"question_id": "8k:single:Single-177:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-17_INI:markdown:r1", "answer": [4124, 3742, 1713]}
+{"question_id": "8k:single:Single-181:markdown:r1", "answer": [659667, 637722, 647435]}
+{"question_id": "8k:single:Single-196:markdown:r1", "answer": "Supported"}
+{"question_id": "8k:single:Single-19_INI:markdown:r1", "answer": [27, 3559, 658]}
+{"question_id": "8k:single:Single-200:markdown:r1", "answer": [8239, 10363]}
+{"question_id": "8k:single:Single-211_INI:markdown:r1", "answer": ["The Rise of the Blue Beetle!", "Terror on Dinosaur Island!", "Evil Under the Sea!"]}
+{"question_id": "8k:single:Single-216:markdown:r1", "answer": "101"}
+{"question_id": "8k:single:Single-219_INI:markdown:r1", "answer": ["Lorenz", "Orlando", "Nora"]}
+{"question_id": "8k:single:Single-21:markdown:r1", "answer": [297324, 249303]}
+{"question_id": "8k:single:Single-223:markdown:r1", "answer": ["Introduction of OS", "Understanding DB", "Summer Show"]}
+{"question_id": "8k:single:Single-226:markdown:r1", "answer": [7, 9, 65]}
+{"question_id": "8k:single:Single-33:markdown:r1", "answer": [1422814, 860448]}
+{"question_id": "8k:single:Single-36:markdown:r1", "answer": 4260}
+{"question_id": "8k:single:Single-42_INI:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-43:markdown:r1", "answer": [582, 1106, 628]}
+{"question_id": "8k:single:Single-4:markdown:r1", "answer": [106175]}
+{"question_id": "8k:single:Single-4_INI:markdown:r1", "answer": [106175]}
+{"question_id": "8k:single:Single-60:markdown:r1", "answer": [549, 364, 572]}
+{"question_id": "8k:single:Single-68:markdown:r1", "answer": 3}
+{"question_id": "8k:single:Single-75:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-77:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-83:markdown:r1", "answer": [8452, 4722, 6567]}
+{"question_id": "8k:single:Single-84:markdown:r1", "answer": "Africa"}
+{"question_id": "8k:single:Single-88:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-91:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-95:markdown:r1", "answer": ["C000240", "H000724"]}
+{"question_id": "8k:single:Single-96_INI:markdown:r1", "answer": "Supported"}
+{"question_id": "inf:multi:Multi-0:markdown:r1", "answer": []}
+{"question_id": "inf:multi:Multi-0:markdown:r2", "answer": []}
+{"question_id": "inf:multi:Multi-0:markdown:r3", "answer": []}
+{"question_id": "inf:multi:Multi-0:markdown:r4", "answer": []}
+{"question_id": "inf:multi:Multi-11:markdown:r1", "answer": ["Circuit de Monaco", "Scandinavian Raceway"]}
+{"question_id": "inf:multi:Multi-11:markdown:r2", "answer": ["Circuit de Monaco", "Scandinavian Raceway"]}
+{"question_id": "inf:multi:Multi-11:markdown:r3", "answer": ["Elmer George", "Pat Flaherty"]}
+{"question_id": "inf:multi:Multi-12:markdown:r1", "answer": ["Circuit de Monaco", "Scandinavian Raceway"]}
+{"question_id": "inf:multi:Multi-12:markdown:r2", "answer": ["Circuit de Monaco", "Scandinavian Raceway"]}
+{"question_id": "inf:multi:Multi-12:markdown:r3", "answer": ["Scandinavian Raceway"]}
+{"question_id": "inf:multi:Multi-15:markdown:r1", "answer": 351}
+{"question_id": "inf:multi:Multi-15:markdown:r2", "answer": 15}
+{"question_id": "inf:multi:Multi-15:markdown:r3", "answer": "nan"}
+{"question_id": "inf:multi:Multi-15:markdown:r4", "answer": "nan"}
+{"question_id": "inf:multi:Multi-15:markdown:r5", "answer": {"superhero_name": "Charles Chandler", "height_cm": 203, "difference_cm": 15}}
+{"question_id": "inf:multi:Multi-15_INI:markdown:r1", "answer": 176.0}
+{"question_id": "inf:multi:Multi-15_INI:markdown:r2", "answer": 12.0}
+{"question_id": "inf:multi:Multi-15_INI:markdown:r3", "answer": "zero"}
+{"question_id": "inf:multi:Multi-15_INI:markdown:r4", "answer": "zero"}
+{"question_id": "inf:multi:Multi-15_INI:markdown:r5", "answer": "Emil Blonsky is taller than Charles Chandler by 12.0 cm"}
+{"question_id": "inf:multi:Multi-16:markdown:r1", "answer": {"forename": "Lewis", "surname": "Hamilton", "dob": "1985-01-07", "nationality": "British", "url": "http://en.wikipedia.org/wiki/Lewis_Hamilton"}}
+{"question_id": "inf:multi:Multi-16:markdown:r2", "answer": {"nationality": "British"}}
+{"question_id": "inf:multi:Multi-16:markdown:r3", "answer": {"code": "HAM"}}
+{"question_id": "inf:multi:Multi-16:markdown:r4", "answer": {"dob": "1985-01-07"}}
+{"question_id": "inf:multi:Multi-16:markdown:r5", "answer": {"url": "http://en.wikipedia.org/wiki/Lewis_Hamilton"}}
+{"question_id": "inf:multi:Multi-16_INI:markdown:r1", "answer": {"c0": "3.00×10^+00", "c1": "rosberg", "c2": "6.00×10^+00", "c3": "ROS", "c4": "Nico", "c5": "Rosberg", "c6": "1985-06-27", "c7": "Spanish", "c8": "http://en.wikipedia.org/wiki/Nico_Rosberg"}}
+{"question_id": "inf:multi:Multi-16_INI:markdown:r2", "answer": "Spanish"}
+{"question_id": "inf:multi:Multi-16_INI:markdown:r3", "answer": "ROS"}
+{"question_id": "inf:multi:Multi-16_INI:markdown:r4", "answer": "1985-06-27"}
+{"question_id": "inf:multi:Multi-16_INI:markdown:r5", "answer": "http://en.wikipedia.org/wiki/Nico_Rosberg"}
+{"question_id": "inf:multi:Multi-17:markdown:r1", "answer": ["Australian Grand Prix", "Malaysian Grand Prix", "Chinese Grand Prix"]}
+{"question_id": "inf:multi:Multi-17:markdown:r2", "answer": ["Australian Grand Prix", "Malaysian Grand Prix", "Chinese Grand Prix"]}
+{"question_id": "inf:multi:Multi-17:markdown:r3", "answer": ["Malaysian Grand Prix", "Chinese Grand Prix"]}
+{"question_id": "inf:multi:Multi-17:markdown:r4", "answer": ["http://en.wikipedia.org/wiki/2009_Malaysian_Gr...", "http://en.wikipedia.org/wiki/2009_Chinese_Grand..."]}
+{"question_id": "inf:multi:Multi-19:markdown:r1", "answer": ["Fists of Ironwood"]}
+{"question_id": "inf:multi:Multi-19:markdown:r2", "answer": ["Fists of Ironwood"]}
+{"question_id": "inf:multi:Multi-19:markdown:r3", "answer": ["rare"]}
+{"question_id": "inf:multi:Multi-21:markdown:r1", "answer": ["Stephen", "nagama", "user25574"]}
+{"question_id": "inf:multi:Multi-21:markdown:r2", "answer": ["Stephen"]}
+{"question_id": "inf:multi:Multi-21:markdown:r3", "answer": 325672}
+{"question_id": "inf:multi:Multi-24:markdown:r1", "answer": "Abraham Sapien"}
+{"question_id": "inf:multi:Multi-24:markdown:r2", "answer": "nan"}
+{"question_id": "inf:multi:Multi-24:markdown:r3", "answer": 3}
+{"question_id": "inf:multi:Multi-24_INI:markdown:r1", "answer": "Abraham Sapien"}
+{"question_id": "inf:multi:Multi-24_INI:markdown:r2", "answer": "zero"}
+{"question_id": "inf:multi:Multi-24_INI:markdown:r3", "answer": 4}
+{"question_id": "inf:multi:Multi-25:markdown:r1", "answer": [{"raceId": "1", "year": "2009", "round": "1", "circuitId": "1", "name": "Australian Grand Prix", "date": "2009-03-29", "time": "06:00:00", "url": "http://en.wikipedia.org/wiki/2009_Australian_Gr..."}]}
+{"question_id": "inf:multi:Multi-25:markdown:r2", "answer": [{"raceId": "1", "year": "2009", "round": "1", "circuitId": "1", "name": "Australian Grand Prix", "date": "2009-03-29", "time": "06:00:00", "url": "http://en.wikipedia.org/wiki/2009_Australian_Gr..."}]}
+{"question_id": "inf:multi:Multi-25:markdown:r3", "answer": "http://en.wikipedia.org/wiki/2009_Australian_Gr..."}
+{"question_id": "inf:multi:Multi-26:markdown:r1", "answer": ["Australian Grand Prix", "Malaysian Grand Prix", "Chinese Grand Prix"]}
+{"question_id": "inf:multi:Multi-26:markdown:r2", "answer": ["Malaysian Grand Prix"]}
+{"question_id": "inf:multi:Multi-26:markdown:r3", "answer": "Malaysian Grand Prix"}
+{"question_id": "inf:multi:Multi-27:markdown:r1", "answer": "Australian Grand Prix"}
+{"question_id": "inf:multi:Multi-27:markdown:r2", "answer": "2009-03-29"}
+{"question_id": "inf:multi:Multi-27:markdown:r3", "answer": "http://en.wikipedia.org/wiki/2009_Australian_Gr..."}
+{"question_id": "inf:multi:Multi-28:markdown:r1", "answer": [{"c0": "12629010000000", "c6": "nan", "c19": "www.ktjusd.k12.ca.us", "c24": "nan"}, {"c0": "36738906035331", "c6": "Congressman Jerry Lewis Elementary", "c19": "www.svusdk12.net", "c24": "Locally funded"}, {"c0": "33670586113880", "c6": "James Earl Carter Elementary", "c19": "www.dsusd.us", "c24": "Directly funded"}]}
+{"question_id": "inf:multi:Multi-28:markdown:r2", "answer": [{"c0": "33670586113880", "c6": "James Earl Carter Elementary", "c4": "Riverside", "c24": "Directly funded"}]}
+{"question_id": "inf:multi:Multi-28:markdown:r3", "answer": [{"c0": "33670586113880", "c6": "James Earl Carter Elementary", "c33": "K-5", "c24": "Directly funded", "c4": "Riverside"}]}
+{"question_id": "inf:multi:Multi-30_INI:markdown:r1", "answer": ["Iconic Masters"]}
+{"question_id": "inf:multi:Multi-30_INI:markdown:r2", "answer": "GNT"}
+{"question_id": "inf:multi:Multi-30_INI:markdown:r3", "answer": "6.80×10^+01"}
+{"question_id": "inf:multi:Multi-31:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:multi:Multi-31:markdown:r2", "answer": {"c10": "191", "c11": "65"}}
+{"question_id": "inf:multi:Multi-31:markdown:r3", "answer": {"c7": "24"}}
+{"question_id": "inf:multi:Multi-33:markdown:r1", "answer": {"raceId": 1, "year": 2009, "round": 1, "circuitId": 1, "name": "Australian Grand Prix", "date": "2009-03-29", "time": "06:00:00", "url": "http://en.wikipedia.org/wiki/2009_Australian_Gr..."}}
+{"question_id": "inf:multi:Multi-33:markdown:r2", "answer": {"date": "2009-03-29"}}
+{"question_id": "inf:multi:Multi-33:markdown:r3", "answer": {"time": "06:00:00"}}
+{"question_id": "inf:multi:Multi-33:markdown:r4", "answer": "http://en.wikipedia.org/wiki/2009_Australian_Gr..."}
+{"question_id": "inf:multi:Multi-34:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:multi:Multi-34:markdown:r2", "answer": "TR096_20_32"}
+{"question_id": "inf:multi:Multi-34:markdown:r3", "answer": "Unsupported"}
+{"question_id": "inf:multi:Multi-34:markdown:r4", "answer": ["TR096_32", "TR043_13", "TR211_22"]}
+{"question_id": "inf:multi:Multi-35:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:multi:Multi-35:markdown:r2", "answer": {"DisplayName": "nagama", "Location": "United States"}}
+{"question_id": "inf:multi:Multi-35:markdown:r3", "answer": {"DisplayName": "nagama", "Views": 1}}
+{"question_id": "inf:multi:Multi-35:markdown:r4", "answer": {"AccountId": "3214624"}}
+{"question_id": "inf:multi:Multi-36:markdown:r1", "answer": {"c0": "9546", "c1": "114", "c2": "2012-03-01 20:09:31.0", "c3": "Stephen", "c4": "2012-04-19 15:41:28.0", "c5": "http://www.google.com", "c6": "nan", "c7": "nan", "c8": "30", "c9": "1", "c10": "0", "c11": "1291622", "c12": "nan", "c13": "nan"}}
+{"question_id": "inf:multi:Multi-36:markdown:r2", "answer": {"c3": "Stephen"}}
+{"question_id": "inf:multi:Multi-36:markdown:r3", "answer": "nan"}
+{"question_id": "inf:multi:Multi-38:markdown:r1", "answer": ["Fists of Ironwood", "Generous Gift"]}
+{"question_id": "inf:multi:Multi-38:markdown:r2", "answer": ["Generous Gift"]}
+{"question_id": "inf:multi:Multi-38:markdown:r3", "answer": ["Generous Gift"]}
+{"question_id": "inf:multi:Multi-39:markdown:r1", "answer": ["ROS"]}
+{"question_id": "inf:multi:Multi-39:markdown:r2", "answer": ["ROS"]}
+{"question_id": "inf:multi:Multi-39:markdown:r3", "answer": "Nico Rosberg"}
+{"question_id": "inf:multi:Multi-3:markdown:r1", "answer": ["Alexander Hamilton Senior High", "Cobalt Institute of Math and Science Academy"]}
+{"question_id": "inf:multi:Multi-3:markdown:r2", "answer": 2}
+{"question_id": "inf:multi:Multi-3:markdown:r3", "answer": "Locally funded"}
+{"question_id": "inf:multi:Multi-40:markdown:r1", "answer": ["Lewis Hamilton", "Nico Rosberg"]}
+{"question_id": "inf:multi:Multi-40:markdown:r2", "answer": ["Nico Rosberg"]}
+{"question_id": "inf:multi:Multi-40:markdown:r3", "answer": "Spanish"}
+{"question_id": "inf:multi:Multi-41:markdown:r1", "answer": ["hamilton", "rosberg"]}
+{"question_id": "inf:multi:Multi-41:markdown:r2", "answer": ["hamilton", "rosberg"]}
+{"question_id": "inf:multi:Multi-41:markdown:r3", "answer": ["hamilton"]}
+{"question_id": "inf:multi:Multi-41_INI:markdown:r1", "answer": ["hamilton", "rosberg"]}
+{"question_id": "inf:multi:Multi-41_INI:markdown:r2", "answer": ["hamilton", "rosberg"]}
+{"question_id": "inf:multi:Multi-41_INI:markdown:r3", "answer": ["hamilton"]}
+{"question_id": "inf:multi:Multi-42_INI:markdown:r1", "answer": ["TR043_13_14"]}
+{"question_id": "inf:multi:Multi-42_INI:markdown:r2", "answer": ["TR043_13_14"]}
+{"question_id": "inf:multi:Multi-42_INI:markdown:r3", "answer": ["TR043_13_14"]}
+{"question_id": "inf:multi:Multi-43:markdown:r1", "answer": ["Fists of Ironwood"]}
+{"question_id": "inf:multi:Multi-43:markdown:r2", "answer": ["Fists of Ironwood"]}
+{"question_id": "inf:multi:Multi-43:markdown:r3", "answer": ["Fists of Ironwood"]}
+{"question_id": "inf:multi:Multi-44:markdown:r1", "answer": [{"c0": "12629010000000", "c1": "619950", "c2": "nan", "c3": "Active", "c4": "Humboldt", "c5": "Klamath-Trinity Joint Unified", "c6": "nan", "c7": "11800 Highway 96", "c8": "11800 Highway 96", "c9": "Hoopa", "c10": "95546-1308", "c11": "CA", "c12": "PO Box 1308", "c13": "PO Box 1308", "c14": "Hoopa", "c15": "95546-1308", "c16": "CA", "c17": "(530) 625-5600", "c18": "1003", "c19": "www.ktjusd.k12.ca.us", "c20": "nan", "c21": "nan", "c22": "nan", "c23": "nan", "c24": "nan", "c25": "54", "c26": "Unified School District", "c27": "nan", "c28": "nan", "c29": "nan", "c30": "nan", "c31": "nan", "c32": "nan", "c33": "nan", "c34": "nan", "c35": "nan", "c36": "nan", "c37": "41.0544", "c38": "-123.679", "c39": "Jon", "c40": "Ray", "c41": "jray@ktjusd.k12.ca.us", "c42": "nan", "c43": "nan", "c44": "nan", "c45": "nan", "c46": "nan", "c47": "nan", "c48": "2016-04-08"}, {"c0": "36738906035331", "c1": "636820", "c2": "7873", "c3": "Closed", "c4": "San Bernardino", "c5": "Silver Valley Unified", "c6": "Congressman Jerry Lewis Elementary", "c7": "1800 Blackhawk Street", "c8": "1800 Blackhawk St.", "c9": "Fort Irwin", "c10": "92310-1700", "c11": "nan", "c12": "PO Box 847", "c13": "PO Box 847", "c14": "Yermo", "c15": "92398-0847", "c16": "nan", "c17": "(760) 386-1900", "c18": "nan", "c19": "www.svusdk12.net", "c20": "1980-07-01", "c21": "2004-12-19", "c22": "0", "c23": "377", "c24": "Locally funded", "c25": "52", "c26": "Elementary School District", "c27": "60", "c28": "Elementary Schools (Public)", "c29": "TRAD", "c30": "Traditional", "c31": "ELEM", "c32": "Elementary", "c33": "P-2", "c34": "K-2", "c35": "N", "c36": "0", "c37": "35.2646", "c38": "-116.696", "c39": "Taryn", "c40": "Lamoreaux", "c41": "tlamoreaux@svusdk12.net", "c42": "Summer", "c43": "Shadley", "c44": "sshadley@pierce.k12.ca.us", "c45": "nan", "c46": "nan", "c47": "nan", "c48": "2016-08-17"}, {"c0": "33670586113880", "c1": "611110", "c2": "6219", "c3": "Merged", "c4": "Riverside", "c5": "Desert Sands Unified", "c6": "James Earl Carter Elementary", "c7": "74-251 Hovley Lane East", "c8": "74-251 Hovley Ln. East", "c9": "Palm Desert", "c10": "92260-1700", "c11": "CA", "c12": "74-251 Hovley Lane East", "c13": "74-251 Hovley Ln. East", "c14": "Palm Desert", "c15": "92260-1700", "c16": "CA", "c17": "(760) 862-4370", "c18": "201", "c19": "www.dsusd.us", "c20": "1996-09-05", "c21": "1997-02-24", "c22": "1", "c23": "124", "c24": "Directly funded", "c25": "0", "c26": "County Office of Education (COE)", "c27": "66", "c28": "High Schools (Public)", "c29": "OPP", "c30": "Opportunity School", "c31": "ELEMHIGH", "c32": "Elementary-High Combination", "c33": "K-5", "c34": "K-5", "c35": "P", "c36": "1", "c37": "33.747", "c38": "-116.373", "c39": "Jeff", "c40": "Hisgen", "c41": "jeffrey.hisgen@desertsands.us", "c42": "Jason", "c43": "Armstrong", "c44": "jarmstrong@corninghs.org", "c45": "nan", "c46": "nan", "c47": "nan", "c48": "2015-06-18"}]}
+{"question_id": "inf:multi:Multi-44:markdown:r2", "answer": [{"c0": "12629010000000", "c3": "Active", "c4": "Humboldt", "c5": "Klamath-Trinity Joint Unified", "c6": "nan", "c7": "11800 Highway 96", "c8": "11800 Highway 96", "c9": "Hoopa", "c10": "95546-1308", "c11": "CA", "c12": "PO Box 1308", "c13": "PO Box 1308", "c14": "Hoopa", "c15": "95546-1308", "c16": "CA", "c17": "(530) 625-5600", "c18": "1003", "c19": "www.ktjusd.k12.ca.us", "c20": "nan", "c21": "nan", "c22": "nan", "c23": "nan", "c24": "nan", "c25": "54", "c26": "Unified School District", "c27": "nan", "c28": "nan", "c29": "nan", "c30": "nan", "c31": "nan", "c32": "nan", "c33": "nan", "c34": "nan", "c35": "nan", "c36": "nan", "c37": "41.0544", "c38": "-123.679", "c39": "Jon", "c40": "Ray", "c41": "jray@ktjusd.k12.ca.us", "c42": "nan", "c43": "nan", "c44": "nan", "c45": "nan", "c46": "nan", "c47": "nan", "c48": "2016-04-08"}, {"c0": "33670586113880", "c3": "Merged", "c4": "Riverside", "c5": "Desert Sands Unified", "c6": "James Earl Carter Elementary", "c7": "74-251 Hovley Lane East", "c8": "74-251 Hovley Ln. East", "c9": "Palm Desert", "c10": "92260-1700", "c11": "CA", "c12": "74-251 Hovley Lane East", "c13": "74-251 Hovley Ln. East", "c14": "Palm Desert", "c15": "92260-1700", "c16": "CA", "c17": "(760) 862-4370", "c18": "201", "c19": "www.dsusd.us", "c20": "1996-09-05", "c21": "1997-02-24", "c22": "1", "c23": "124", "c24": "Directly funded", "c25": "0", "c26": "County Office of Education (COE)", "c27": "66", "c28": "High Schools (Public)", "c29": "OPP", "c30": "Opportunity School", "c31": "ELEMHIGH", "c32": "Elementary-High Combination", "c33": "K-5", "c34": "K-5", "c35": "P", "c36": "1", "c37": "33.747", "c38": "-116.373", "c39": "Jeff", "c40": "Hisgen", "c41": "jeffrey.hisgen@desertsands.us", "c42": "Jason", "c43": "Armstrong", "c44": "jarmstrong@corninghs.org", "c45": "nan", "c46": "nan", "c47": "nan", "c48": "2015-06-18"}]}
+{"question_id": "inf:multi:Multi-44:markdown:r3", "answer": [{"c0": "33670586113880", "c22": "1", "c23": "124", "c24": "Directly funded", "c25": "0", "c26": "County Office of Education (COE)", "c27": "66", "c28": "High Schools (Public)", "c29": "OPP", "c30": "Opportunity School", "c31": "ELEMHIGH", "c32": "Elementary-High Combination", "c33": "K-5", "c34": "K-5", "c35": "P", "c36": "1", "c37": "33.747", "c38": "-116.373", "c39": "Jeff", "c40": "Hisgen", "c41": "jeffrey.hisgen@desertsands.us", "c42": "Jason", "c43": "Armstrong", "c44": "jarmstrong@corninghs.org", "c45": "nan", "c46": "nan", "c47": "nan", "c48": "2015-06-18"}]}
+{"question_id": "inf:multi:Multi-4:markdown:r1", "answer": ["Alexander Hamilton Senior High", "Cobalt Institute of Math and Science Academy"]}
+{"question_id": "inf:multi:Multi-4:markdown:r2", "answer": ["Cobalt Institute of Math and Science Academy"]}
+{"question_id": "inf:multi:Multi-4:markdown:r3", "answer": ["Cobalt Institute of Math and Science Academy"]}
+{"question_id": "inf:multi:Multi-4:markdown:r4", "answer": ["Cobalt Institute of Math and Science Academy"]}
+{"question_id": "inf:multi:Multi-5:markdown:r1", "answer": ["Alexander Hamilton Senior High", "Cobalt Institute of Math and Science Academy"]}
+{"question_id": "inf:multi:Multi-5:markdown:r2", "answer": ["Alexander Hamilton Senior High", "Cobalt Institute of Math and Science Academy"]}
+{"question_id": "inf:multi:Multi-5:markdown:r3", "answer": ["1980-07-01", "1997-09-01"]}
+{"question_id": "inf:multi:Multi-7:markdown:r1", "answer": [{"circuitId": 6, "circuitRef": "monaco", "name": "Circuit de Monaco", "location": "Monte-Carlo", "country": "Monaco", "lat": "43.7347", "lng": "7.42056", "url": "http://en.wikipedia.org/wiki/Circuit_de_Monaco"}, {"circuitId": 47, "circuitRef": "anderstorp", "name": "Scandinavian Raceway", "location": "Anderstorp", "country": "Sweden", "lat": "57.2653", "lng": "13.6042", "url": "http://en.wikipedia.org/wiki/Scandinavian_Racew..."}, {"circuitId": 14, "circuitRef": "monza", "name": "Autodromo Nazionale di Monza", "location": "Monza", "country": "Italy", "lat": "45.6156", "lng": "9.28111", "url": "http://en.wikipedia.org/wiki/Autodromo_Nazional..."}]}
+{"question_id": "inf:multi:Multi-7:markdown:r2", "answer": [{"circuitId": 6, "circuitRef": "monaco", "name": "Circuit de Monaco", "location": "Monte-Carlo", "country": "Monaco", "lat": "43.7347", "lng": "7.42056", "url": "http://en.wikipedia.org/wiki/Circuit_de_Monaco"}, {"circuitId": 47, "circuitRef": "anderstorp", "name": "Scandinavian Raceway", "location": "Anderstorp", "country": "Sweden", "lat": "57.2653", "lng": "13.6042", "url": "http://en.wikipedia.org/wiki/Scandinavian_Racew..."}, {"circuitId": 14, "circuitRef": "monza", "name": "Autodromo Nazionale di Monza", "location": "Monza", "country": "Italy", "lat": "45.6156", "lng": "9.28111", "url": "http://en.wikipedia.org/wiki/Autodromo_Nazional..."}]}
+{"question_id": "inf:multi:Multi-7:markdown:r3", "answer": [{"constructorId": 6, "name": "Benetton", "points": 94}, {"constructorId": 10, "name": "Williams", "points": 26}]}
+{"question_id": "inf:multi:Multi-8:markdown:r1", "answer": ["Circuit de Monaco", "Scandinavian Raceway"]}
+{"question_id": "inf:multi:Multi-8:markdown:r2", "answer": ["Circuit de Monaco", "Scandinavian Raceway"]}
+{"question_id": "inf:multi:Multi-8:markdown:r3", "answer": ["Circuit de Monaco", "Scandinavian Raceway"]}
+{"question_id": "inf:multi:Multi-9:markdown:r1", "answer": ["Circuit de Monaco", "Scandinavian Raceway"]}
+{"question_id": "inf:multi:Multi-9:markdown:r2", "answer": ["Scandinavian Raceway"]}
+{"question_id": "inf:multi:Multi-9:markdown:r3", "answer": ["Circuit de Monaco", "Scandinavian Raceway", "Autodromo Nazionale di Monza"]}
+{"question_id": "inf:single:Single-0:markdown:r1", "answer": "Supported"}
+{"question_id": "inf:single:Single-100:markdown:r1", "answer": 26}
+{"question_id": "inf:single:Single-101:markdown:r1", "answer": 20}
+{"question_id": "inf:single:Single-102:markdown:r1", "answer": 23}
+{"question_id": "inf:single:Single-10:markdown:r1", "answer": [12, 3438, 3093]}
+{"question_id": "inf:single:Single-11:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-13:markdown:r1", "answer": [0, 1, 2]}
+{"question_id": "inf:single:Single-15:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-17:markdown:r1", "answer": [391, 647]}
+{"question_id": "inf:single:Single-18:markdown:r1", "answer": [365, 3135]}
+{"question_id": "inf:single:Single-19:markdown:r1", "answer": [421, 4010, 302]}
+{"question_id": "inf:single:Single-1:markdown:r1", "answer": 19647331931708}
+{"question_id": "inf:single:Single-21:markdown:r1", "answer": [1156, 1084, 1182]}
+{"question_id": "inf:single:Single-23:markdown:r1", "answer": {"c0 ID": "5.45022e+06", "c1 Examination Date": "1996-03-12", "c2 aCL IgG": "0.8", "c3 aCL IgM": "3.6", "c4 ANA": "16", "c5 ANA Pattern": "S", "c6 aCL IgA": "12", "c7 Diagnosis": "nan", "c8 KCT": "nan", "c9 RVVT": "nan", "c10 LAC": "nan", "c11 Symptoms": "nan", "c12 Thrombosis": "0"}}
+{"question_id": "inf:single:Single-24:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-26:markdown:r1", "answer": "Supported"}
+{"question_id": "inf:single:Single-29:markdown:r1", "answer": [{"loser_rank": "36", "loser_name": "Misaki Doi"}, {"loser_rank": "2", "loser_name": "Simona Halep"}, {"loser_rank": "34", "loser_name": "Timea Babos"}]}
+{"question_id": "inf:single:Single-2:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-32:markdown:r1", "answer": 798}
+{"question_id": "inf:single:Single-33:markdown:r1", "answer": [407, 459, 2050538]}
+{"question_id": "inf:single:Single-36:markdown:r1", "answer": 48}
+{"question_id": "inf:single:Single-36_INI:markdown:r1", "answer": 48}
+{"question_id": "inf:single:Single-37:markdown:r1", "answer": "5fb5787d-5505-5071-a9aa-d0fa905740bf"}
+{"question_id": "inf:single:Single-3:markdown:r1", "answer": 852}
+{"question_id": "inf:single:Single-40:markdown:r1", "answer": {"c0": "585", "c1": "42.57", "c2": "51.64", "c3": "0", "c4": "26.04", "c5": "9.28", "c6": "102.24", "c7": "851.98", "c8": "8.38", "c9": "10.2", "c10": "225.21", "c11": "2.55", "c12": "33.8", "c13": "38.34", "c14": "27.86", "c15": "611.15"}}
+{"question_id": "inf:single:Single-44:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-45:markdown:r1", "answer": "Supported"}
+{"question_id": "inf:single:Single-47:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-48:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-4:markdown:r1", "answer": [1071, 2616, 82]}
+{"question_id": "inf:single:Single-50:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-52:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-53:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-54:markdown:r1", "answer": 29712}
+{"question_id": "inf:single:Single-55:markdown:r1", "answer": [210, 2144, 546]}
+{"question_id": "inf:single:Single-56:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-58:markdown:r1", "answer": "f23618b5f94a5ef06c74518f92a2ce6e"}
+{"question_id": "inf:single:Single-58_INI:markdown:r1", "answer": "f23618b5f94a5ef06c74518f92a2ce6e"}
+{"question_id": "inf:single:Single-59:markdown:r1", "answer": [142585, 116, 191]}
+{"question_id": "inf:single:Single-5:markdown:r1", "answer": 503}
+{"question_id": "inf:single:Single-60:markdown:r1", "answer": [118, 123, 284]}
+{"question_id": "inf:single:Single-61:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-64:markdown:r1", "answer": [2175, 2192, 4767]}
+{"question_id": "inf:single:Single-69:markdown:r1", "answer": 898}
+{"question_id": "inf:single:Single-6:markdown:r1", "answer": [3813010.0, 1232210.0]}
+{"question_id": "inf:single:Single-71:markdown:r1", "answer": "Supported"}
+{"question_id": "inf:single:Single-72:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-73:markdown:r1", "answer": "230"}
+{"question_id": "inf:single:Single-75:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-79:markdown:r1", "answer": "nan"}
+{"question_id": "inf:single:Single-7:markdown:r1", "answer": 985}
+{"question_id": "inf:single:Single-80:markdown:r1", "answer": {"circuitId": "68", "circuitRef": "buddh", "name": "Buddh International Circuit", "location": "Uttar Pradesh", "country": "India", "lat": "28.3487", "lng": "77.5331", "alt": "nan", "url": "http://en.wikipedia.org/wiki/Buddh_Internationa..."}}
+{"question_id": "inf:single:Single-81:markdown:r1", "answer": ["TR275_1", "TR248_5"]}
+{"question_id": "inf:single:Single-82:markdown:r1", "answer": ["TR340_38_48", "TR045_1_4"]}
+{"question_id": "inf:single:Single-86:markdown:r1", "answer": [{"name": "Historic Anthology 2", "totalSetSize": "25", "type": "box", "releaseDate": "2020-03-12"}, {"name": "Iconic Masters", "totalSetSize": "249", "type": "masters", "releaseDate": "2017-11-17"}]}
+{"question_id": "inf:single:Single-88:markdown:r1", "answer": [{"id": "54989", "player_fifa_api_id": "184820", "player_api_id": "101201", "date": "2013-04-19 00:00:00", "overall_rating": "73", "potential": "76", "preferred_foot": "right", "attacking_work_rate": "low", "defensive_work_rate": "high"}, {"id": "167614", "player_fifa_api_id": "190059", "player_api_id": "140819", "date": "2013-05-31 00:00:00", "overall_rating": "67", "potential": "80", "preferred_foot": "right", "attacking_work_rate": "medium", "defensive_work_rate": "low"}]}
+{"question_id": "inf:single:Single-89:markdown:r1", "answer": [5676730.0]}
+{"question_id": "inf:single:Single-8:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-90:markdown:r1", "answer": [5676730.0, 807760]}
+{"question_id": "inf:single:Single-92:markdown:r1", "answer": [-9204974277255292704, -9107700094480186380]}
+{"question_id": "inf:single:Single-94:markdown:r1", "answer": "Supported"}
+{"question_id": "inf:single:Single-96_INI:markdown:r1", "answer": ["o", "h", "c"]}
+{"question_id": "inf:single:Single-97:markdown:r1", "answer": [4, 9, 34]}
+{"question_id": "inf:single:Single-98:markdown:r1", "answer": 37}

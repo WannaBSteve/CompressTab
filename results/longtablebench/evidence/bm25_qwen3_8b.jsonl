@@ -1,0 +1,545 @@
+{"question_id": "32k:multi:Multi-10:markdown:r1", "answer": {"atom_id": "TR494_16", "molecule_id": "TR494", "element": "o"}}
+{"question_id": "32k:multi:Multi-10:markdown:r2", "answer": {"label": "+"}}
+{"question_id": "32k:multi:Multi-11:markdown:r1", "answer": {"atom_id": "TR494_16", "molecule_id": "TR494", "element": "o"}}
+{"question_id": "32k:multi:Multi-11:markdown:r2", "answer": {"label": "+"}}
+{"question_id": "32k:multi:Multi-15:markdown:r1", "answer": {"atom_id": "TR192_9", "molecule_id": "TR192", "element": "o"}}
+{"question_id": "32k:multi:Multi-15:markdown:r2", "answer": {"molecule_id": "TR192", "label": "-"}}
+{"question_id": "32k:multi:Multi-17:markdown:r1", "answer": {"atom_id": "TR494_16", "molecule_id": "TR494", "element": "o"}}
+{"question_id": "32k:multi:Multi-17:markdown:r2", "answer": {"label": "+"}}
+{"question_id": "32k:multi:Multi-18:markdown:r1", "answer": {"atom_id": "TR494_16", "molecule_id": "TR494", "element": "o"}}
+{"question_id": "32k:multi:Multi-18:markdown:r2", "answer": {"label": "+"}}
+{"question_id": "32k:multi:Multi-20:markdown:r1", "answer": ["TR466", "TR089", "TR011", "TR477", "TR060", "TR169", "TR225", "TR177", "TR233", "TR117", "TR032", "TR438", "TR146", "TR494", "TR339", "TR483", "TR129", "TR179", "TR045", "TR316", "TR496", "TR153", "TR222", "TR391", "TR136", "TR180"]}
+{"question_id": "32k:multi:Multi-20:markdown:r2", "answer": ["TR089", "TR117", "TR138", "TR153", "TR225", "TR483"]}
+{"question_id": "32k:multi:Multi-20:markdown:r3", "answer": ["TR089", "TR153", "TR483"]}
+{"question_id": "32k:multi:Multi-23:markdown:r1", "answer": []}
+{"question_id": "32k:multi:Multi-23:markdown:r2", "answer": [85]}
+{"question_id": "32k:multi:Multi-23:markdown:r3", "answer": 157}
+{"question_id": "32k:multi:Multi-23:markdown:r4", "answer": "American"}
+{"question_id": "32k:multi:Multi-27:markdown:r1", "answer": []}
+{"question_id": "32k:multi:Multi-27:markdown:r2", "answer": []}
+{"question_id": "32k:multi:Multi-27:markdown:r3", "answer": ["85"]}
+{"question_id": "32k:multi:Multi-27:markdown:r4", "answer": "Ferrari"}
+{"question_id": "32k:multi:Multi-28:markdown:r1", "answer": []}
+{"question_id": "32k:multi:Multi-28:markdown:r2", "answer": ["Italian Grand Prix"]}
+{"question_id": "32k:multi:Multi-28:markdown:r3", "answer": "Langley"}
+{"question_id": "32k:multi:Multi-29:markdown:r1", "answer": []}
+{"question_id": "32k:multi:Multi-29:markdown:r2", "answer": ["Italian Grand Prix"]}
+{"question_id": "32k:multi:Multi-29:markdown:r3", "answer": "Langley"}
+{"question_id": "32k:multi:Multi-2:markdown:r1", "answer": ["TR494", "TR216", "TR496", "TR051", "TR472", "TR438", "TR233", "TR177", "TR060", "TR081", "TR021", "TR362", "TR032", "TR153", "TR293", "TR267", "TR060", "TR263", "TR363", "TR007", "TR438", "TR023", "TR171", "TR275", "TR391", "TR089", "TR136", "TR214", "TR060", "TR363", "TR293", "TR021", "TR267", "TR362", "TR051", "TR081", "TR293", "TR060", "TR496", "TR051", "TR216", "TR379", "TR439", "TR233", "TR496"]}
+{"question_id": "32k:multi:Multi-2:markdown:r2", "answer": ["TR089", "TR138", "TR153", "TR483", "TR117"]}
+{"question_id": "32k:multi:Multi-2:markdown:r3", "answer": ["TR089", "TR153", "TR483"]}
+{"question_id": "32k:multi:Multi-33:markdown:r1", "answer": [{"id": "157281", "overall_rating": "72"}]}
+{"question_id": "32k:multi:Multi-33:markdown:r2", "answer": [{"id": "119542", "overall_rating": "83", "preferred_foot": "right"}, {"id": "111968", "overall_rating": "86", "preferred_foot": "right"}, {"id": "179451", "overall_rating": "81", "preferred_foot": "right"}]}
+{"question_id": "32k:multi:Multi-33:markdown:r3", "answer": [{"id": "111968", "overall_rating": "86", "sprint_speed": "92"}]}
+{"question_id": "32k:multi:Multi-34:markdown:r1", "answer": ["Genoa", "KRC Genk", "KAA Gent"]}
+{"question_id": "32k:multi:Multi-34:markdown:r2", "answer": [9860, 10233, 9991]}
+{"question_id": "32k:multi:Multi-34:markdown:r3", "answer": [80, 110556, 674]}
+{"question_id": "32k:multi:Multi-35_INI:markdown:r1", "answer": ["Ventura", "Sacramento", "Fresno", "Randsburg", "Fairfax", "Anaheim", "Torrance", "El Toro", "San Jose"]}
+{"question_id": "32k:multi:Multi-35_INI:markdown:r2", "answer": ["Ventura", "Sacramento", "Fresno", "Randsburg", "Fairfax", "Anaheim", "Torrance", "El Toro", "San Jose"]}
+{"question_id": "32k:multi:Multi-35_INI:markdown:r3", "answer": "CA"}
+{"question_id": "32k:multi:Multi-38:markdown:r1", "answer": ["TR473_3_5"]}
+{"question_id": "32k:multi:Multi-38:markdown:r2", "answer": ["TR067_32_33", "TR067_26_27", "TR067_5_6"]}
+{"question_id": "32k:multi:Multi-38:markdown:r3", "answer": ["TR067_32_33", "TR067_26_27", "TR067_34_47", "TR067_5_6"]}
+{"question_id": "32k:multi:Multi-38_INI:markdown:r1", "answer": ["TR473_3_5"]}
+{"question_id": "32k:multi:Multi-38_INI:markdown:r2", "answer": ["TR067_32_33", "TR067_26_27", "TR067_5_6"]}
+{"question_id": "32k:multi:Multi-38_INI:markdown:r3", "answer": ["TR067_32_33", "TR067_26_27", "TR067_34_47", "TR067_5_6"]}
+{"question_id": "32k:multi:Multi-3:markdown:r1", "answer": ["TR494", "TR216", "TR496", "TR051", "TR472", "TR438", "TR233", "TR177", "TR060", "TR081", "TR021", "TR153", "TR293", "TR267", "TR362", "TR007", "TR391", "TR089", "TR136", "TR214", "TR363", "TR293", "TR021", "TR267", "TR362", "TR051", "TR081", "TR293", "TR060", "TR496", "TR051", "TR216", "TR379", "TR439", "TR233", "TR496"]}
+{"question_id": "32k:multi:Multi-3:markdown:r2", "answer": ["TR089", "TR117", "TR483", "TR153", "TR138", "TR051"]}
+{"question_id": "32k:multi:Multi-3:markdown:r3", "answer": ["TR496"]}
+{"question_id": "32k:multi:Multi-40:markdown:r1", "answer": "commander"}
+{"question_id": "32k:multi:Multi-40:markdown:r2", "answer": "2013-11-01"}
+{"question_id": "32k:multi:Multi-40:markdown:r3", "answer": "C13"}
+{"question_id": "32k:multi:Multi-40:markdown:r4", "answer": "no"}
+{"question_id": "32k:multi:Multi-43:markdown:r1", "answer": ["TR473_3_5"]}
+{"question_id": "32k:multi:Multi-43:markdown:r2", "answer": ["TR067_32_33", "TR067_26_27", "TR067_5_6"]}
+{"question_id": "32k:multi:Multi-43:markdown:r3", "answer": "TR067_32_33"}
+{"question_id": "32k:multi:Multi-43_INI:markdown:r1", "answer": ["TR473_3_5"]}
+{"question_id": "32k:multi:Multi-43_INI:markdown:r2", "answer": ["TR067_32_33", "TR067_26_27", "TR067_5_6"]}
+{"question_id": "32k:multi:Multi-43_INI:markdown:r3", "answer": "TR067_32_33"}
+{"question_id": "32k:multi:Multi-44:markdown:r1", "answer": ["TR193_36", "TR268_15", "TR125_3", "TR345_3", "TR010_3", "TR411_10", "TR455_17", "TR265_6", "TR429_42", "TR067_57", "TR358_14", "TR359_7", "TR265_24", "TR295_12", "TR043_31", "TR006_45", "TR121_8", "TR135_19", "TR080_6", "TR059_52", "TR235_23", "TR424_8", "TR240_8", "TR340_39", "TR407_11", "TR457_28", "TR356_17", "TR138_3", "TR293_18", "TR133_7", "TR240_12", "TR235_20", "TR461_4", "TR318_50", "TR431_3", "TR431_7", "TR059_3", "TR490_6", "TR317_44", "TR180_2", "TR409_19", "TR463_17", "TR307_31", "TR430_14", "TR334_9", "TR094_10", "TR140_1", "TR100_9", "TR259_4", "TR059_51"]}
+{"question_id": "32k:multi:Multi-44:markdown:r2", "answer": ["TR193_36", "TR193_37", "TR193_32"]}
+{"question_id": "32k:multi:Multi-44:markdown:r3", "answer": "o"}
+{"question_id": "32k:multi:Multi-44_INI:markdown:r1", "answer": ["TR193_36", "TR268_15", "TR125_3", "TR345_3", "TR010_3", "TR411_10", "TR455_17", "TR265_6", "TR429_42", "TR067_57", "TR358_14", "TR359_7", "TR265_24", "TR295_12", "TR043_31", "TR006_45", "TR121_8", "TR135_19", "TR080_6", "TR059_52", "TR235_23", "TR424_8", "TR240_8", "TR340_39", "TR407_11", "TR457_28", "TR356_17", "TR138_3", "TR293_18", "TR133_7", "TR240_12", "TR235_20", "TR461_4", "TR318_50", "TR431_3", "TR431_7", "TR059_3", "TR490_6", "TR317_44", "TR180_2", "TR409_19", "TR463_17", "TR307_31", "TR430_14", "TR334_9", "TR094_10", "TR140_1", "TR100_9", "TR259_4", "TR059_51"]}
+{"question_id": "32k:multi:Multi-44_INI:markdown:r2", "answer": ["TR193_36", "TR193_37", "TR193_32"]}
+{"question_id": "32k:multi:Multi-44_INI:markdown:r3", "answer": "o"}
+{"question_id": "32k:multi:Multi-45_INI:markdown:r1", "answer": "Supported"}
+{"question_id": "32k:multi:Multi-45_INI:markdown:r2", "answer": {"bond_id": "TR473_3_5", "molecule_id": "TR473", "bond_type": "="}}
+{"question_id": "32k:multi:Multi-45_INI:markdown:r3", "answer": 6}
+{"question_id": "32k:multi:Multi-47:markdown:r1", "answer": ["TR473_3_5"]}
+{"question_id": "32k:multi:Multi-47:markdown:r2", "answer": ["TR109_1_3", "TR051_1_4", "TR483_1_2", "TR380_1_2", "TR450_1_2", "TR335_1_2", "TR419_1_2", "TR213_1_2"]}
+{"question_id": "32k:multi:Multi-47:markdown:r3", "answer": ["TR109_1_3", "TR483_1_2", "TR380_1_2", "TR450_1_2", "TR335_1_2", "TR419_1_2", "TR213_1_2"]}
+{"question_id": "32k:multi:Multi-48:markdown:r1", "answer": null}
+{"question_id": "32k:multi:Multi-48:markdown:r2", "answer": [{"id": 78558, "player_fifa_api_id": 178224, "player_api_id": 70409, "date": "2015-09-21 00:00:00", "overall_rating": 80, "potential": 80, "preferred_foot": "right", "attacking_work_rate": "medium", "defensive_work_rate": "low", "crossing": 62, "finishing": 88, "heading_accuracy": 82, "short_passing": 67, "volleys": 74, "dribbling": 74, "curve": 67, "free_kick_accuracy": 52, "long_passing": 55, "ball_control": 77, "acceleration": 87, "sprint_speed": 85, "agility": 79, "reactions": 73, "balance": 84, "shot_power": 75, "jumping": 85, "stamina": 57, "strength": 69, "long_shots": 59, "aggression": 26, "interceptions": 87, "positioning": 72, "vision": 80, "penalties": 22, "marking": 29, "standing_tackle": 25, "sliding_tackle": 22, "gk_diving": 14, "gk_handling": 12, "gk_kicking": 9, "gk_positioning": 12, "gk_reflexes": 11}, {"id": 20840, "player_fifa_api_id": 157392, "player_api_id": 40006, "date": "2012-02-22 00:00:00", "overall_rating": 78, "potential": 82, "preferred_foot": "left", "attacking_work_rate": "medium", "defensive_work_rate": "high", "crossing": 82, "finishing": 43, "heading_accuracy": 60, "short_passing": 78, "volleys": 62, "dribbling": 70, "curve": 53, "free_kick_accuracy": 69, "long_passing": 75, "ball_control": 75, "acceleration": 84, "sprint_speed": 82, "agility": 74, "reactions": 73, "balance": 72, "shot_power": 83, "jumping": 81, "stamina": 69, "strength": 81, "long_shots": 65, "aggression": 65, "interceptions": 82, "positioning": 83, "vision": 37, "penalties": 54, "marking": 53, "standing_tackle": 76, "sliding_tackle": 84, "gk_diving": 80, "gk_handling": 77, "gk_kicking": 80, "gk_positioning": 70, "gk_reflexes": 73}, {"id": 179451, "player_fifa_api_id": 189963, "player_api_id": 143365, "date": "2014-09-18 00:00:00", "overall_rating": 81, "potential": 84, "preferred_foot": "right", "attacking_work_rate": "medium", "defensive_work_rate": "low", "crossing": 45, "finishing": 80, "heading_accuracy": 84, "short_passing": 68, "volleys": 76, "dribbling": 74, "curve": 66, "free_kick_accuracy": 58, "long_passing": 45, "ball_control": 77, "acceleration": 69, "sprint_speed": 77, "agility": 67, "reactions": 81, "balance": 72, "shot_power": 89, "jumping": 84, "stamina": 78, "strength": 94, "long_shots": 80, "aggression": 70, "interceptions": 38, "positioning": 83, "vision": 65, "penalties": 25, "marking": 42, "standing_tackle": 28, "sliding_tackle": 10, "gk_diving": 8, "gk_handling": 5, "gk_kicking": 7, "gk_positioning": 11, "gk_reflexes": 14}, {"id": 152044, "player_fifa_api_id": 198329, "player_api_id": 193869, "date": "2012-02-22 00:00:00", "overall_rating": 76, "potential": 83, "preferred_foot": "left", "attacking_work_rate": "medium", "defensive_work_rate": "medium", "crossing": 67, "finishing": 79, "heading_accuracy": 75, "short_passing": 69, "volleys": 75, "dribbling": 78, "curve": 62, "free_kick_accuracy": 66, "long_passing": 73, "ball_control": 85, "acceleration": 82, "sprint_speed": 82, "agility": 82, "reactions": 75, "balance": 69, "shot_power": 74, "jumping": 75, "stamina": 67, "strength": 72, "long_shots": 56, "aggression": 36, "interceptions": 74, "positioning": 61, "vision": 74, "penalties": 23, "marking": 32, "standing_tackle": 22, "sliding_tackle": 7, "gk_diving": 13, "gk_handling": 11, "gk_kicking": 10, "gk_positioning": 14, "gk_reflexes": 12}, {"id": 65513, "player_fifa_api_id": 191032, "player_api_id": 164385, "date": "2012-02-22 00:00:00", "overall_rating": 75, "potential": 81, "preferred_foot": "left", "attacking_work_rate": "high", "defensive_work_rate": "medium", "crossing": 73, "finishing": 68, "heading_accuracy": 62, "short_passing": 76, "volleys": 65, "dribbling": 81, "curve": 63, "free_kick_accuracy": 68, "long_passing": 73, "ball_control": 77, "acceleration": 79, "sprint_speed": 79, "agility": 84, "reactions": 74, "balance": 86, "shot_power": 75, "jumping": 74, "stamina": 73, "strength": 72, "long_shots": 67, "aggression": 74, "interceptions": 23, "positioning": 75, "vision": 68, "penalties": 24, "marking": 27, "standing_tackle": 21, "sliding_tackle": 11, "gk_diving": 10, "gk_handling": 7, "gk_kicking": 12, "gk_positioning": 10, "gk_reflexes": 11}]}
+{"question_id": "32k:multi:Multi-48:markdown:r3", "answer": null}
+{"question_id": "32k:multi:Multi-48:markdown:r4", "answer": [{"id": 78558, "player_fifa_api_id": 178224, "player_api_id": 70409, "date": "2015-09-21 00:00:00", "overall_rating": 80, "potential": 80, "preferred_foot": "right", "sprint_speed": 85}, {"id": 179451, "player_fifa_api_id": 189963, "player_api_id": 143365, "date": "2014-09-18 00:00:00", "overall_rating": 81, "potential": 84, "preferred_foot": "right", "sprint_speed": 77}, {"id": 40167, "player_fifa_api_id": 139296, "player_api_id": 23190, "date": "2007-08-30 00:00:00", "overall_rating": 78, "potential": 82, "preferred_foot": "right", "sprint_speed": 82}, {"id": 119542, "player_fifa_api_id": 50579, "player_api_id": 39323, "date": "2008-08-30 00:00:00", "overall_rating": 83, "potential": 85, "preferred_foot": "right", "sprint_speed": 35}]}
+{"question_id": "32k:multi:Multi-49:markdown:r1", "answer": ["Statesboro", "Fortson", "Climax", "Cairo", "Montezuma", "Monroe", "Rentz", "Atlanta", "Mitchell", "Upatoi", "Louisville", "Warrenton", "Lovejoy"]}
+{"question_id": "32k:multi:Multi-49:markdown:r2", "answer": ["Bulloch County", "Harris County", "Decatur County", "Grady County", "Macon County", "Laurens County", "Fulton County", "Glascock County", "Muscogee County", "Jefferson County", "DeKalb County", "Warren County", "Clayton County"]}
+{"question_id": "32k:multi:Multi-49:markdown:r3", "answer": ["Statesboro"]}
+{"question_id": "32k:multi:Multi-4:markdown:r1", "answer": ["TR401", "TR155", "TR275", "TR095", "TR483", "TR099", "TR060", "TR391"]}
+{"question_id": "32k:multi:Multi-4:markdown:r2", "answer": ["TR155", "TR401", "TR275", "TR095", "TR483", "TR099", "TR060", "TR391"]}
+{"question_id": "32k:multi:Multi-4:markdown:r3", "answer": "TR483"}
+{"question_id": "32k:multi:Multi-50:markdown:r1", "answer": ["Rhythms of the Village Charter High", "TEACH Tech Charter High", "Alfred B. Nobel Charter Middle"]}
+{"question_id": "32k:multi:Multi-50:markdown:r2", "answer": ["TEACH Tech Charter High", "Alfred B. Nobel Charter Middle"]}
+{"question_id": "32k:multi:Multi-50:markdown:r3", "answer": ["Alfred B. Nobel Charter Middle", "Young Oak Kim Academy"]}
+{"question_id": "32k:multi:Multi-7:markdown:r1", "answer": ["TR494", "TR216", "TR496", "TR051", "TR472", "TR438", "TR233", "TR177", "TR060", "TR081", "TR021", "TR153", "TR293", "TR267", "TR362", "TR007", "TR391", "TR089", "TR136", "TR214", "TR363", "TR293", "TR021", "TR267", "TR362", "TR051", "TR081", "TR293", "TR060", "TR496", "TR051", "TR216", "TR379", "TR439", "TR233", "TR496"]}
+{"question_id": "32k:multi:Multi-7:markdown:r2", "answer": ["TR081", "TR136", "TR051", "TR363", "TR439", "TR032", "TR472", "TR438", "TR225", "TR361", "TR483", "TR153", "TR438", "TR298", "TR138", "TR110", "TR466"]}
+{"question_id": "32k:multi:Multi-7:markdown:r3", "answer": ["TR089", "TR483", "TR153", "TR138", "TR051"]}
+{"question_id": "32k:multi:Multi-8:markdown:r1", "answer": ["TR222"]}
+{"question_id": "32k:multi:Multi-8:markdown:r2", "answer": ["TR222"]}
+{"question_id": "32k:multi:Multi-8:markdown:r3", "answer": ["TR222"]}
+{"question_id": "32k:multi:Multi-9:markdown:r1", "answer": {"atom_id": "TR496_24", "molecule_id": "TR496", "element": "o"}}
+{"question_id": "32k:multi:Multi-9:markdown:r2", "answer": {"bond_id": "TR496_7_56", "molecule_id": "TR496", "bond_type": "-"}}
+{"question_id": "32k:multi:Multi-9:markdown:r3", "answer": {"label": "+"}}
+{"question_id": "32k:single:Single-0:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-100:markdown:r1", "answer": {"Id": "112827", "PostTypeId": "1", "AcceptedAnswerId": "112906", "CreaionDate": "2014-08-21 19:39:25.0", "Score": "4", "ViewCount": "52", "Body": "<p>I've been looking for recommendations on whether it's better to use the sample standard deviation (SD) for a binomial distribution or use the analytic SD (or variance). It's for experiments with accuracy data so each subject contributes several binomial (correct or incorrect) responses resulting in an accuracy score between 0 an 1 (Ncorrect / Ntotal). I get the mean across subjects. Assuming each one contributes the same amount should I used the sample SD of the individual accuracy scores or use the analytic equation (<code>sqrt(pq / n</code>) where <code>n</code> is the number of responses / subject)?</p>", "OwnerUserId": "601", "LasActivityDate": "2014-08-22 14:12:25.0", "Title": "Analytic or sample standard deviation with binomial data", "Tags": "<variance><binomial><standard-deviation><standard-error>", "AnswerCount": "3", "CommentCount": "8", "FavoriteCount": "nan", "LastEditorUserId": "601", "LastEditDate": "2014-08-21 22:13:33.0", "CommunityOwnedDate": "nan", "ParentId": "nan", "ClosedDate": "nan", "OwnerDisplayName": "nan", "LastEditorDisplayName": "nan", "index": "nan"}}
+{"question_id": "32k:single:Single-100_INI:markdown:r1", "answer": {"Id": "112827", "PostTypeId": "1", "AcceptedAnswerId": "one hundred and twelve thousand, nine hundred and six point zero", "CreaionDate": "08.21.2014", "Score": "4.00×10^+00", "ViewCount": "5.20×10^+01", "Body": "<p>I've been looking for recommendations on whether it's better to use the sample standard deviation (SD) for a binomial distribution or use the analytic SD (or variance). It's for experiments with accuracy data so each subject contributes several binomial (correct or incorrect) responses resulting in an accuracy score between 0 an 1 (Ncorrect / Ntotal). I get the mean across subjects. Assuming each one contributes the same amount should I used the sample SD of the individual accuracy scores or use the analytic equation (<code>sqrt(pq / n</code>) where <code>n</code> is the number of responses / subject)?</p>", "OwnerUserId": "6.01×10^+02", "LasActivityDate": "MMXIV-VIII-XXII", "Title": "Analytic or sample standard deviation with binomial data", "Tags": "<variance><binomial><standard-deviation><standard-error>", "AnswerCount": "three point zero", "CommentCount": "VIII", "FavoriteCount": "nan", "LastEditorUserId": "six hundred and one point zero", "LastEditDate": "2014-08-21 22:13:33.0", "CommunityOwnedDate": "zero", "ParentId": "nan", "ClosedDate": "nan", "OwnerDisplayName": "zero", "LastEditorDisplayName": "zero", "index": "zero"}}
+{"question_id": "32k:single:Single-105:markdown:r1", "answer": [353252, 347258, 357211, 381249, 120724, 413704, 363374, 381326, 347243, 391348, 289302, 413716, 1198218, 361278, 114559, 88650, 413280, 413583, 166358, 363264, 361283, 413526, 88544, 361276, 353291, 168247, 365368, 391300, 166298, 289283, 413604, 413729, 413503, 413593, 391247, 289275, 391246, 289234, 285100, 413650, 289224]}
+{"question_id": "32k:single:Single-10:markdown:r1", "answer": [64433, 66772]}
+{"question_id": "32k:single:Single-110:markdown:r1", "answer": 2756}
+{"question_id": "32k:single:Single-112:markdown:r1", "answer": 624}
+{"question_id": "32k:single:Single-121:markdown:r1", "answer": 22757}
+{"question_id": "32k:single:Single-126:markdown:r1", "answer": "Supported"}
+{"question_id": "32k:single:Single-12:markdown:r1", "answer": 1355153}
+{"question_id": "32k:single:Single-131:markdown:r1", "answer": [61]}
+{"question_id": "32k:single:Single-132:markdown:r1", "answer": [184, 186, 134, 153, 142, 154, 146, 168]}
+{"question_id": "32k:single:Single-134:markdown:r1", "answer": {"originalReleaseDate": "07/13/2007", "name": "Condemn", "number": "13", "originalText": "Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.", "type": "Instant", "rarity": "uncommon", "setCode": "10E", "printings": "10E,C14,C17,CMR,DDL,DIS,M11,P07,PRM,PS11,TD0,TD2,ZNC", "purchaseUrls": {"cardKingdom": "https://mtgjson.com/links/d17930d5637c1e89", "cardKingdomFoil": "https://mtgjson.com/links/7e0b1c1e656fc86d", "cardmarket": "https://mtgjson.com/links/af7c4f7223ac32ec", "tcgplayer": "https://mtgjson.com/links/7f98bb25bbd3aba2"}, "manaCost": "{W}", "convertedManaCost": "1", "keywords": "Instant", "layout": "normal", "tcgplayerProductId": "7fef665c-36a1-5f7a-9299-cf8938708710", "uuid": "42b053db-3d18-5e1a-b4c8-c39233ad9afe", "scryfallId": "ea9edff0-58a8-405d-9f2e-39f8269bbcb2", "scryfallIllustrationId": "57c58043-4790-4852-82e3-09efb42d7803", "scryfallOracleId": "377d31b5-0a48-4d5b-91bd-b5a62d4f7899", "flavorText": "\"No doubt the arbiters would put you away, after all the documents are signed. But I will have justice now!\"", "flavorName": "nan", "side": "nan", "subtypes": "nan", "supertypes": "nan", "text": "Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.", "toughness": "nan", "types": "Instant", "variations": "nan", "watermark": "nan"}}
+{"question_id": "32k:single:Single-138:markdown:r1", "answer": ["Sumanth Vepa", "Emil H", "Neil McGuigan", "rcs", "Duke of Lizards", "drxzcl", "Rudy Bunel", "elsonidoq", "hokiecsgrad", "grm", "Alan H.", "Rich", "Bossykena", "nbv4", "bshor", "fgregg", "deinst", "Mark Meckes", "Meidan Alon", "Michael Lugo", "Digital Gal", "ekollar", "Benjamin Bannier", "Sean", "David Smith", "Egon Willighagen", "Paul", "Cyrus S", "c4il", "Tony Breyal"]}
+{"question_id": "32k:single:Single-139:markdown:r1", "answer": "Supported"}
+{"question_id": "32k:single:Single-140:markdown:r1", "answer": 308}
+{"question_id": "32k:single:Single-141:markdown:r1", "answer": [100112]}
+{"question_id": "32k:single:Single-144:markdown:r1", "answer": ["Sumanth Vepa", "Emil H", "Neil McGuigan", "rcs", "Duke of Lizards", "drxzcl", "hokiecsgrad", "grm", "Alan H.", "Rich", "deinst", "bshor", "Bossykena", "nbv4", "fgregg", "Mark Meckes", "Meidan Alon", "Michael Lugo", "ekollar", "Benjamin Bannier", "Digital Gal", "David Smith", "Egon Willighagen", "Sean", "Paul", "Cyrus S", "c4il", "Tony Breyal"]}
+{"question_id": "32k:single:Single-145:markdown:r1", "answer": ["TR240", "TR235", "TR059"]}
+{"question_id": "32k:single:Single-146:markdown:r1", "answer": ["TR347", "TR496", "TR304", "TR082", "TR299", "TR446", "TR257", "TR433", "TR484", "TR207", "TR405", "TR098", "TR239", "TR008", "TR022", "TR104", "TR315", "TR501", "TR435", "TR126", "TR445", "TR096", "TR302", "TR067", "TR285", "TR382", "TR049", "TR118", "TR179", "TR458", "TR107", "TR303", "TR159"]}
+{"question_id": "32k:single:Single-14:markdown:r1", "answer": {"ID": "4471732", "Date": "1990-12-03", "GOT": "13", "GPT": "10", "LDH": "301", "ALP": "279", "TP": "8", "ALB": "3.7", "UA": "4.7", "UN": "12", "CRE": "0.6", "T-BIL": "0.4", "T-CHO": "173", "TG": "125", "CPK": "20", "GLU": "nan", "WBC": "4.1", "RBC": "3.7", "HGB": "10", "HCT": "29.8", "PLT": "367", "PT": "nan", "APTT": "nan", "FG": "nan", "PIC": "nan", "TAT": "nan", "TAT2": "nan", "U-PRO": "- ", "IGG": "nan", "IGA": "nan", "IGM": "nan", "CRP": "2.1", "RA": "-", "RF": "<20.5", "C3": "97", "C4": "27", "RNP": "nan", "SM": "nan", "SC170": "nan", "SSA": "nan", "SSB": "nan", "CENTROMEA": "nan", "DNA": "nan", "DNA-II": "nan", "index": "nan"}}
+{"question_id": "32k:single:Single-150:markdown:r1", "answer": [84, 680, 299, 523, 231, 683, 31, 475, 424, 511, 551, 666]}
+{"question_id": "32k:single:Single-151:markdown:r1", "answer": [{"id": 447, "superhero_name": "Martian Manhunter", "full_name": "J'onn J'onzz", "gender_id": 1, "eye_colour_id": 23, "hair_colour_id": 1, "skin_colour_id": 14, "race_id": 40, "publisher_id": 4, "alignment_id": 1, "height_cm": 201, "weight_kg": 135}]}
+{"question_id": "32k:single:Single-153:markdown:r1", "answer": ["Hela", "Arclight", "Nebula", "Cheetah II", "Cheetah III", "Thundra", "Valkyrie", "Snowbird", "Nina Theroux", "Vagabond"]}
+{"question_id": "32k:single:Single-155:markdown:r1", "answer": ["Chevrolet", "Ford", "Dodge", "Plymouth", "Mopar", "AMC", "Buick", "Oldsmobile", "Pontiac", "Mercury", "Chrysler", "Mazda", "Toyota", "Honda", "Nissan", "Volkswagen", "BMW", "Mercedes-Benz", "Audi", "Lexus"]}
+{"question_id": "32k:single:Single-156:markdown:r1", "answer": ["3", "33", "17", "20", "1", "6", "7", "4", "31", "15", "9", "19", "30", "14", "26", "35", "12", "11", "23", "22", "8", "28", "10", "25"]}
+{"question_id": "32k:single:Single-157:markdown:r1", "answer": ["Ford", "Chevrolet", "Dodge", "Plymouth", "AMC", "Buick", "Mercury", "Oldsmobile", "Pontiac", "Mazda", "Toyota", "Honda", "Nissan", "Volkswagen", "BMW", "Mercedes-Benz", "Audi", "Lexus", "Subaru", "Isuzu"]}
+{"question_id": "32k:single:Single-15:markdown:r1", "answer": {"App": "Union League", "Category": "FAMILY", "Rating": "4.0", "Reviews": "10,000", "Size": "38MB", "Installs": "10,000,000+", "Type": "Free", "Price": "0", "Content Rating": "Everyone", "Genres": "Casual;Action & Adventure", "index": "nan"}}
+{"question_id": "32k:single:Single-17:markdown:r1", "answer": [114, 1733, 4369]}
+{"question_id": "32k:single:Single-18:markdown:r1", "answer": [7997, 4953]}
+{"question_id": "32k:single:Single-19:markdown:r1", "answer": [45, 2656, 267, 388]}
+{"question_id": "32k:single:Single-19_INI:markdown:r1", "answer": ["three thousand, eight hundred", "three thousand, two hundred and sixty-four", "seven hundred and sixty-six", "one thousand, five hundred and thirty-nine", "two thousand, nine hundred and twenty-one", "three thousand, nine hundred and sixty-five", "three thousand, six hundred and seventy-six", "one thousand, two hundred and ninety", "one thousand, four hundred and twenty-eight", "four thousand and seventy-five", "two thousand, four hundred and seventy-five", "one thousand, five hundred and two", "three thousand, two hundred and ninety-one", "two thousand, nine hundred and twenty-three", "three thousand, seven hundred and four", "two thousand, eight hundred and fifty-one"]}
+{"question_id": "32k:single:Single-1:markdown:r1", "answer": "49708624930012"}
+{"question_id": "32k:single:Single-20:markdown:r1", "answer": {"ID": "5.49473e+06", "Examination Date": "1996-08-08", "aCL IgG": "1.1", "aCL IgM": "0", "ANA": "16", "ANA Pattern": "S", "aCL IgA": "0", "Diagnosis": "nan", "KCT": "nan", "RVVT": "nan", "LAC": "nan", "Symptoms": "nan", "Thrombosis": "0", "index": "nan"}}
+{"question_id": "32k:single:Single-27:markdown:r1", "answer": [44716, 172941, 1660.71, 1742.76, 1007.1, 972.07, 981.08, 1068.16, 1003.07, 1618.67, 1066.16, 1366.28]}
+{"question_id": "32k:single:Single-2:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-32:markdown:r1", "answer": [5424, 5353]}
+{"question_id": "32k:single:Single-33:markdown:r1", "answer": [222413, 863669, 200, 2164087, 221, 178, 220, 668226, 304897, 223, 229, 112, 915880, 598136, 135, 631959, 205, 1429864, 119, 1539886, 572015, 210, 160, 132, 199, 1790854, 211, 183821, 145819, 1816521, 190, 966683, 2207304, 129, 230, 114, 187, 169, 2036458, 194, 970935, 1257778, 214, 179, 237, 239, 189, 154, 117, 2078519]}
+{"question_id": "32k:single:Single-34:markdown:r1", "answer": 4}
+{"question_id": "32k:single:Single-35:markdown:r1", "answer": 1460}
+{"question_id": "32k:single:Single-37:markdown:r1", "answer": "1d7e3d5c-8ed5-525a-8344-498ea373a6ff"}
+{"question_id": "32k:single:Single-3:markdown:r1", "answer": 2006}
+{"question_id": "32k:single:Single-40:markdown:r1", "answer": {"recipe_id": "735", "protein": "5.62", "carbo": "17.06", "alcohol": "0", "total_fat": "1.19", "sat_fat": "0.16", "cholestrl": "0", "sodium": "73.27", "iron": "2.9", "vitamin_c": "204.48", "vitamin_a": "15165.6", "fiber": "2.56", "pcnt_cal_carb": "67.25", "pcnt_cal_fat": "10.58", "pcnt_cal_prot": "22.17", "calories": "101.46", "index": "nan"}}
+{"question_id": "32k:single:Single-41:markdown:r1", "answer": 3219}
+{"question_id": "32k:single:Single-42:markdown:r1", "answer": {"member_id": "recf4UKTfipCzgcSA", "first_name": "Garrett", "last_name": "Gerke", "email": "garrett.gerke@lpu.edu", "position": "Member", "t_shirt_size": "Large", "phone": "738-555-2267", "zip": "21801", "link_to_major": "recKJHO1P6ZC5m567"}}
+{"question_id": "32k:single:Single-44:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-49:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-4:markdown:r1", "answer": [6, 8, 9, 7]}
+{"question_id": "32k:single:Single-50:markdown:r1", "answer": {"book_id": "8797", "title": "The Return of the Dancing Master", "isbn13": "9781400076956", "language_id": "23", "num_pages": "406", "publication_date": "2005-02-08", "publisher_id": "2121", "index": "nan"}}
+{"question_id": "32k:single:Single-51:markdown:r1", "answer": [24671]}
+{"question_id": "32k:single:Single-54:markdown:r1", "answer": 41749}
+{"question_id": "32k:single:Single-55:markdown:r1", "answer": [24671]}
+{"question_id": "32k:single:Single-56:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-57:markdown:r1", "answer": [131]}
+{"question_id": "32k:single:Single-58:markdown:r1", "answer": "dc82ee998151e05c5e87d48dcfb41ade"}
+{"question_id": "32k:single:Single-59:markdown:r1", "answer": [199473, 122959, 122239, 135881, 121435, 199473, 122959, 122239, 135881, 121435]}
+{"question_id": "32k:single:Single-5:markdown:r1", "answer": 5314}
+{"question_id": "32k:single:Single-63:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-65:markdown:r1", "answer": "Unsupported"}
+{"question_id": "32k:single:Single-6:markdown:r1", "answer": [1462440.0]}
+{"question_id": "32k:single:Single-72:markdown:r1", "answer": {"id": "17934", "date": "2004-10-04", "text": "Can target a card with no color words on it.", "uuid": "85feac1f-31e0-5d87-a3ad-6ffaddcb8e5f", "index": "nan"}}
+{"question_id": "32k:single:Single-74:markdown:r1", "answer": {"business_id": "36589", "date": "2014-03-06", "violation_type_id": "103138", "risk_category": "Low Risk", "description": "Improper storage use or identification of toxic substances", "index": "nan"}}
+{"question_id": "32k:single:Single-76:markdown:r1", "answer": [23871]}
+{"question_id": "32k:single:Single-78:markdown:r1", "answer": [327, 363, 306, 366, 331, 281, 362, 298, 345, 328, 370, 308, 304, 439, 369, 330, 324, 381, 431, 435, 280, 329, 346, 317, 347, 319, 325, 290, 282, 382, 323, 436, 433, 343, 337, 309, 320, 291, 339, 375, 432, 310, 297, 361, 312, 380, 315, 342, 303]}
+{"question_id": "32k:single:Single-79:markdown:r1", "answer": "nan"}
+{"question_id": "32k:single:Single-7:markdown:r1", "answer": [588, 1113, 3057, 399]}
+{"question_id": "32k:single:Single-89:markdown:r1", "answer": 10}
+{"question_id": "32k:single:Single-90:markdown:r1", "answer": [362]}
+{"question_id": "32k:single:Single-91:markdown:r1", "answer": {"Airline": "6", "FlightNo": "478", "SourceAirport": "APG", "DestAirport": "AEL", "index": "540"}}
+{"question_id": "8k:multi:Multi-0:markdown:r1", "answer": [{"atom_id": "TR060_13", "molecule_id": "TR060", "element": "c"}, {"atom_id": "TR060_2", "molecule_id": "TR060", "element": "c"}, {"atom_id": "TR060_9", "molecule_id": "TR060", "element": "c"}, {"atom_id": "TR060_30", "molecule_id": "TR060", "element": "c"}, {"atom_id": "TR060_3", "molecule_id": "TR060", "element": "c"}, {"atom_id": "TR060_27", "molecule_id": "TR060", "element": "c"}]}
+{"question_id": "8k:multi:Multi-0:markdown:r2", "answer": ["TR060_23_74", "TR060_41_101", "TR060_5_49", "TR060_6_51", "TR060_18_67", "TR060_31_86", "TR060_23_27", "TR060_37_93", "TR060_14_17", "TR060_38_39", "TR060_22_26"]}
+{"question_id": "8k:multi:Multi-0:markdown:r3", "answer": "-"}
+{"question_id": "8k:multi:Multi-101:markdown:r1", "answer": ["Donald E. Suburu", "nan", "nan", "Sundown Elementary"]}
+{"question_id": "8k:multi:Multi-101:markdown:r2", "answer": ["Donald E. Suburu", "Sundown Elementary"]}
+{"question_id": "8k:multi:Multi-101:markdown:r3", "answer": ["Donald E. Suburu", "Sundown Elementary"]}
+{"question_id": "8k:multi:Multi-107_INI:markdown:r1", "answer": []}
+{"question_id": "8k:multi:Multi-107_INI:markdown:r2", "answer": []}
+{"question_id": "8k:multi:Multi-107_INI:markdown:r3", "answer": ["POPLATEK MESICNE"]}
+{"question_id": "8k:multi:Multi-109:markdown:r1", "answer": [167, 10807]}
+{"question_id": "8k:multi:Multi-109:markdown:r2", "answer": [167, 10807]}
+{"question_id": "8k:multi:Multi-109:markdown:r3", "answer": ["client1", "client2"]}
+{"question_id": "8k:multi:Multi-115:markdown:r1", "answer": ["TR466_5", "TR089_1", "TR060_13", "TR032_8", "TR032_13", "TR060_2", "TR438_26", "TR060_9", "TR060_30", "TR438_11", "TR060_3", "TR339_10", "TR060_27", "TR439_17", "TR472_1", "TR021_2", "TR153_3", "TR222_2", "TR439_3", "TR136_7", "TR180_7"]}
+{"question_id": "8k:multi:Multi-115:markdown:r2", "answer": ["TR089_1", "TR472_1", "TR466_5", "TR060_13", "TR032_8", "TR032_13", "TR060_2", "TR438_26", "TR060_9", "TR060_30", "TR438_11", "TR060_3", "TR339_10", "TR060_27", "TR439_17", "TR021_2", "TR153_3", "TR222_2", "TR439_3", "TR136_7", "TR180_7"]}
+{"question_id": "8k:multi:Multi-115:markdown:r3", "answer": ["TR021_2", "TR153_3", "TR136_7", "TR180_7"]}
+{"question_id": "8k:multi:Multi-115_INI:markdown:r1", "answer": ["TR466_5", "TR089_1", "TR060_13", "TR032_8", "TR032_13", "TR060_2", "TR438_26", "TR060_9", "TR060_30", "TR438_11", "TR060_3", "TR339_10", "TR060_27", "TR439_17", "TR472_1", "TR021_2", "TR153_3", "TR222_2", "TR439_3", "TR136_7", "TR180_7"]}
+{"question_id": "8k:multi:Multi-115_INI:markdown:r2", "answer": ["TR089_1", "TR472_1", "TR466_5", "TR060_13", "TR032_8", "TR032_13", "TR060_2", "TR438_26", "TR060_9", "TR060_30", "TR438_11", "TR060_3", "TR339_10", "TR060_27", "TR439_17", "TR021_2", "TR153_3", "TR222_2", "TR439_3", "TR136_7", "TR180_7"]}
+{"question_id": "8k:multi:Multi-115_INI:markdown:r3", "answer": ["TR021_2", "TR153_3", "TR136_7", "TR180_7"]}
+{"question_id": "8k:multi:Multi-116:markdown:r1", "answer": ["TR466_5", "TR089_1", "TR060_13", "TR032_8", "TR032_13", "TR060_2", "TR438_26", "TR060_9", "TR060_30", "TR438_11", "TR060_3", "TR339_10", "TR060_27", "TR439_17", "TR472_1", "TR021_2", "TR153_3", "TR222_2", "TR439_3", "TR136_7", "TR180_7"]}
+{"question_id": "8k:multi:Multi-116:markdown:r2", "answer": ["TR472_1", "TR466_5", "TR060_13", "TR032_8", "TR032_13", "TR060_2", "TR438_26", "TR060_9", "TR060_30", "TR438_11", "TR060_3", "TR339_10", "TR060_27", "TR439_17", "TR021_2", "TR153_3", "TR222_2", "TR439_3", "TR136_7", "TR180_7"]}
+{"question_id": "8k:multi:Multi-116:markdown:r3", "answer": ["TR153_3", "TR222_2", "TR439_3"]}
+{"question_id": "8k:multi:Multi-11:markdown:r1", "answer": [632, 10807]}
+{"question_id": "8k:multi:Multi-11:markdown:r2", "answer": [10807]}
+{"question_id": "8k:multi:Multi-11:markdown:r3", "answer": ["Rokycany", "Chomutov"]}
+{"question_id": "8k:multi:Multi-11:markdown:r4", "answer": 87.7}
+{"question_id": "8k:multi:Multi-120:markdown:r1", "answer": ["TR466_5", "TR089_1", "TR060_13", "TR032_8", "TR032_13", "TR060_2", "TR438_26", "TR060_9", "TR060_30", "TR438_11", "TR060_3", "TR339_10", "TR060_27", "TR439_17", "TR472_1", "TR021_2", "TR153_3", "TR222_2", "TR439_3", "TR136_7", "TR180_7"]}
+{"question_id": "8k:multi:Multi-120:markdown:r2", "answer": ["TR089_1", "TR472_1", "TR466_5", "TR060_13", "TR032_8", "TR032_13", "TR060_2", "TR438_26", "TR060_9", "TR060_30", "TR438_11", "TR060_3", "TR339_10", "TR060_27", "TR439_17", "TR021_2", "TR153_3", "TR222_2", "TR439_3", "TR136_7", "TR180_7"]}
+{"question_id": "8k:multi:Multi-120:markdown:r3", "answer": ["TR153_3", "TR136_7", "TR180_7"]}
+{"question_id": "8k:multi:Multi-125:markdown:r1", "answer": null}
+{"question_id": "8k:multi:Multi-125:markdown:r2", "answer": [{"School": "Sundown Elementary", "Grade Offered": "K-6"}, {"School": "Woodland Star Charter", "Grade Offered": "K-8"}, {"School": "Collegewood Elementary", "Grade Offered": "K-5"}, {"School": "Juniper Elementary", "Grade Offered": "K-5"}, {"School": "Lucas Elementary", "Grade Offered": "K-6"}]}
+{"question_id": "8k:multi:Multi-125:markdown:r3", "answer": [{"School": "Sundown Elementary", "AdmEmail1": "t.barker@westside.k12.ca.us"}, {"School": "Woodland Star Charter", "AdmEmail1": "sheila@woodlandstarschool.org"}, {"School": "Collegewood Elementary", "AdmEmail1": "mwendland@wvusd.k12.ca.us"}, {"School": "Juniper Elementary", "AdmEmail1": "tammy.fleming@fusd.net"}, {"School": "Lucas Elementary", "AdmEmail1": "igonzalez@ceres.k12.ca.us"}]}
+{"question_id": "8k:multi:Multi-127:markdown:r1", "answer": [{"UserId": 52874}, {"UserId": 2485}, {"UserId": 5862}]}
+{"question_id": "8k:multi:Multi-127:markdown:r2", "answer": [{"UserId": 52874}]}
+{"question_id": "8k:multi:Multi-127:markdown:r3", "answer": {"Date": "2014-08-05 17:29:39.0"}}
+{"question_id": "8k:multi:Multi-142:markdown:r1", "answer": ["Registration", "Football game", "Football game", "Laugh Out Loud", "Habitat for Humanity", "Women's Soccer", "Food Bank", "Kid's Care", "March Meeting", "Officers meeting - March", "Officers meeting - November", "Officers meeting - October", "October Meeting", "Yearly Kickoff", "September Meeting", "October Speaker", "September Speaker", "November Speaker", "Officers meeting - September", "November Meeting", "Officers meeting - January", "Officers meeting - April", "Officers meeting - February", "January Meeting", "February Meeting", "April Meeting"]}
+{"question_id": "8k:multi:Multi-142:markdown:r2", "answer": ["Football game", "Laugh Out Loud", "Women's Soccer", "Kid's Care", "Officers meeting - November", "Officers meeting - October", "October Meeting", "Yearly Kickoff", "September Meeting", "October Speaker", "September Speaker", "November Speaker", "Officers meeting - September", "November Meeting", "Officers meeting - January", "Officers meeting - April", "January Meeting", "February Meeting", "April Meeting"]}
+{"question_id": "8k:multi:Multi-142:markdown:r3", "answer": null}
+{"question_id": "8k:multi:Multi-148:markdown:r1", "answer": ["Chandra, Flame's Fury"]}
+{"question_id": "8k:multi:Multi-148:markdown:r2", "answer": ["Chandra, Flame's Fury"]}
+{"question_id": "8k:multi:Multi-149:markdown:r1", "answer": [{"id": 40102, "colorIdentity": "R", "name": "Goblin Lore", "number": "133", "setCode": "PLIST", "type": "Sorcery", "text": "Draw four cards, then discard three cards at random."}, {"id": 29826, "colorIdentity": "R", "name": "Chandra, Flame's Fury", "number": "294", "setCode": "M20", "type": "Legendary Planeswalker — Chandra", "text": "+1: Chandra, Flame's Fury deals 2 damage to any target."}, {"id": 5414, "colorIdentity": "R", "name": "Mountain", "number": "316", "setCode": "AKR", "type": "Basic Land — Mountain", "text": "{T}: Add {R}."}]}
+{"question_id": "8k:multi:Multi-149:markdown:r2", "answer": [{"id": 40102, "availability": "paper", "name": "Goblin Lore", "number": "133", "setCode": "PLIST", "type": "Sorcery", "text": "Draw four cards, then discard three cards at random."}, {"id": 29826, "availability": "arena,mtgo,paper", "name": "Chandra, Flame's Fury", "number": "294", "setCode": "M20", "type": "Legendary Planeswalker — Chandra", "text": "+1: Chandra, Flame's Fury deals 2 damage to any target."}, {"id": 21616, "availability": "paper", "name": "Nerf War", "number": "2", "setCode": "H17", "type": "Sorcery", "text": "Fire a Nerf® blaster until empty at target library from at least two meters away. For each card knocked off that library, put it into its owner's graveyard and Nerf War deals ½ damage to that player. (Foam darts only.)"}, {"id": 5414, "availability": "arena", "name": "Mountain", "number": "316", "setCode": "AKR", "type": "Basic Land — Mountain", "text": "{T}: Add {R}."}]}
+{"question_id": "8k:multi:Multi-149:markdown:r3", "answer": [{"id": 40102, "availability": "paper", "convertedManaCost": 2, "name": "Goblin Lore", "number": "133", "setCode": "PLIST", "type": "Sorcery", "text": "Draw four cards, then discard three cards at random."}, {"id": 21616, "availability": "paper", "convertedManaCost": 5, "name": "Nerf War", "number": "2", "setCode": "H17", "type": "Sorcery", "text": "Fire a Nerf® blaster until empty at target library from at least two meters away. For each card knocked off that library, put it into its owner's graveyard and Nerf War deals ½ damage to that player. (Foam darts only.)"}]}
+{"question_id": "8k:multi:Multi-153:markdown:r1", "answer": ["Alex", "MaxW", "Shusheng"]}
+{"question_id": "8k:multi:Multi-153:markdown:r2", "answer": ["Shusheng", "MaxW"]}
+{"question_id": "8k:multi:Multi-153:markdown:r3", "answer": "Shusheng"}
+{"question_id": "8k:multi:Multi-159:markdown:r1", "answer": [30987, 144989, 352879, 24500, 41769, 18628, 47563, 115429]}
+{"question_id": "8k:multi:Multi-159:markdown:r2", "answer": [30987, 352879, 24500, 144989, 39599, 38837, 41769, 18628, 47563, 115429]}
+{"question_id": "8k:multi:Multi-159:markdown:r3", "answer": "2013-05-03 00:00:00"}
+{"question_id": "8k:multi:Multi-160_INI:markdown:r1", "answer": [24500, 144989, 30987, 24105]}
+{"question_id": "8k:multi:Multi-160_INI:markdown:r2", "answer": [144989, 24105, 115429, 18628]}
+{"question_id": "8k:multi:Multi-160_INI:markdown:r3", "answer": [144989, 24105, 115429, 18628]}
+{"question_id": "8k:multi:Multi-168:markdown:r1", "answer": ["TR482_2", "TR455_17", "TR431_3", "TR443_16", "TR235_23", "TR429_11", "TR202_6", "TR292_7", "TR059_3", "TR429_42", "TR050_13", "TR358_14", "TR449_10", "TR193_35", "TR340_5", "TR296_14"]}
+{"question_id": "8k:multi:Multi-168:markdown:r2", "answer": ["TR429_11", "TR429_42"]}
+{"question_id": "8k:multi:Multi-172:markdown:r1", "answer": [{"name": "무시무시한 각성", "multiverseid": 393125}, {"name": "Salteadores Golgari", "multiverseid": 454693}]}
+{"question_id": "8k:multi:Multi-172:markdown:r2", "answer": [{"name": "Salteadores Golgari", "multiverseid": 454693, "type": "Criatura — Elfo Guerreiro"}, {"name": "무시무시한 각성", "multiverseid": 393125, "type": "집중마법"}]}
+{"question_id": "8k:multi:Multi-175:markdown:r1", "answer": {"Id": "119", "TagName": "kernel", "Count": "219", "ExcerptPostId": "65955", "WikiPostId": "65954"}}
+{"question_id": "8k:multi:Multi-175:markdown:r2", "answer": {"Count": "219"}}
+{"question_id": "8k:multi:Multi-175:markdown:r3", "answer": {"ExcerptPostId": "65955", "WikiPostId": "65954"}}
+{"question_id": "8k:multi:Multi-191:markdown:r1", "answer": {"expense_id": "rec017x6R3hQqkLAo", "expense_description": "Post Cards, Posters", "expense_date": "2019-08-20", "cost": "122.06", "approved": "1", "link_to_member": "rec4BLdZHS2Blfp4v", "link_to_budget": "recvKTAWAFKkVNnXQ"}}
+{"question_id": "8k:multi:Multi-191:markdown:r2", "answer": "122.06"}
+{"question_id": "8k:multi:Multi-191:markdown:r3", "answer": "yes"}
+{"question_id": "8k:multi:Multi-191:markdown:r4", "answer": {"expense_date": "2019-08-20"}}
+{"question_id": "8k:multi:Multi-19:markdown:r1", "answer": [{"client_id": 3028, "gender": "F", "birth_date": "1932-04-23", "district_id": 34}]}
+{"question_id": "8k:multi:Multi-19:markdown:r2", "answer": [{"client_id": 3028, "gender": "F", "birth_date": "1932-04-23", "district_id": 34}]}
+{"question_id": "8k:multi:Multi-19:markdown:r3", "answer": [{"client_id": 3028, "gender": "F", "birth_date": "1932-04-23", "district_id": 34}]}
+{"question_id": "8k:multi:Multi-210:markdown:r1", "answer": ["TR482_2", "TR455_17", "TR431_3", "TR443_16", "TR235_23", "TR429_11", "TR202_6", "TR292_7", "TR059_3", "TR429_42", "TR050_13", "TR358_14", "TR449_10", "TR193_35", "TR340_5", "TR296_14"]}
+{"question_id": "8k:multi:Multi-210:markdown:r2", "answer": ["TR482_2", "TR455_17", "TR431_3", "TR443_16", "TR429_11", "TR429_42", "TR449_10"]}
+{"question_id": "8k:multi:Multi-210:markdown:r3", "answer": ["TR429_42"]}
+{"question_id": "8k:multi:Multi-211:markdown:r1", "answer": ["TR210", "TR076"]}
+{"question_id": "8k:multi:Multi-211:markdown:r2", "answer": ["TR210", "TR076"]}
+{"question_id": "8k:multi:Multi-211:markdown:r3", "answer": ["TR076_18", "TR067_2", "TR067_22", "TR067_28", "TR067_2", "TR067_22", "TR067_28"]}
+{"question_id": "8k:multi:Multi-214:markdown:r1", "answer": ["Kuro's Taken", "Wall of Blossoms", "Goblin Lore"]}
+{"question_id": "8k:multi:Multi-214:markdown:r2", "answer": ["Wall of Blossoms"]}
+{"question_id": "8k:multi:Multi-214:markdown:r3", "answer": ["Wall of Blossoms"]}
+{"question_id": "8k:multi:Multi-215:markdown:r1", "answer": ["Wall of Blossoms", "Chandra, Flame's Fury"]}
+{"question_id": "8k:multi:Multi-215:markdown:r2", "answer": ["Wall of Blossoms", "Chandra, Flame's Fury"]}
+{"question_id": "8k:multi:Multi-215:markdown:r3", "answer": ["Wall of Blossoms"]}
+{"question_id": "8k:multi:Multi-227_INI:markdown:r1", "answer": ["Luisa", "Carlo", "Angela", "Adele", "Rafi", "Edwardo", "Maya", "Madelyn", "Dean", "Adela"]}
+{"question_id": "8k:multi:Multi-227_INI:markdown:r2", "answer": ["Angela", "Adele", "Rafi", "Edwardo", "Maya", "Madelyn", "Dean", "Adela"]}
+{"question_id": "8k:multi:Multi-227_INI:markdown:r3", "answer": ["Angela", "Adele", "Maya", "Madelyn", "Dean", "Adela"]}
+{"question_id": "8k:multi:Multi-227_INI:markdown:r4", "answer": ["Luisa", "Carlo", "Angela", "Adele", "Rafi", "Edwardo", "Maya", "Madelyn", "Dean", "Adela", "Matthew", "Tyler", "Brent", "Casey", "Katy", "Amy", "Emily", "Mccauley", "Garrett", "Keith", "Kevin", "Sherri", "Grant", "Christof", "Trent", "Connor"]}
+{"question_id": "8k:multi:Multi-229:markdown:r1", "answer": ["TR371_1_6"]}
+{"question_id": "8k:multi:Multi-229:markdown:r2", "answer": ["TR201_1_6", "TR325_1_3"]}
+{"question_id": "8k:multi:Multi-229:markdown:r3", "answer": ["TR444_12_13", "TR216_12_33", "TR485_12_38"]}
+{"question_id": "8k:multi:Multi-233:markdown:r1", "answer": ["Wall of Blossoms", "Chandra, Flame's Fury"]}
+{"question_id": "8k:multi:Multi-233:markdown:r2", "answer": ["Chandra, Flame's Fury"]}
+{"question_id": "8k:multi:Multi-233:markdown:r3", "answer": ["Chandra, Flame's Fury"]}
+{"question_id": "8k:multi:Multi-233_INI:markdown:r1", "answer": ["Chandra, Flame's Fury", "Wall of Blossoms"]}
+{"question_id": "8k:multi:Multi-233_INI:markdown:r2", "answer": ["Chandra, Flame's Fury"]}
+{"question_id": "8k:multi:Multi-233_INI:markdown:r3", "answer": ["Chandra, Flame's Fury"]}
+{"question_id": "8k:multi:Multi-235:markdown:r1", "answer": ["Sumanth Vepa", "TimS", "Mark Eichenlaub"]}
+{"question_id": "8k:multi:Multi-235:markdown:r2", "answer": ["Sumanth Vepa", "TimS", "Mark Eichenlaub"]}
+{"question_id": "8k:multi:Multi-235:markdown:r3", "answer": ["Mark Eichenlaub"]}
+{"question_id": "8k:multi:Multi-242:markdown:r1", "answer": ["Circuit of the Americas", "Zolder", "Istanbul Park", "Jarama", "Baku City Circuit", "Port Imperial Street Circuit"]}
+{"question_id": "8k:multi:Multi-242:markdown:r2", "answer": ["Circuit of the Americas", "Zolder", "Istanbul Park", "Jarama", "Baku City Circuit", "Port Imperial Street Circuit"]}
+{"question_id": "8k:multi:Multi-242:markdown:r3", "answer": ["Istanbul Park"]}
+{"question_id": "8k:multi:Multi-30:markdown:r1", "answer": ["Lola", "Brabham-Climax", "BRM-Ford", "Ensign", "Cooper-ATS"]}
+{"question_id": "8k:multi:Multi-30:markdown:r2", "answer": ["Brabham-Climax"]}
+{"question_id": "8k:multi:Multi-30:markdown:r3", "answer": "British"}
+{"question_id": "8k:multi:Multi-32:markdown:r1", "answer": [{"account_id": "10807", "district_id": "34", "frequency": "POPLATEK MESICNE", "date": "1996-03-13"}, {"client_id": "3028", "gender": "F", "birth_date": "1932-04-23", "district_id": "34"}]}
+{"question_id": "8k:multi:Multi-32:markdown:r2", "answer": [{"client_id": "3028", "gender": "F", "birth_date": "1932-04-23", "district_id": "34"}]}
+{"question_id": "8k:multi:Multi-32:markdown:r3", "answer": "F"}
+{"question_id": "8k:multi:Multi-33_INI:markdown:r1", "answer": ["Lola", "Brabham-Climax", "BRM-Ford", "Ensign", "Cooper-ATS"]}
+{"question_id": "8k:multi:Multi-33_INI:markdown:r2", "answer": "Brabham-Climax"}
+{"question_id": "8k:multi:Multi-35:markdown:r1", "answer": [632, 10807]}
+{"question_id": "8k:multi:Multi-35:markdown:r2", "answer": [3551380, 186678, 3551375, 3551385, 186657, 186580, 186592, 186597]}
+{"question_id": "8k:multi:Multi-35:markdown:r3", "answer": [186657, 186580, 186592, 186597]}
+{"question_id": "8k:multi:Multi-47_INI:markdown:r1", "answer": [632.0, 10800.0]}
+{"question_id": "8k:multi:Multi-47_INI:markdown:r2", "answer": [186587.0, 186592.0, 186597.0, 186657.0, 186678.0, 3551380.0, 3253659.0, 3253647.0, 3551375.0, 3253625.0, 3253622.0, 3524626.0, 3253539.0, 3253537.0]}
+{"question_id": "8k:multi:Multi-48:markdown:r1", "answer": ["TR222_8", "TR222_9"]}
+{"question_id": "8k:multi:Multi-48:markdown:r2", "answer": ["TR222", "TR222"]}
+{"question_id": "8k:multi:Multi-48_INI:markdown:r1", "answer": ["TR222_8", "TR222_9"]}
+{"question_id": "8k:multi:Multi-48_INI:markdown:r2", "answer": ["TR222", "TR222"]}
+{"question_id": "8k:multi:Multi-52:markdown:r1", "answer": {"constructorId": "98", "constructorRef": "stebro", "name": "Stebro", "nationality": "Canadian", "url": "http://en.wikipedia.org/wiki/Stebro"}}
+{"question_id": "8k:multi:Multi-52:markdown:r2", "answer": {"nationality": "Canadian"}}
+{"question_id": "8k:multi:Multi-54:markdown:r1", "answer": {"constructorId": "10", "constructorRef": "force_india", "name": "Force India", "nationality": "Indian", "url": "http://en.wikipedia.org/wiki/Force_India"}}
+{"question_id": "8k:multi:Multi-54:markdown:r2", "answer": "http://en.wikipedia.org/wiki/Force_India"}
+{"question_id": "8k:multi:Multi-56:markdown:r1", "answer": {"constructorId": 183, "constructorRef": "brabham-climax", "name": "Brabham-Climax", "nationality": "British", "url": "http://en.wikipedia.org/wiki/Brabham"}}
+{"question_id": "8k:multi:Multi-56:markdown:r2", "answer": [{"forename": "David", "surname": "Murray", "nationality": "British"}, {"forename": "Dave", "surname": "Morgan", "nationality": "British"}, {"forename": "Ken", "surname": "Wharton", "nationality": "British"}, {"forename": "Jonathan", "surname": "Palmer", "nationality": "British"}, {"forename": "Tim", "surname": "Parnell", "nationality": "British"}, {"forename": "Piers", "surname": "Courage", "nationality": "British"}, {"forename": "Bill", "surname": "Aston", "nationality": "British"}, {"forename": "Alan", "surname": "Rollinson", "nationality": "British"}, {"forename": "Joe", "surname": "Fry", "nationality": "British"}, {"forename": "Julian", "surname": "Bailey", "nationality": "British"}, {"forename": "Robin", "surname": "Montgomerie-Charrington", "nationality": "British"}]}
+{"question_id": "8k:multi:Multi-60:markdown:r1", "answer": {"client_id": "3028", "gender": "F", "birth_date": "1932-04-23", "district_id": "34"}}
+{"question_id": "8k:multi:Multi-60:markdown:r2", "answer": {"account_id": "10807", "district_id": "34", "frequency": "POPLATEK MESICNE", "date": "1996-03-13"}}
+{"question_id": "8k:multi:Multi-60:markdown:r3", "answer": {"district_id": "34", "A2": "Chomutov", "A3": "north Bohemia", "A4": "125236", "A5": "28", "A6": "11", "A7": "1", "A8": "4", "A9": "5", "A10": "87.7", "A11": "9675", "A12": "6.4", "A13": "7.68", "A14": "100", "A15": "5323", "A16": "5190"}}
+{"question_id": "8k:multi:Multi-69:markdown:r1", "answer": {"atom_id": "TR155_10", "molecule_id": "TR155", "element": "cl"}}
+{"question_id": "8k:multi:Multi-69:markdown:r2", "answer": {"label": "+"}}
+{"question_id": "8k:multi:Multi-72:markdown:r1", "answer": {"molecule_id": "TR222", "label": "+"}}
+{"question_id": "8k:multi:Multi-72:markdown:r2", "answer": ["n", "c"]}
+{"question_id": "8k:multi:Multi-72:markdown:r3", "answer": ["-", "="]}
+{"question_id": "8k:multi:Multi-7:markdown:r1", "answer": [{"School": "Juniper Elementary", "EdOpsName": "Traditional"}, {"School": "Green Oaks Fundamental Elementary", "EdOpsName": "Traditional"}, {"School": "Donald E. Suburu", "EdOpsName": "Traditional"}, {"School": "Pole Corral Elementary", "EdOpsName": "Traditional"}, {"School": "Sundown Elementary", "EdOpsName": "Traditional"}, {"School": "Leadership Preparatory High", "EdOpsName": "Traditional"}, {"School": "nan", "EdOpsName": "Traditional"}, {"School": "nan", "EdOpsName": "Traditional"}, {"School": "nan", "EdOpsName": "Traditional"}, {"School": "nan", "EdOpsName": "Traditional"}]}
+{"question_id": "8k:multi:Multi-7:markdown:r2", "answer": [{"School": "Donald E. Suburu", "County": "Kern"}, {"School": "nan", "County": "Kern"}, {"School": "nan", "County": "Kern"}, {"School": "nan", "County": "Kern"}]}
+{"question_id": "8k:multi:Multi-7:markdown:r3", "answer": [{"School": "Donald E. Suburu", "AdmEmail1": "sramay@lakesideusd.org"}, {"School": "nan", "AdmEmail1": "sramay@lakesideusd.org"}, {"School": "nan", "AdmEmail1": "sramay@lakesideusd.org"}, {"School": "nan", "AdmEmail1": "sramay@lakesideusd.org"}]}
+{"question_id": "8k:multi:Multi-85:markdown:r1", "answer": ["ST", "OP"]}
+{"question_id": "8k:multi:Multi-85:markdown:r2", "answer": ["OP"]}
+{"question_id": "8k:multi:Multi-85:markdown:r3", "answer": ["OP"]}
+{"question_id": "8k:multi:Multi-88:markdown:r1", "answer": ["ST", "OP"]}
+{"question_id": "8k:multi:Multi-88:markdown:r2", "answer": {"A3": "125236"}}
+{"question_id": "8k:multi:Multi-88:markdown:r3", "answer": [10807, 632]}
+{"question_id": "8k:multi:Multi-91_INI:markdown:r1", "answer": ["3.40×10^+01"]}
+{"question_id": "8k:multi:Multi-91_INI:markdown:r2", "answer": ["1.67×10^+02", "1.08×10^+04"]}
+{"question_id": "8k:multi:Multi-91_INI:markdown:r3", "answer": ["forty-nine thousand, eight hundred and sixty", "forty-nine thousand, nine hundred and eighty-five", "three million, two hundred and fifty-three thousand, six hundred and forty-seven"]}
+{"question_id": "8k:multi:Multi-96:markdown:r1", "answer": [29, 34]}
+{"question_id": "8k:multi:Multi-96:markdown:r2", "answer": [29, 34]}
+{"question_id": "8k:multi:Multi-96:markdown:r3", "answer": [10807, 632, 167]}
+{"question_id": "8k:multi:Multi-98:markdown:r1", "answer": ["north Bohemia"]}
+{"question_id": "8k:multi:Multi-98:markdown:r2", "answer": ["north Bohemia"]}
+{"question_id": "8k:multi:Multi-98:markdown:r3", "answer": ["north Bohemia"]}
+{"question_id": "8k:multi:Multi-99:markdown:r1", "answer": ["north Bohemia"]}
+{"question_id": "8k:multi:Multi-99:markdown:r2", "answer": ["north Bohemia"]}
+{"question_id": "8k:multi:Multi-99:markdown:r3", "answer": ["north Bohemia"]}
+{"question_id": "8k:multi:Multi-9:markdown:r1", "answer": ["Lola", "Brabham-Climax", "BRM-Ford", "Ensign", "Cooper-ATS"]}
+{"question_id": "8k:multi:Multi-9:markdown:r2", "answer": ["Lola", "Brabham-Climax", "BRM-Ford", "Ensign", "Cooper-ATS"]}
+{"question_id": "8k:multi:Multi-9:markdown:r3", "answer": ["Lola", "Brabham-Climax", "BRM-Ford", "Ensign", "Cooper-ATS"]}
+{"question_id": "8k:single:Single-103:markdown:r1", "answer": 1171}
+{"question_id": "8k:single:Single-104:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-106:markdown:r1", "answer": "Supported"}
+{"question_id": "8k:single:Single-107:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-108:markdown:r1", "answer": 2555}
+{"question_id": "8k:single:Single-110:markdown:r1", "answer": 2756}
+{"question_id": "8k:single:Single-111:markdown:r1", "answer": {"raceId": "912", "driverId": "817", "lap": "29", "position": "11", "time": "1:29.587", "milliseconds": "89587"}}
+{"question_id": "8k:single:Single-119:markdown:r1", "answer": "e6b3104c2ca790567ad458d3b12086ba"}
+{"question_id": "8k:single:Single-11:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-121:markdown:r1", "answer": 22757}
+{"question_id": "8k:single:Single-133:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-139:markdown:r1", "answer": "Supported"}
+{"question_id": "8k:single:Single-145:markdown:r1", "answer": [{"id": 29826, "convertedManaCost": 6, "availability": "arena,mtgo,paper"}, {"id": 48868, "convertedManaCost": 2, "availability": "mtgo,paper"}]}
+{"question_id": "8k:single:Single-149:markdown:r1", "answer": ["TR101", "TR210", "TR076"]}
+{"question_id": "8k:single:Single-157:markdown:r1", "answer": [{"name": "Wall of Blossoms", "convertedManaCost": 2, "keywords": "Defender", "availability": "mtgo,paper"}]}
+{"question_id": "8k:single:Single-161:markdown:r1", "answer": [{"language": "Russian", "translation": "Elves vs. Goblins"}, {"language": "Chinese Traditional", "translation": "Elves vs. Goblins"}]}
+{"question_id": "8k:single:Single-171:markdown:r1", "answer": [{"name": "Kuro's Taken", "setCode": "SOK", "convertedManaCost": 2}, {"name": "Wall of Blossoms", "setCode": "SOK", "convertedManaCost": 2}]}
+{"question_id": "8k:single:Single-172:markdown:r1", "answer": ["Kuro's Taken", "Wall of Blossoms", "Goblin Lore"]}
+{"question_id": "8k:single:Single-175:markdown:r1", "answer": 654962}
+{"question_id": "8k:single:Single-177:markdown:r1", "answer": {"id": "3286", "game_id": "1591", "publisher_id": "464"}}
+{"question_id": "8k:single:Single-17_INI:markdown:r1", "answer": ["one thousand, seven hundred and thirty-three", "four thousand, three hundred and sixty-nine"]}
+{"question_id": "8k:single:Single-181:markdown:r1", "answer": [649298, 635858, 657099, 638884, 652413, 652573, 664351, 657810, 635471, 635702, 660003, 653000, 661827, 642674, 647435, 662202]}
+{"question_id": "8k:single:Single-196:markdown:r1", "answer": {"Id": 55195, "PostId": 29129, "Score": 2, "Text": "The characteristic polynomial is merely a mathematical device to collect the eigenvalues into one object, Michael. Although it is thus extraordinarily useful, it can also obscure what is going on. Both geometrically and algebraically, we are selecting a new basis for a vector space and studying the process from that new point of view. This decomposes the process into a linear combination of one-dimensional processes. The root of each is just a multiplier: that leads to the statement I made. Moreover, these roots usually are found by methods that *avoid* solving the characteristic polynomial!", "CreationDate": "2012-05-25 15:56:34.0", "UserId": 919, "UserDisplayName": "nan"}}
+{"question_id": "8k:single:Single-19_INI:markdown:r1", "answer": []}
+{"question_id": "8k:single:Single-200:markdown:r1", "answer": [10363, 8239, 300267, 469847, 74138]}
+{"question_id": "8k:single:Single-211_INI:markdown:r1", "answer": ["Terror on Dinosaur Island!", "The Rise of the Blue Beetle!", "Journey to the Center of the Bat!", "Return of the Fearsome Fangs!", "Invasion of the Secret Santas!", "Dawn of the Dead Man!", "Fall of the Blue Beetle!", "Day of the Dark Knight!", "The Eyes of Despero!", "Enter the Outsiders!", "Evil Under the Sea!"]}
+{"question_id": "8k:single:Single-216:markdown:r1", "answer": "The episode for the TV series named 'Sky Radio' is not provided in the given evidence."}
+{"question_id": "8k:single:Single-219_INI:markdown:r1", "answer": ["Lorenz", "Domenica"]}
+{"question_id": "8k:single:Single-21:markdown:r1", "answer": [262381]}
+{"question_id": "8k:single:Single-223:markdown:r1", "answer": ["Introduction of OS", "A history of Arts"]}
+{"question_id": "8k:single:Single-226:markdown:r1", "answer": [80]}
+{"question_id": "8k:single:Single-33:markdown:r1", "answer": [2055044, 2050879, 2014602, 1580869, 1555467, 1727958, 1752922, 670997, 533907, 860448, 2004189, 1239954]}
+{"question_id": "8k:single:Single-36:markdown:r1", "answer": [4260, 1667]}
+{"question_id": "8k:single:Single-42_INI:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-43:markdown:r1", "answer": [777, 843, 768]}
+{"question_id": "8k:single:Single-4:markdown:r1", "answer": [43573]}
+{"question_id": "8k:single:Single-4_INI:markdown:r1", "answer": ["forty-three thousand, five hundred and seventy-three"]}
+{"question_id": "8k:single:Single-60:markdown:r1", "answer": [330, 451, 586, 501, 471, 572, 557, 251, 394, 506, 582, 417, 229, 631, 549, 305, 30]}
+{"question_id": "8k:single:Single-68:markdown:r1", "answer": 30}
+{"question_id": "8k:single:Single-75:markdown:r1", "answer": "Unsupported"}
+{"question_id": "8k:single:Single-77:markdown:r1", "answer": {"id": 142585, "flavorText": "nan", "language": "Japanese", "multiverseid": 486637, "name": "抵抗の妙技", "text": "あなたがコントロールしているクリーチャー１体を対象とし、それの上に＋１/＋１カウンターを１個置く。色１色を選ぶ。ターン終了時まで、それはプロテクション（その選んだ色）を得る。（それは選ばれた色のものによっては、ブロックされず、対象にならず、ダメージを受けず、エンチャントされず、装備されない。）", "type": "インスタント", "uuid": "56a98be7-1df5-5b21-8c00-996fbabd40b7"}}
+{"question_id": "8k:single:Single-83:markdown:r1", "answer": [8452]}
+{"question_id": "8k:single:Single-84:markdown:r1", "answer": "Central Africa"}
+{"question_id": "8k:single:Single-88:markdown:r1", "answer": {"Airline": "10", "FlightNo": "383", "SourceAirport": "ALE", "DestAirport": "APG"}}
+{"question_id": "8k:single:Single-91:markdown:r1", "answer": {"Airline": "10", "FlightNo": "383", "SourceAirport": "ALE", "DestAirport": "APG"}}
+{"question_id": "8k:single:Single-95:markdown:r1", "answer": ["C000240"]}
+{"question_id": "8k:single:Single-96_INI:markdown:r1", "answer": "Supported"}
+{"question_id": "inf:multi:Multi-0:markdown:r1", "answer": ["Lomita Math/Science/Technology Magnet", "PUC Early College Academy for Leaders and Scholars (ECALS)", "Vista Heritage Charter Middle", "Rocketship Si Se Puede Academy", "North Valley Occupational Center", "Bridge Street Elementary", "Open Charter Magnet", "Middle College High (Alternative)"]}
+{"question_id": "inf:multi:Multi-0:markdown:r2", "answer": ["Lomita Math/Science/Technology Magnet", "Open Charter Magnet", "Bridge Street Elementary"]}
+{"question_id": "inf:multi:Multi-0:markdown:r3", "answer": ["Lomita Math/Science/Technology Magnet", "Open Charter Magnet", "Bridge Street Elementary"]}
+{"question_id": "inf:multi:Multi-0:markdown:r4", "answer": ["Lomita Math/Science/Technology Magnet", "Open Charter Magnet"]}
+{"question_id": "inf:multi:Multi-11:markdown:r1", "answer": ["Charade Circuit", "Circuit Gilles Villeneuve", "Autodromo Nazionale di Monza"]}
+{"question_id": "inf:multi:Multi-11:markdown:r2", "answer": ["Circuit Gilles Villeneuve", "Autodromo Nazionale di Monza"]}
+{"question_id": "inf:multi:Multi-11:markdown:r3", "answer": ["Michael Schumacher", "Fernando Alonso", "David Coulthard", "Ralf Schumacher", "Jenson Button"]}
+{"question_id": "inf:multi:Multi-12:markdown:r1", "answer": []}
+{"question_id": "inf:multi:Multi-12:markdown:r2", "answer": []}
+{"question_id": "inf:multi:Multi-12:markdown:r3", "answer": []}
+{"question_id": "inf:multi:Multi-15:markdown:r1", "answer": 15}
+{"question_id": "inf:multi:Multi-15:markdown:r2", "answer": 15}
+{"question_id": "inf:multi:Multi-15:markdown:r3", "answer": "2"}
+{"question_id": "inf:multi:Multi-15:markdown:r4", "answer": "1"}
+{"question_id": "inf:multi:Multi-15:markdown:r5", "answer": {"superhero_name": "Abomination", "height_cm": 203}}
+{"question_id": "inf:multi:Multi-15_INI:markdown:r1", "answer": 351.0}
+{"question_id": "inf:multi:Multi-15_INI:markdown:r2", "answer": 15.0}
+{"question_id": "inf:multi:Multi-15_INI:markdown:r3", "answer": "two point zero"}
+{"question_id": "inf:multi:Multi-15_INI:markdown:r4", "answer": "one point zero"}
+{"question_id": "inf:multi:Multi-15_INI:markdown:r5", "answer": {"Emil Blonsky": 203.0, "Charles Chandler": 188.0, "difference": 15.0}}
+{"question_id": "inf:multi:Multi-16:markdown:r1", "answer": {"forename": "Max", "surname": "Verstappen", "dob": "1997-09-30"}}
+{"question_id": "inf:multi:Multi-16:markdown:r2", "answer": {"nationality": "Dutch"}}
+{"question_id": "inf:multi:Multi-16:markdown:r3", "answer": {"code": "VER"}}
+{"question_id": "inf:multi:Multi-16:markdown:r4", "answer": {"dob": "1997-09-30"}}
+{"question_id": "inf:multi:Multi-16:markdown:r5", "answer": {"url": "http://en.wikipedia.org/wiki/Max_Verstappen"}}
+{"question_id": "inf:multi:Multi-16_INI:markdown:r1", "answer": {"forename": "Max", "surname": "Verstappen", "dob": "1997-09-30"}}
+{"question_id": "inf:multi:Multi-16_INI:markdown:r2", "answer": {"nationality": "Dutch"}}
+{"question_id": "inf:multi:Multi-16_INI:markdown:r3", "answer": {"code": "VER"}}
+{"question_id": "inf:multi:Multi-16_INI:markdown:r4", "answer": {"dob": "1997-09-30"}}
+{"question_id": "inf:multi:Multi-16_INI:markdown:r5", "answer": {"url": "http://en.wikipedia.org/wiki/Max_Verstappen"}}
+{"question_id": "inf:multi:Multi-17:markdown:r1", "answer": ["Hungarian Grand Prix", "European Grand Prix", "Italian Grand Prix", "Australian Grand Prix", "Hungarian Grand Prix", "Bahrain Grand Prix", "Spanish Grand Prix", "Monaco Grand Prix", "British Grand Prix", "German Grand Prix", "Belgian Grand Prix", "Singapore Grand Prix", "Brazilian Grand Prix", "British Grand Prix", "Spanish Grand Prix", "European Grand Prix", "Monaco Grand Prix", "Canadian Grand Prix", "French Grand Prix", "Austrian Grand Prix", "German Grand Prix", "Belgian Grand Prix", "Italian Grand Prix", "Japanese Grand Prix", "Malaysian Grand Prix", "German Grand Prix", "United States Grand Prix", "Australian Grand Prix", "Malaysian Grand Prix", "Chinese Grand Prix", "Turkish Grand Prix", "Canadian Grand Prix", "Japanese Grand Prix", "Korean Grand Prix", "Brazilian Grand Prix", "Abu Dhabi Grand Prix", "Italian Grand Prix", "Hungarian Grand Prix", "Argentine Grand Prix", "French Grand Prix", "Russian Grand Prix", "Indianapolis 500", "Brazilian Grand Prix", "Japanese Grand Prix", "Brazilian Grand Prix", "German Grand Prix", "European Grand Prix", "Monaco Grand Prix"]}
+{"question_id": "inf:multi:Multi-17:markdown:r2", "answer": ["Australian Grand Prix", "Belgian Grand Prix", "Abu Dhabi Grand Prix", "German Grand Prix", "European Grand Prix", "Spanish Grand Prix", "Monaco Grand Prix", "Turkish Grand Prix", "British Grand Prix", "Hungarian Grand Prix", "Italian Grand Prix", "Singapore Grand Prix", "Malaysian Grand Prix", "Chinese Grand Prix", "Japanese Grand Prix", "Brazilian Grand Prix"]}
+{"question_id": "inf:multi:Multi-17:markdown:r3", "answer": ["Malaysian Grand Prix", "Chinese Grand Prix"]}
+{"question_id": "inf:multi:Multi-17:markdown:r4", "answer": ["http://en.wikipedia.org/wiki/2009_Malaysian_Grand_Prix", "http://en.wikipedia.org/wiki/2009_Chinese_Grand_Prix"]}
+{"question_id": "inf:multi:Multi-19:markdown:r1", "answer": ["Emrakul, the Promised End", "Welding Sparks", "Terashi's Grasp"]}
+{"question_id": "inf:multi:Multi-19:markdown:r2", "answer": ["Welding Sparks"]}
+{"question_id": "inf:multi:Multi-19:markdown:r3", "answer": ["common"]}
+{"question_id": "inf:multi:Multi-21:markdown:r1", "answer": ["WalterJ89", "Umber Ferrule", "obvio171", "Martin Schröder", "jnh", "Dai Le", "Mawg", "diip_thomas", "danodonovan"]}
+{"question_id": "inf:multi:Multi-21:markdown:r2", "answer": ["Ziyao Wei", "agconti", "Roy Hyunjin Han"]}
+{"question_id": "inf:multi:Multi-21:markdown:r3", "answer": 351889}
+{"question_id": "inf:multi:Multi-24:markdown:r1", "answer": "Bruce Wayne"}
+{"question_id": "inf:multi:Multi-24:markdown:r2", "answer": "1"}
+{"question_id": "inf:multi:Multi-24:markdown:r3", "answer": 4}
+{"question_id": "inf:multi:Multi-24_INI:markdown:r1", "answer": "Bruce Wayne"}
+{"question_id": "inf:multi:Multi-24_INI:markdown:r2", "answer": "one point zero"}
+{"question_id": "inf:multi:Multi-24_INI:markdown:r3", "answer": "twenty-four point zero"}
+{"question_id": "inf:multi:Multi-25:markdown:r1", "answer": [{"raceId": 1, "year": 2009, "round": 1, "circuitId": 1, "name": "Australian Grand Prix", "date": "2009-03-29", "time": "06:00:00", "url": "http://en.wikipedia.org/wiki/2009_Australian_Grand_Prix"}]}
+{"question_id": "inf:multi:Multi-25:markdown:r2", "answer": [{"raceId": 1, "year": 2009, "round": 1, "circuitId": 1, "name": "Australian Grand Prix", "date": "2009-03-29", "time": "06:00:00", "url": "http://en.wikipedia.org/wiki/2009_Australian_Grand_Prix"}]}
+{"question_id": "inf:multi:Multi-25:markdown:r3", "answer": "http://en.wikipedia.org/wiki/2009_Australian_Grand_Prix"}
+{"question_id": "inf:multi:Multi-26:markdown:r1", "answer": ["Australian Grand Prix", "Malaysian Grand Prix", "Chinese Grand Prix", "Bahrain Grand Prix", "Spanish Grand Prix", "Monaco Grand Prix", "Turkish Grand Prix", "British Grand Prix", "German Grand Prix", "Hungarian Grand Prix", "European Grand Prix", "Belgian Grand Prix", "Italian Grand Prix", "Singapore Grand Prix", "Japanese Grand Prix", "Brazilian Grand Prix", "Abu Dhabi Grand Prix"]}
+{"question_id": "inf:multi:Multi-26:markdown:r2", "answer": ["Malaysian Grand Prix", "Chinese Grand Prix", "Bahrain Grand Prix"]}
+{"question_id": "inf:multi:Multi-26:markdown:r3", "answer": "Chinese Grand Prix"}
+{"question_id": "inf:multi:Multi-27:markdown:r1", "answer": "Australian Grand Prix"}
+{"question_id": "inf:multi:Multi-27:markdown:r2", "answer": "2009-03-29"}
+{"question_id": "inf:multi:Multi-27:markdown:r3", "answer": "http://en.wikipedia.org/wiki/2009_Australian_Grand_Prix"}
+{"question_id": "inf:multi:Multi-28:markdown:r1", "answer": [{"School": "Rocketship Futuro Academy", "FundingType": "Directly funded"}, {"School": "Santa Rosa Charter", "FundingType": "Directly funded"}, {"School": "Metropolitan Arts & Technology High", "FundingType": "Directly funded"}, {"School": "John Adams Academy", "FundingType": "Directly funded"}, {"School": "Manzanita Middle", "FundingType": "Directly funded"}, {"School": "California Connections Academy @ North Bay", "FundingType": "Directly funded"}, {"School": "PUC Inspire Charter Academy", "FundingType": "Directly funded"}, {"School": "Alliance College-Ready Middle Academy 12", "FundingType": "Directly funded"}]}
+{"question_id": "inf:multi:Multi-28:markdown:r2", "answer": [{"School": "Rocketship Futuro Academy", "County": "Contra Costa"}, {"School": "Alliance College-Ready Middle Academy 12", "County": "Los Angeles"}, {"School": "PUC Inspire Charter Academy", "County": "Los Angeles"}, {"School": "John Adams Academy", "County": "Placer"}, {"School": "California Connections Academy @ North Bay", "County": "Nan"}, {"School": "Metropolitan Arts & Technology High", "County": "San Francisco"}, {"School": "Santa Rosa Charter", "County": "Sonoma"}]}
+{"question_id": "inf:multi:Multi-28:markdown:r3", "answer": [{"School": "Alliance College-Ready Middle Academy 12", "FundingType": "Directly funded", "GSoffered": "6-8"}, {"School": "PUC Inspire Charter Academy", "FundingType": "Directly funded", "GSoffered": "6-7"}, {"School": "Manzanita Middle", "FundingType": "Directly funded", "GSoffered": "6-8"}]}
+{"question_id": "inf:multi:Multi-30_INI:markdown:r1", "answer": ["War of the Spark"]}
+{"question_id": "inf:multi:Multi-30_INI:markdown:r2", "answer": "GNT"}
+{"question_id": "inf:multi:Multi-30_INI:markdown:r3", "answer": "2.80×10^+02"}
+{"question_id": "inf:multi:Multi-31:markdown:r1", "answer": {"id": 19, "superhero_name": "Alien", "full_name": "Xenomorph", "gender_id": "1", "eye_colour_id": "1", "hair_colour_id": "1", "skin_colour_id": "4", "race_id": "57", "publisher_id": "3", "alignment_id": "2", "height_cm": "244", "weight_kg": "169"}}
+{"question_id": "inf:multi:Multi-31:markdown:r2", "answer": {"weight_kg": "169"}}
+{"question_id": "inf:multi:Multi-31:markdown:r3", "answer": {"race_id": "57"}}
+{"question_id": "inf:multi:Multi-33:markdown:r1", "answer": {"raceId": 1, "year": 2009, "round": 1, "circuitId": 1, "name": "Australian Grand Prix", "date": "2009-03-29", "time": "06:00:00", "url": "http://en.wikipedia.org/wiki/2009_Australian_Grand_Prix"}}
+{"question_id": "inf:multi:Multi-33:markdown:r2", "answer": "2009-03-29"}
+{"question_id": "inf:multi:Multi-33:markdown:r3", "answer": {"time": "06:00:00"}}
+{"question_id": "inf:multi:Multi-33:markdown:r4", "answer": {"url": "http://en.wikipedia.org/wiki/2009_Australian_Grand_Prix"}}
+{"question_id": "inf:multi:Multi-34:markdown:r1", "answer": {"atom_id": "TR096_20", "atom_id2": "TR096_32", "bond_id": "TR096_20_32"}}
+{"question_id": "inf:multi:Multi-34:markdown:r2", "answer": {"bond_id": "TR096_20_32"}}
+{"question_id": "inf:multi:Multi-34:markdown:r3", "answer": [{"atom_id": "TR096_20", "atom_id2": "TR096_30", "bond_id": "TR096_20_30"}, {"atom_id": "TR096_30", "atom_id2": "TR096_20", "bond_id": "TR096_20_30"}]}
+{"question_id": "inf:multi:Multi-34:markdown:r4", "answer": ["TR096_32", "TR096_30"]}
+{"question_id": "inf:multi:Multi-35:markdown:r1", "answer": {"Id": 23956, "Reputation": 125, "CreationDate": "2013-04-05 12:00:42.0", "DisplayName": "Amanda", "LastAccessDate": "2014-05-21 07:25:44.0", "WebsiteUrl": "nan", "Location": "Israel", "AboutMe": "nan", "Views": 59, "UpVotes": 5, "DownVotes": 0, "AccountId": 2319761, "Age": "nan", "ProfileImageUrl": "https://www.gravatar.com/avatar/?s=128&d=identicon&r=PG&f=1"}}
+{"question_id": "inf:multi:Multi-35:markdown:r2", "answer": {"Location": "Israel"}}
+{"question_id": "inf:multi:Multi-35:markdown:r3", "answer": "yes"}
+{"question_id": "inf:multi:Multi-35:markdown:r4", "answer": {"AccountId": 2319761}}
+{"question_id": "inf:multi:Multi-36:markdown:r1", "answer": {"Id": "21442", "Reputation": "118", "CreationDate": "2013-03-01 15:42:44.0", "DisplayName": "EnricoGiampieri", "LastAccessDate": "2014-07-24 08:31:31.0", "WebsiteUrl": "http://enricogiampieri.github.io/", "Location": "Bologna, Italy", "AboutMe": "<p>I am a post-doctoral fellow in bio-physics, and four years ago, after some C++ and java painful programming, I discovered python and completetly fell in love with it.</p>", "Views": "5", "UpVotes": "4", "DownVotes": "0", "AccountId": "1989859", "Age": "31", "ProfileImageUrl": "nan"}}
+{"question_id": "inf:multi:Multi-36:markdown:r2", "answer": "EnricoGiampieri"}
+{"question_id": "inf:multi:Multi-36:markdown:r3", "answer": "nan"}
+{"question_id": "inf:multi:Multi-38:markdown:r1", "answer": ["Elvish Rejuvenator", "Titania's Song"]}
+{"question_id": "inf:multi:Multi-38:markdown:r2", "answer": ["Elvish Rejuvenator"]}
+{"question_id": "inf:multi:Multi-38:markdown:r3", "answer": ["Elvish Rejuvenator"]}
+{"question_id": "inf:multi:Multi-39:markdown:r1", "answer": ["ALG", "PIC", "ERI", "PER", "VER"]}
+{"question_id": "inf:multi:Multi-39:markdown:r2", "answer": ["PIC", "PER"]}
+{"question_id": "inf:multi:Multi-39:markdown:r3", "answer": "Sergio Pérez"}
+{"question_id": "inf:multi:Multi-3:markdown:r1", "answer": ["PUC Early College Academy for Leaders and Scholars (ECALS)", "Alexander Hamilton Senior High", "Susan Miller Dorsey Senior High", "Leuzinger High"]}
+{"question_id": "inf:multi:Multi-3:markdown:r2", "answer": 1}
+{"question_id": "inf:multi:Multi-3:markdown:r3", "answer": "Locally funded"}
+{"question_id": "inf:multi:Multi-40:markdown:r1", "answer": ["Jaime Alguersuari", "Charles Pic", "Marcus Ericsson", "Sergio Pérez", "Jean-Éric Vergne"]}
+{"question_id": "inf:multi:Multi-40:markdown:r2", "answer": ["Marcus Ericsson", "Sergio Pérez", "Jean-Éric Vergne"]}
+{"question_id": "inf:multi:Multi-40:markdown:r3", "answer": ["Swedish", "Mexican", "French"]}
+{"question_id": "inf:multi:Multi-41:markdown:r1", "answer": ["hamilton", "button", "davidson", "irvine", "herbert", "mcnish", "brundle", "blundell", "mansell", "warwick", "mccarthy", "bailey", "palmer", "dumfries", "acheson", "henton", "lees", "keegan", "south", "needell", "hunt", "galica", "trimmer", "pryce", "purley", "oliver", "sutcliffe", "edwards", "ashley", "magee", "wilds", "hill", "brise", "hailwood", "robarts", "redman", "gethin", "stewart", "beuttler", "williamson", "surtees", "elford", "courage", "westbury", "attwood", "clark", "spence", "widdows", "parkes"]}
+{"question_id": "inf:multi:Multi-41:markdown:r2", "answer": ["hamilton", "button", "davidson", "irvine", "herbert", "mcnish", "brundle", "blundell", "mansell", "warwick", "mccarthy", "bailey", "palmer", "dumfries", "acheson", "henton", "lees", "keegan", "south", "needell", "hunt", "galica", "trimmer", "pryce", "purley", "oliver", "sutcliffe", "edwards", "ashley", "magee", "wilds", "hill", "brise", "hailwood", "robarts", "redman", "gethin", "stewart", "beuttler", "williamson", "surtees", "elford", "courage", "westbury", "attwood", "clark", "spence", "widdows", "parkes"]}
+{"question_id": "inf:multi:Multi-41:markdown:r3", "answer": ["hamilton"]}
+{"question_id": "inf:multi:Multi-41_INI:markdown:r1", "answer": ["davidson"]}
+{"question_id": "inf:multi:Multi-41_INI:markdown:r2", "answer": ["davidson", "button", "hamilton"]}
+{"question_id": "inf:multi:Multi-41_INI:markdown:r3", "answer": ["hamilton"]}
+{"question_id": "inf:multi:Multi-42_INI:markdown:r1", "answer": ["TR043_13_14", "TR043_20_22", "TR043_15_16", "TR043_2_26", "TR043_11_44", "TR043_25_32", "TR043_8_14", "TR043_28_62", "TR043_19_55", "TR043_19_56", "TR043_34_71", "TR043_1_2", "TR043_33_68", "TR043_14_47"]}
+{"question_id": "inf:multi:Multi-42_INI:markdown:r2", "answer": ["TR043_13_14", "TR043_8_14", "TR043_14_47"]}
+{"question_id": "inf:multi:Multi-42_INI:markdown:r3", "answer": ["TR043_13_14"]}
+{"question_id": "inf:multi:Multi-43:markdown:r1", "answer": ["Axis of Mortality", "Storm Herd"]}
+{"question_id": "inf:multi:Multi-43:markdown:r2", "answer": ["Storm Herd", "Axis of Mortality"]}
+{"question_id": "inf:multi:Multi-43:markdown:r3", "answer": ["Storm Herd"]}
+{"question_id": "inf:multi:Multi-44:markdown:r1", "answer": null}
+{"question_id": "inf:multi:Multi-44:markdown:r2", "answer": [{"School": "One Hundred Seventh Street Elementary", "GSserved": "K-5"}, {"School": "Bryson Avenue Elementary", "GSserved": "K-5"}, {"School": "Sherman Oaks Elementary Charter", "GSserved": "K-5"}, {"School": "Aragon Avenue Elementary", "GSserved": "K-5"}, {"School": "Estrella Elementary", "GSserved": "K-5"}, {"School": "Playa del Rey Elementary", "GSserved": "K-5"}, {"School": "Longfellow Elementary", "GSserved": "K-5"}, {"School": "Riviera Elementary", "GSserved": "K-5"}]}
+{"question_id": "inf:multi:Multi-44:markdown:r3", "answer": [{"School": "Sherman Oaks Elementary Charter", "Charter": "1"}, {"School": "Topanga Elementary Charter", "Charter": "1"}, {"School": "One Hundred Seventh Street Elementary", "Charter": "0"}, {"School": "Bryson Avenue Elementary", "Charter": "0"}, {"School": "Aragon Avenue Elementary", "Charter": "0"}, {"School": "Estrella Elementary", "Charter": "0"}, {"School": "Playa del Rey Elementary", "Charter": "0"}]}
+{"question_id": "inf:multi:Multi-4:markdown:r1", "answer": ["Vista Heritage Charter Middle", "Open Charter Magnet", "Emelita Academy Charter", "Lomita Math/Science/Technology Magnet"]}
+{"question_id": "inf:multi:Multi-4:markdown:r2", "answer": ["Open Charter Magnet", "Emelita Academy Charter", "Lomita Math/Science/Technology Magnet"]}
+{"question_id": "inf:multi:Multi-4:markdown:r3", "answer": ["Open Charter Magnet", "Emelita Academy Charter"]}
+{"question_id": "inf:multi:Multi-4:markdown:r4", "answer": ["Open Charter Magnet", "Emelita Academy Charter"]}
+{"question_id": "inf:multi:Multi-5:markdown:r1", "answer": ["Vista Heritage Charter Middle", "Spark Charter", "PUC Early College Academy for Leaders and Scholars (ECALS)", "Silicon Valley Flex Academy", "Rocketship Si Se Puede Academy", "California Virtual Academy @ San Joaquin", "Rocketship Futuro Academy", "The Academy", "Emelita Academy Charter"]}
+{"question_id": "inf:multi:Multi-5:markdown:r2", "answer": ["PUC Early College Academy for Leaders and Scholars (ECALS)", "California Virtual Academy @ San Joaquin", "Rocketship Futuro Academy", "Rocketship Si Se Puede Academy", "The Academy"]}
+{"question_id": "inf:multi:Multi-5:markdown:r3", "answer": ["2011-08-29", "2015-08-18", "2016-08-15", "2007-09-04", "2009-08-31"]}
+{"question_id": "inf:multi:Multi-7:markdown:r1", "answer": []}
+{"question_id": "inf:multi:Multi-7:markdown:r2", "answer": []}
+{"question_id": "inf:multi:Multi-7:markdown:r3", "answer": ["Porsche"]}
+{"question_id": "inf:multi:Multi-8:markdown:r1", "answer": []}
+{"question_id": "inf:multi:Multi-8:markdown:r2", "answer": []}
+{"question_id": "inf:multi:Multi-8:markdown:r3", "answer": []}
+{"question_id": "inf:multi:Multi-9:markdown:r1", "answer": []}
+{"question_id": "inf:multi:Multi-9:markdown:r2", "answer": []}
+{"question_id": "inf:multi:Multi-9:markdown:r3", "answer": ["Brazilian Grand Prix", "Monaco Grand Prix", "German Grand Prix", "Italian Grand Prix", "Hungarian Grand Prix", "Canadian Grand Prix", "British Grand Prix", "Swedish Grand Prix", "European Grand Prix"]}
+{"question_id": "inf:single:Single-0:markdown:r1", "answer": "Supported"}
+{"question_id": "inf:single:Single-100:markdown:r1", "answer": 26}
+{"question_id": "inf:single:Single-101:markdown:r1", "answer": 2416}
+{"question_id": "inf:single:Single-102:markdown:r1", "answer": 21}
+{"question_id": "inf:single:Single-10:markdown:r1", "answer": [59, 66772]}
+{"question_id": "inf:single:Single-11:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-13:markdown:r1", "answer": [25087, 2296, 1067, 1010]}
+{"question_id": "inf:single:Single-15:markdown:r1", "answer": {"App": "Union League", "Category": "FAMILY", "Rating": "4.0", "Reviews": "10,000", "Size": "38MB", "Installs": "10,000,000+", "Type": "Free", "Price": "0", "Content Rating": "Everyone", "Genres": "Casual;Action & Adventure"}}
+{"question_id": "inf:single:Single-17:markdown:r1", "answer": [1257, 926, 94, 386, 347, 1189, 1040, 1275, 560, 1733, 1156, 4369, 857, 866]}
+{"question_id": "inf:single:Single-18:markdown:r1", "answer": [7997, 732, 664, 4953, 462]}
+{"question_id": "inf:single:Single-19:markdown:r1", "answer": [1, 527, 62, 974, 1515, 670, 52, 64, 68, 66, 45, 65, 67, 921, 685, 680, 451, 561, 267, 97, 96, 2656, 388, 556]}
+{"question_id": "inf:single:Single-1:markdown:r1", "answer": "49708624930012"}
+{"question_id": "inf:single:Single-21:markdown:r1", "answer": [820, 3, 79, 305, 262381, 265, 589, 7, 617, 229]}
+{"question_id": "inf:single:Single-23:markdown:r1", "answer": {"ID": "5.39627e+06", "Examination Date": "1997-08-26", "aCL IgG": "1.8", "aCL IgM": "3.4", "ANA": "16", "ANA Pattern": "P", "aCL IgA": "0", "Diagnosis": "ANA(+) ", "KCT": "nan", "RVVT": "nan", "LAC": "nan", "Symptoms": "nan", "Thrombosis": "0"}}
+{"question_id": "inf:single:Single-24:markdown:r1", "answer": {"id": 6, "player_fifa_api_id": 189615, "player_api_id": 155782, "date": "2016-04-21 00:00:00", "overall_rating": "74", "potential": "76", "preferred_foot": "left", "attacking_work_rate": "high", "defensive_work_rate": "medium", "crossing": "80", "finishing": "53", "heading_accuracy": "58", "short_passing": "71", "volleys": "40", "dribbling": "73", "curve": "70", "free_kick_accuracy": "69", "long_passing": "68", "ball_control": "71", "acceleration": "79", "sprint_speed": "78", "agility": "78", "reactions": "67", "balance": "90", "shot_power": "71", "jumping": "85", "stamina": "79", "strength": "56", "long_shots": "60", "aggression": "68", "interceptions": "67", "positioning": "60", "vision": "66", "penalties": "59", "marking": "76", "standing_tackle": "75", "sliding_tackle": "78", "gk_diving": "14", "gk_handling": "7", "gk_kicking": "9", "gk_positioning": "9", "gk_reflexes": "12"}}
+{"question_id": "inf:single:Single-26:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-29:markdown:r1", "answer": [{"loser_rank": "36", "loser_name": "Misaki Doi"}, {"loser_rank": "12", "loser_name": "Dominika Cibulkova"}]}
+{"question_id": "inf:single:Single-2:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-32:markdown:r1", "answer": [5424, 5353]}
+{"question_id": "inf:single:Single-33:markdown:r1", "answer": null}
+{"question_id": "inf:single:Single-36:markdown:r1", "answer": [290, 1126, 1667, 1020, 250, 500, 917, 4260, 799, 815]}
+{"question_id": "inf:single:Single-36_INI:markdown:r1", "answer": 56}
+{"question_id": "inf:single:Single-37:markdown:r1", "answer": "1d7e3d5c-8ed5-525a-8344-498ea373a6ff"}
+{"question_id": "inf:single:Single-3:markdown:r1", "answer": 2006}
+{"question_id": "inf:single:Single-40:markdown:r1", "answer": {"recipe_id": "735", "protein": "5.62", "carbo": "17.06", "alcohol": "0", "total_fat": "1.19", "sat_fat": "0.16", "cholestrl": "0", "sodium": "73.27", "iron": "2.9", "vitamin_c": "204.48", "vitamin_a": "15165.6", "fiber": "2.56", "pcnt_cal_carb": "67.25", "pcnt_cal_fat": "10.58", "pcnt_cal_prot": "22.17", "calories": "101.46"}}
+{"question_id": "inf:single:Single-44:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-45:markdown:r1", "answer": {"id": 1, "team_fifa_api_id": 434, "team_api_id": 9930, "team_long_name": "FC Lorient", "team_short_name": "AAR", "date": "2010-02-22 00:00:00", "buildUpPlayPassing": "Mixed", "buildUpPlayPassingClass": "Organised"}}
+{"question_id": "inf:single:Single-47:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-48:markdown:r1", "answer": "Supported"}
+{"question_id": "inf:single:Single-4:markdown:r1", "answer": [26, 12, 16, 33, 7, 11, 18, 36, 32, 9, 28, 34, 22, 35, 30, 6, 19, 24, 29, 25]}
+{"question_id": "inf:single:Single-50:markdown:r1", "answer": {"book_id": "8797", "title": "The Return of the Dancing Master", "isbn13": "9781400076956", "language_id": "23", "num_pages": "406", "publication_date": "2005-02-08", "publisher_id": "2121"}}
+{"question_id": "inf:single:Single-52:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-53:markdown:r1", "answer": {"ID": "435459", "SEX": "F", "Birthday": "1959-03-08", "Description": "1997-08-20", "First Date": "1992-08-10", "Admission": "-", "Diagnosis": "SLE", "__ambiguous_markdown_row__": " "}}
+{"question_id": "inf:single:Single-54:markdown:r1", "answer": 29712}
+{"question_id": "inf:single:Single-55:markdown:r1", "answer": [190, 24671]}
+{"question_id": "inf:single:Single-56:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-58:markdown:r1", "answer": "dc82ee998151e05c5e87d48dcfb41ade"}
+{"question_id": "inf:single:Single-58_INI:markdown:r1", "answer": "dc82ee998151e05c5e87d48dcfb41ade"}
+{"question_id": "inf:single:Single-59:markdown:r1", "answer": [97394, 208888]}
+{"question_id": "inf:single:Single-5:markdown:r1", "answer": 5314}
+{"question_id": "inf:single:Single-60:markdown:r1", "answer": [315, 336, 347, 586, 295, 252, 253]}
+{"question_id": "inf:single:Single-61:markdown:r1", "answer": {"Id": "7", "PostId": "18", "Score": "1", "Text": "also the US census data http://www.census.gov/main/www/access.html", "CreationDate": "2010-07-19 19:25:47.0", "UserId": "36", "UserDisplayName": "nan"}}
+{"question_id": "inf:single:Single-64:markdown:r1", "answer": [2055, 741, 2058, 2061, 2057, 2056, 191, 2060, 2059, 1, 4038, 7, 4643, 2146, 2157, 1575, 25932, 2179, 1454, 4635, 2168, 2135, 1586, 567, 1553, 2201, 1564, 150, 2113, 2190, 2080, 2062, 2212, 3247, 2070, 2124, 4654, 1597, 2418, 2091, 2102, 725, 4767, 3483, 67, 1523, 3468, 4754, 1512, 3350]}
+{"question_id": "inf:single:Single-69:markdown:r1", "answer": 227}
+{"question_id": "inf:single:Single-6:markdown:r1", "answer": [5134580.0, 5420560.0, 4472140.0]}
+{"question_id": "inf:single:Single-71:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-72:markdown:r1", "answer": {"id": "17934", "date": "2004-10-04", "text": "Can target a card with no color words on it.", "uuid": "85feac1f-31e0-5d87-a3ad-6ffaddcb8e5f"}}
+{"question_id": "inf:single:Single-73:markdown:r1", "answer": "276"}
+{"question_id": "inf:single:Single-75:markdown:r1", "answer": "Supported"}
+{"question_id": "inf:single:Single-79:markdown:r1", "answer": "nan"}
+{"question_id": "inf:single:Single-7:markdown:r1", "answer": [1005, 266, 877, 402, 724, 1445, 708, 1143, 1297, 1067, 777, 366, 1395, 1157, 734, 523, 399, 1176, 401, 389, 1571, 417, 400, 265, 788, 1254, 388, 195, 297, 257, 1154, 44, 251, 1003, 322, 715, 259, 365, 49, 252, 437, 157, 1544, 280, 812, 685, 574, 206, 455, 638]}
+{"question_id": "inf:single:Single-80:markdown:r1", "answer": "Unsupported"}
+{"question_id": "inf:single:Single-81:markdown:r1", "answer": ["TR191", "TR012", "TR009", "TR319", "TR016"]}
+{"question_id": "inf:single:Single-82:markdown:r1", "answer": ["TR340_38_48"]}
+{"question_id": "inf:single:Single-86:markdown:r1", "answer": null}
+{"question_id": "inf:single:Single-88:markdown:r1", "answer": [{"id": 143653, "player_fifa_api_id": 188567, "player_api_id": 150565, "date": "2013-12-20 00:00:00", "overall_rating": 80, "potential": 83, "preferred_foot": "right", "attacking_work_rate": "high", "defensive_work_rate": "medium"}, {"id": 144925, "player_fifa_api_id": 167397, "player_api_id": 22543, "date": "2013-09-20 00:00:00", "overall_rating": 90, "potential": 92, "preferred_foot": "right", "attacking_work_rate": "high", "defensive_work_rate": "medium"}, {"id": 167614, "player_fifa_api_id": 190059, "player_api_id": 140819, "date": "2013-05-31 00:00:00", "overall_rating": 67, "potential": 80, "preferred_foot": "right", "attacking_work_rate": "high", "defensive_work_rate": "medium"}, {"id": 104027, "player_fifa_api_id": 138918, "player_api_id": 42651, "date": "2015-02-20 00:00:00", "overall_rating": 74, "potential": 74, "preferred_foot": "right", "attacking_work_rate": "medium", "defensive_work_rate": "high"}, {"id": 15237, "player_fifa_api_id": 170514, "player_api_id": 41769, "date": "2013-12-13 00:00:00", "overall_rating": 69, "potential": 72, "preferred_foot": "right", "attacking_work_rate": "medium", "defensive_work_rate": "high"}, {"id": 134921, "player_fifa_api_id": 170797, "player_api_id": 27365, "date": "2008-08-30 00:00:00", "overall_rating": 74, "potential": 84, "preferred_foot": "left", "attacking_work_rate": "high", "defensive_work_rate": "medium"}, {"id": 170859, "player_fifa_api_id": 183792, "player_api_id": 114068, "date": "2013-03-08 00:00:00", "overall_rating": 56, "potential": 65, "preferred_foot": "right", "attacking_work_rate": "medium", "defensive_work_rate": "high"}, {"id": 170692, "player_fifa_api_id": 45437, "player_api_id": 41869, "date": "2014-10-02 00:00:00", "overall_rating": 73, "potential": 73, "preferred_foot": "left", "attacking_work_rate": "medium", "defensive_work_rate": "high"}, {"id": 71413, "player_fifa_api_id": 192629, "player_api_id": 174472, "date": "2011-08-30 00:00:00", "overall_rating": 66, "potential": 74, "preferred_foot": "left", "attacking_work_rate": "high", "defensive_work_rate": "medium"}, {"id": 75542, "player_fifa_api_id": 189059, "player_api_id": 115681, "date": "2014-03-07 00:00:00", "overall_rating": 73, "potential": 80, "preferred_foot": "right", "attacking_work_rate": "medium", "defensive_work_rate": "high"}, {"id": 20840, "player_fifa_api_id": 157392, "player_api_id": 40006, "date": "2012-02-22 00:00:00", "overall_rating": 78, "potential": 82, "preferred_foot": "left", "attacking_work_rate": "medium", "defensive_work_rate": "high"}, {"id": 75338, "player_fifa_api_id": 105318, "player_api_id": 27599, "date": "2008-08-30 00:00:00", "overall_rating": 73, "potential": 78, "preferred_foot": "right", "attacking_work_rate": "high", "defensive_work_rate": "low"}, {"id": 63724, "player_fifa_api_id": 137228, "player_api_id": 42043, "date": "2013-02-15 00:00:00", "overall_rating": 71, "potential": 71, "preferred_foot": "right", "attacking_work_rate": "low", "defensive_work_rate": "high"}, {"id": 147306, "player_fifa_api_id": 178084, "player_api_id": 41163, "date": "2015-12-17 00:00:00", "overall_rating": 66, "potential": 66, "preferred_foot": "right", "attacking_work_rate": "high", "defensive_work_rate": "low"}]}
+{"question_id": "inf:single:Single-89:markdown:r1", "answer": [133382, 863155, 406320, 1043570.0, 1567380.0, 5303930.0, 2495750.0, 5392390.0, 5560620.0, 3463260.0, 5326090.0, 4900940.0, 5561140.0, 5395260.0, 5516620.0, 5581980.0, 1913400.0, 3385290.0, 5554860.0, 4792940.0, 3298490.0, 5707330.0, 2094060.0, 5713530.0, 5203370.0, 3696620.0, 5587070.0, 5499860.0, 5562290.0, 5556130.0, 3928700.0, 5605100.0, 5479320.0, 5544210.0]}
+{"question_id": "inf:single:Single-8:markdown:r1", "answer": {"id": "1096", "brewery_id": "467", "abv": "nan", "ibu": "nan", "name": "Tampa Pale Ale", "style": "American Pale Ale (APA)", "ounces": "12"}}
+{"question_id": "inf:single:Single-90:markdown:r1", "answer": [1807000.0, 133382, 863155, 1462440.0, 4600550.0, 5184280.0, 3046560.0, 5303930.0, 5392390.0, 2833340.0, 5246290.0, 5371740.0, 5105680.0, 4988960.0, 3691060.0, 5581980.0, 5554860.0, 5587070.0, 4738750.0, 5330670.0, 5277460.0, 5464470.0, 5439690.0, 5709770.0, 4861720.0, 5400270.0, 3727590.0, 5316900.0, 5552290.0, 5626150.0, 5479290.0, 5404650.0, 4547870.0]}
+{"question_id": "inf:single:Single-92:markdown:r1", "answer": ["-9134554182683979136", "-9088130283508605357", "-9130679781268614456", "-9186684847106725612", "-9061302922157907929", "-9097747613312563754", "-9054700749395691593", "-9065499242152393701", "-9099266952536585454", "-9169007045264936601", "-9155576106019233985", "-2841248234866715181", "-9146492723658503984", "-9207064395251582794", "-9109597676898086240", "-9205645091197548271"]}
+{"question_id": "inf:single:Single-94:markdown:r1", "answer": {"Id": "335", "PostId": "151", "Score": "13", "Text": "@robin girard: That is correct, hence why I preceded that point with \"The benefits of squaring include\". I wasn't implying that anything about absolute values in that statement. I take your point though, I'll consider removing/rephrasing it if others feel it is unclear.", "CreationDate": "2010-07-22 13:19:20.0", "UserId": "81", "UserDisplayName": "nan"}}
+{"question_id": "inf:single:Single-96_INI:markdown:r1", "answer": ["h"]}
+{"question_id": "inf:single:Single-97:markdown:r1", "answer": [4]}
+{"question_id": "inf:single:Single-98:markdown:r1", "answer": 37}
